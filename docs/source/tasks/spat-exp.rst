@@ -30,7 +30,6 @@ Learning session
 
 Recall session
 -----------
-
 .. code-block::
     **Structure**: Recall (1x repetition), free recall\
     **Duration**: ca. 10m\
