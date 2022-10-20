@@ -90,6 +90,7 @@ Settings for the main experiment:
   *	Verify that utilization of **audio trigger** is defined (``init.audioTrigger``; 1=on; 2=off)
   * Verify that the **paths** are defined correctly (``spatialExploration_paths_v3.m``):
 
+
 **Running the complete experiment:**
       When everything is done and the participant is ready, simple press **“Run”** from
       Matlab’s Editor tab or type ``spatialExploration_MASTER_v3`` into the command window.
@@ -98,11 +99,13 @@ Settings for the main experiment:
       participant will get a detailed instruction during the
       ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
 
+
 **Running individual sections:**
       Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
       main experiment (``spatialExploration_task_v3.m``), and recollection
       (``spatialExploration_recollection_v3.m``) can be run independently. You will
       be prompted for the relevant information in Matlab’s Command Window.
+
 
 **How to PAUSE, RESUME, SKIP, or ABORT the paradigm:**
     * The participant can **PAUSE** at any time.
@@ -145,6 +148,7 @@ Settings for the main experiment:
       that you have learned. You can make corrections using the ``backspace`` and ``R``
       keys on the keyboard. We will now show you the same environments as before.
       Please follow the routes that you have learned and retrace your steps.”*
+
 
 7. Comments/issues
 ------------
