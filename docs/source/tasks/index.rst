@@ -8,3 +8,4 @@ Overview
 .. toctree::
 
    belief-update
+   gabor
