@@ -40,7 +40,6 @@ Contents
 ----------------
 
 **Poster printing**:
-
 1. Go to the main entrance of the CRONA.
 2. Turn left towards the Kinderklinik.
 3. In the main lobby you should find elevators facing a playground + aquarium. Go down to floor 1. \
