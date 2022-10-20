@@ -79,6 +79,13 @@ Settings for the main experiment:
 	  | - ``spatialExploration_task_v3.m``: Main experiment
     | - ``spatialExploration_recollection_v3.m``: Free recall
 
+:Scripts:
+  | - ``script1.m`` -> Link to Git
+  | - ``script2.m`` -> Link to Git
+  | - ``script3.m`` -> Link to Git
+  | - ``script4.m`` -> Link to Git
+  | - ``script5.m`` -> Link to Git
+
 5. Experimenter instructions
 ------
 

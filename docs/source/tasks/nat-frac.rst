@@ -28,7 +28,7 @@ Contents
 1. Task descriptives
 ------
 
-:##:
+:Recording session:
     | **Structure:**  [...Pending...]
     | **Duration:**   [...Pending...]
     | **Blocks:**     [...Pending...]
@@ -61,6 +61,13 @@ In the first section of the master script you will find the following required v
     | - ``script1.m``: [Function description]
     | - ``script2.m``: [Function description]
     | - ``script3.m``: [Function description]
+
+:Scripts:
+  | - ``script1.m`` -> Link to Git
+  | - ``script2.m`` -> Link to Git
+  | - ``script3.m`` -> Link to Git
+  | - ``script4.m`` -> Link to Git
+  | - ``script5.m`` -> Link to Git
 
 5. Experimenter instructions
 ------

@@ -63,7 +63,7 @@ Upcoming Conferences
 | Conference    | Location        | Dates         | Abstract    | Registration|
 |               |                 |               | deadline    | deadline    |
 +===============+=================+===============+=============+=============+
-| Learning &\   | Huntington      | 26-30/04/2023 | 30/09/2022  | 01/11/2022  |
+| Learning &    | Huntington      | 26-30/04/2023 | 30/09/2022  | 01/11/2022  |
 | memory 2023   | Beach, CA, USA  |               |             |             |
 +---------------+-----------------+---------------+-------------+-------------+
 | Univ. Salzburg| Werfenweng,     | 08-09/02/2023 | Pending     | 15/10/2022  |
