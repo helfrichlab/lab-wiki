@@ -20,7 +20,7 @@ Contents
 --------
 
 .. toctree::
-  :titlesonly:
+  :maxdepth:1
 
    lab-related
    tasks/index
