@@ -25,5 +25,8 @@ Contents
 
    agenda
    lab-related
-   tasks/index
    methods/index
+   tasks/index
+   scripts/index
+   manuals-tutorials/index
+   resources/index
