@@ -1,34 +1,14 @@
-Usage
+Lab Related
 =====
 
-.. _installation:
+.. _conferences:
 
-Installation
+Upcoming Conferences
 ------------
 
-To use Lumache, first install it using pip:
+[table here]
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
+Account Passwords
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Talk to our Lab Wizard to get access to our _very important_ passwords
