@@ -7,13 +7,13 @@ Spatial Exploration task (SpatExpl)
 .. autosummary::
    :toctree: generated
 
- Descriptives:
+ .. Descriptives:
  ------
-**From HelfrichLab**
-**Authors:** Frank van Schalkwijk & Randolph Helfrich
-**Run on:** Psychtoolbox
-**Age:**
-**Contact:** frank.schalkwijk@uni-tuebingen.de
+**From HelfrichLab** \
+**Authors:** Frank van Schalkwijk & Randolph Helfrich \
+**Run on:** Psychtoolbox \
+**Age:** \
+**Contact:** frank.schalkwijk@uni-tuebingen.de \
 
 .. Learning session::
     **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
@@ -46,8 +46,8 @@ Spatial Exploration task (SpatExpl)
     **Skip trial**: Enabled. Press 's' to skip to the next trial\
 
 Contents
- ------::
-
+ ------
+ ::
   1. Equipment
   2. Set Up
   3. Scripts
@@ -61,23 +61,20 @@ Equipment
 
 Set up
 ------
-
 1.	Identify participant ID (e.g., ‘TUE01’) and session type (1=learning; 2 = recall).
     Logfiles will be dynamically and uniquely named based on patient ID, so no files will be overwritten.
 
 2.	In the first section of the master script you will find the following required variables that have to be manually updated:
-
-  *	**“init.ID”** 		      - Define participant ID (as string [e.g., ‘TUE01’])
-  *	**“init.sessionType”** 	- Define session type as number [1 = learning; 2 = recall])
-  *	**“init.nSquares”**     - Define the dimension of the maze (NxN; define as number [e.g., 5]; range: 4-6)
-  *	**“init.PDlocation”**   - Define the photodiode location (1=bottom-left corner; 2=bottom-right corner)
-  *	**“init.audioTrigger”** - Define utilization of audio triggers as number (1=yes; 0=no);
+  *	**“init.ID”** 		      - Participant ID (as string [e.g., ‘TUE01’])
+  *	**“init.sessionType”** 	- Session type [1 = learning; 2 = recall])
+  *	**“init.nSquares”**     - Maze dimension (NxN; define as number [e.g., 5]; range: 4-6)
+  *	**“init.PDlocation”**   - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
+  *	**“init.audioTrigger”** - Audio triggers (1=yes; 0=no)
 
 3.	In case of photodiode scaling being too large/small: the photodiode size can be scaled in the task script (“spatialExploration_task_v3.m”) under settings [“settings.PDscaling”]).
 
 Script
 ------
-
 *	Master script that runs all sub-scripts/functions [“spatialExploration_MASTER_v3.m”]
 *	4 subscripts (will run in the same order as listed)
     - *spatialExploration_paths_v3.m* \
@@ -92,7 +89,6 @@ Script
 
 Instructions
 ------
-
 **Experimenter Instructions**
 
 1. Checklist prior to the experiment:

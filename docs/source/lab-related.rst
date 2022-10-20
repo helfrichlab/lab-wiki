@@ -6,17 +6,18 @@ Lab Related
 New arrivals
 ------------
 
-1. Getting an access card
+1. **Access card** to the HIH
     Readme -> Git/Google document (?)
     Contact: Silke.Burkhardt<at>med.uni-tuebingen.de
 
-2. CIN profile for Helfrich cluster
+2. **CIN profile** for Helfrich cluster
    Readme -> Git/Google document (?)
 
 Forms and admin:
 ----------------
 
-* 'Hertie intranet login <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user/>'_
+* 'Hertie intranet login'_.
+.. _login: https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user/
 
 * Holiday Form          -> Git/Google document (?)
 
