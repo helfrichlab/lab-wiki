@@ -17,13 +17,13 @@ Task descriptives
 ------
 
 :Learning session:
-    | Structure: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
-    | Duration: ca. 40m\
-    | Blocks: 3\
-    | Trials: 30\
-    | Pause: NA. Pause is self-implemented\
-    | Abort: Enabled. Press ``esc`` to abort\
-    | Skip trial: Enabled. Press ``s`` to skip to the next trial\
+    | **Structure:** Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
+    | **Duration:** ca. 40m\
+    | **Blocks:** 3\
+    | **Trials:** 30\
+    | **Pause:** NA. Pause is self-implemented\
+    | **Abort:** Enabled. Press ``esc`` to abort\
+    | **Skip trial:** Enabled. Press ``s`` to skip to the next trial\
 
 :Recall session:
     | Structure: Recall (1x repetition), free recall
