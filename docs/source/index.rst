@@ -20,8 +20,8 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
 
    lab-related
    tasks/index
    methods/index
-   ddd
