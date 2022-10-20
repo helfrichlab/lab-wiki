@@ -1,7 +1,7 @@
 .. include:: /Includes.rst.txt
 
 ========
-Manuals & tutorials
+Manuals & Tutorials
 ========
 
 .. toctree::
