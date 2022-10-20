@@ -19,27 +19,26 @@ Spatial Exploration task (SpatExpl)
 Learning session
 -----------
 
-.. note::
-
-    **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
-    **Duration**: ca. 40m\
-    **Blocks**: 3\
-    **Trials**: 30\
-    **Pause**: NA. Pause is self-implemented\
-    **Abort**: Enabled. Press ``esc`` to abort\
-    **Skip trial**: Enabled. Press ``s`` to skip to the next trial\
+:Learning session: 
+    Structure: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
+    Duration: ca. 40m\
+    Blocks: 3\
+    Trials: 30\
+    Pause: NA. Pause is self-implemented\
+    Abort: Enabled. Press ``esc`` to abort\
+    Skip trial: Enabled. Press ``s`` to skip to the next trial\
 
 Recall session
 -----------
-.. comments
+.. code-block::
 
-    **Structure**: Recall (1x repetition), free recall\
-    **Duration**: ca. 10m\
-    **Blocks**: 1\
-    **Trials**: 10\
-    **Pause**: NA. Pause is self-implemented\
-    **Abort**: Enabled. Press ``esc`` to abort\
-    **Skip trial**: Enabled. Press ``s`` to skip to the next trial\
+    Structure: Recall (1x repetition), free recall\
+    Duration: ca. 10m\
+    Blocks: 1\
+    Trials: 10\
+    Pause: NA. Pause is self-implemented\
+    Abort: Enabled. Press ``esc`` to abort\
+    Skip trial: Enabled. Press ``s`` to skip to the next trial\
 
 Contents
 ------
@@ -110,7 +109,6 @@ Settings for the main experiment
   that there is no need to do anything once the paradigm has started. The
   participant will get a detailed instruction during the
   ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
-
 
 .. code-block::
   :caption: Running individual sections
