@@ -27,7 +27,7 @@ Forms and admin:
 Account Passwords
 ----------------
 .. note::
-    Talk to our Lab Wizard to get access to our _very important_ passwords
+    Talk to our Lab Wizard to get access to our *very important* passwords
 
 Other:
 ----------------

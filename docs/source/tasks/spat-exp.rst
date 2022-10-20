@@ -1,8 +1,7 @@
 .. include:: /Includes.rst.txt
 
 ======
-Spatial Exploration task
-(SpatExpl)
+Spatial Exploration (SpatExpl)
 ======
 
 .. autosummary::
@@ -17,7 +16,8 @@ Spatial Exploration task
 | **Contact:** frank.schalkwijk@uni-tuebingen.de
 
 Learning session
------------ ::.
+-----------
+
 
     **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
     **Duration**: ca. 40m\
@@ -28,8 +28,8 @@ Learning session
     **Skip trial**: Enabled. Press 's' to skip to the next trial\
 
 Recall session
------------ 
-::.
+-----------
+
     **Structure**: Recall (1x repetition), free recall\
 
     **Duration**: ca. 40m\
@@ -46,18 +46,20 @@ Recall session
 
 Contents
 ------
-::.
+
   1. Equipment
   2. Set Up
   3. Scripts
   4. Instructions
   5. Timing
 
+
 Equipment
 ------
-::.
+
 1. Stimulus laptop
 2. Photodiode
+
 
 Set up
 ------
@@ -70,6 +72,7 @@ Set up
   *	``init.PDlocation``   - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
   *	``init.audioTrigger`` - Audio triggers (1=yes; 0=no)
 3.	In case of photodiode scaling being too large/small: the photodiode size can be scaled in the task script (“spatialExploration_task_v3.m”) under settings [“settings.PDscaling”]).
+
 
 Script
 ------
@@ -139,7 +142,7 @@ How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm
   Data are stored automatically, also when you abort.
 
 Instructions
------------------
+------
 
 .. code-block::
   :caption: Instructions for ``spatialExploration_instruction_v3.m``:
@@ -175,10 +178,10 @@ Instructions
     Please follow the routes that you have learned and retrace your steps.”
 
 Comments/issues
-------------
+-----
 
 Psychtoolbox related:
--------------
+-----
 *	**Synchronization issues**. You can uncomment 'Screen('Preference', 'SkipSyncTests', 1);'
   in the “Psychtoolbox initialization” section (very top of the scripts) to alleviate
   this error. Note that this could potentially result in timing issues.

@@ -8,12 +8,12 @@ Belief Update
    :toctree: generated
 
 
-.. note::
-    |**Structure**: Coherence calibration, localizer, training session, main task\
-    |**Duration**: ca. 1h\
-    |**Blocks**: 4\
-    |**Trials**: 320\
-    |**Pause**: enabled during random dots response or ITI\
+|**Authors**: Gabriela Iwama
+|**Structure**: Coherence calibration, localizer, training session, main task
+|**Duration**: ca. 1h
+|**Blocks**: 4 of 80 trials
+|**Trials**: 320
+|**Pause**: enabled during random dots response or ITI
 
 
 
