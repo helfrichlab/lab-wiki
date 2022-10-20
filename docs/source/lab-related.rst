@@ -16,8 +16,7 @@ New arrivals
 Forms and admin:
 ----------------
 
-* 'Hertie intranet login'_.
-.. _login: https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user/
+* .. _Hertie intranet login:  https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user/
 
 * Holiday Form          -> Git/Google document (?)
 
