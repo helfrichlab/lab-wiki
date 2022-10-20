@@ -1,7 +1,7 @@
 .. include:: /Includes.rst.txt
 
 ======
-Spatial Exploration task (SpatExpl)
+Spatial Exploration task
 ======
 
 .. autosummary::
@@ -91,24 +91,22 @@ Settings for the main experiment:
   * Verify that the **paths** are defined correctly (``spatialExploration_paths_v3.m``):
 
 **Running the complete experiment:**
-
 .. code-block::
 
-    When everything is done and the participant is ready, simple press **“Run”** from
-    Matlab’s Editor tab or type ``spatialExploration_MASTER_v3`` into the command window.
-    The master script calls all the sub-functions and scripts automatically, so
-    that there is no need to do anything once the paradigm has started. The
-    participant will get a detailed instruction during the
-    ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
+      When everything is done and the participant is ready, simple press **“Run”** from
+      Matlab’s Editor tab or type ``spatialExploration_MASTER_v3`` into the command window.
+      The master script calls all the sub-functions and scripts automatically, so
+      that there is no need to do anything once the paradigm has started. The
+      participant will get a detailed instruction during the
+      ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
 
 **Running individual sections:**
-
 .. code-block::
 
-    Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
-    main experiment (``spatialExploration_task_v3.m``), and recollection
-    (``spatialExploration_recollection_v3.m``) can be run independently. You will
-    be prompted for the relevant information in Matlab’s Command Window.
+      Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
+      main experiment (``spatialExploration_task_v3.m``), and recollection
+      (``spatialExploration_recollection_v3.m``) can be run independently. You will
+      be prompted for the relevant information in Matlab’s Command Window.
 
 **How to PAUSE, RESUME, SKIP, or ABORT the paradigm:**
 .. code-block::
