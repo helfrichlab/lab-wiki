@@ -7,38 +7,32 @@ Spatial Exploration task (SpatExpl)
 .. autosummary::
    :toctree: generated
 
- Descriptives
- ------
-
 | **From HelfrichLab**
 | **Authors:** Frank van Schalkwijk & Randolph Helfrich
 | **Run on:** Psychtoolbox
 | **Age:**
 | **Contact:** frank.schalkwijk@uni-tuebingen.de
 
-Learning session
------------
+Task descriptives
+------
 
-:Learning session: 
-    Structure: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
-    Duration: ca. 40m\
-    Blocks: 3\
-    Trials: 30\
-    Pause: NA. Pause is self-implemented\
-    Abort: Enabled. Press ``esc`` to abort\
-    Skip trial: Enabled. Press ``s`` to skip to the next trial\
+:Learning session:
+    | Structure: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
+    | Duration: ca. 40m\
+    | Blocks: 3\
+    | Trials: 30\
+    | Pause: NA. Pause is self-implemented\
+    | Abort: Enabled. Press ``esc`` to abort\
+    | Skip trial: Enabled. Press ``s`` to skip to the next trial\
 
-Recall session
------------
-.. code-block::
-
-    Structure: Recall (1x repetition), free recall\
-    Duration: ca. 10m\
-    Blocks: 1\
-    Trials: 10\
-    Pause: NA. Pause is self-implemented\
-    Abort: Enabled. Press ``esc`` to abort\
-    Skip trial: Enabled. Press ``s`` to skip to the next trial\
+:Recall session:
+    | Structure: Recall (1x repetition), free recall
+    | Duration: ca. 10m
+    | Blocks: 1
+    | Trials: 10
+    | Pause: NA. Pause is self-implemented
+    | Abort: Enabled. Press ``esc`` to abort
+    | Skip trial: Enabled. Press ``s`` to skip to the next trial
 
 Contents
 ------
