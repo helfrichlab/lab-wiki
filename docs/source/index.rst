@@ -1,22 +1,25 @@
-Welcome to Lumache's documentation!
+Helfrich's Lab Wiki!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+A place to search for the answer of life, the universe, and everything.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+===================================
+
+This is an internal wiki for our lab. If you are looking for more information
+about our projects, members, and open positions, check our
+`website <https://helfrich-lab.com/>.
+
 
 .. note::
 
-   This project is under active development.
+   This wiki is under active development. Check
+   `here <https://docs.readthedocs.io/en/stable/index.html>`_
+   how to edit this wiki page.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   lab-related
+   tasks
