@@ -13,8 +13,8 @@ about our projects, members, and open positions, check our
 .. note::
 
    This wiki is under active development. Check
-   `here <https://docs.readthedocs.io/en/stable/index.html>`_
-   how to edit this wiki page.
+   `here <https://docs.readthedocs.io/en/stable/index.html>`_ and
+   `here <https://docs.typo3.org/>`_ how to edit this wiki page.
 
 Contents
 --------
