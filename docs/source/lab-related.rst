@@ -3,44 +3,48 @@ Lab Related
 
 .. _Administrative:
 
-New arrivals
+Contents
+------
+.. code-block::
+
+  1. New arrivals
+  2. Forms and admin
+  3. Account Passwords
+  4. Other
+
+
+1. New arrivals
 ------------
 
-1. **Access card** to the HIH
+* **Access card** to the HIH
     Readme -> Git/Google document (?)
     Contact: Silke.Burkhardt<at>med.uni-tuebingen.de
 
-2. **CIN profile** for Helfrich cluster
+* **CIN profile** for Helfrich cluster
    Readme -> Git/Google document (?)
 
-Forms and admin:
+2. Forms and admin
 ----------------
 
 * `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
-
 * Holiday Form          -> Git/Google document (?)
-
 * Travel Reimbursement  -> Git/Google document (?)
-
 * COVID form            -> Git/Google document (?)
 
-Account Passwords
+3. Account Passwords
 ----------------
 .. note::
     Talk to our Lab Wizard to get access to our *very important* passwords.
 
-Other:
+4. Other:
 ----------------
+
 **Poster printing**:
 
 1. Go to the main entrance of the CRONA.
-
 2. Turn left towards the Kinderklinik.
-
 3. In the main lobby you should find elevators facing a playground + aquarium. Go down to floor 1. \
-
 4. In the basement, turn left through the glass doors.
-
 5. On your right you should see some 'half stairs' leading up to a single door. This is where the print center is located. \
 
  .. note::

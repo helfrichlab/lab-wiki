@@ -69,7 +69,7 @@ Settings for the main experiment:
 .. note::
   The photodiode size can be scaled (``settings.PDscaling``)
 
-4. Script
+4. Scripts
 ------
 *	**Master script** that runs all sub-scripts/functions (``spatialExploration_MASTER_v3.m``)
 *	**Four subscripts** (will run in the order listed)
