@@ -46,7 +46,6 @@ Contents
     | **Abort:** Enabled. Press ``esc`` to abort
     | **Skip trial:** Enabled. Press ``s`` to skip to the next trial
 
-
 2. Equipment
 ------
 :Hardware used:
@@ -91,9 +90,7 @@ Settings for the main experiment:
   *	Verify that utilization of **audio trigger** is defined (``init.audioTrigger``; 1=on; 2=off)
   * Verify that the **paths** are defined correctly (``spatialExploration_paths_v3.m``):
 
-
-**Running the complete experiment:**
-.. code-block::
+**Running the complete experiment:**::
 
   When everything is done and the participant is ready, simple press **“Run”** from
   Matlab’s Editor tab or type ``spatialExploration_MASTER_v3`` into the command window.
@@ -102,15 +99,16 @@ Settings for the main experiment:
   participant will get a detailed instruction during the
   ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
 
-**Running individual sections:**
-.. code-block::
+**Running individual sections:**::
 
+.. code-block::
   Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
   main experiment (``spatialExploration_task_v3.m``), and recollection
   (``spatialExploration_recollection_v3.m``) can be run independently. You will
   be prompted for the relevant information in Matlab’s Command Window.
 
 **How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm:**
+
 .. code-block::
 
   * The participant can **PAUSE** at any time.
@@ -162,6 +160,7 @@ Settings for the main experiment:
 ------------
 
 **Psychtoolbox related:**
+
 :Synchronization issues:
   You can uncomment 'Screen('Preference', 'SkipSyncTests', 1);' in the
   “Psychtoolbox initialization” section (very top of the scripts) to alleviate
