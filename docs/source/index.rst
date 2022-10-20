@@ -22,6 +22,7 @@ Contents
 .. toctree::
    :maxdepth:2
 
+   agenda
    lab-related
    tasks/index
    methods/index
