@@ -50,8 +50,8 @@ Contents
 2. Equipment
 ------
 :Hardware used:
-  | **Stimulus laptop**
-  | **Photodiode**
+  | Stimulus laptop
+  | Photodiode
 
 3. Set up
 ------
@@ -74,15 +74,11 @@ Settings for the main experiment:
 ------
 *	**Master script** that runs all sub-scripts/functions (``spatialExploration_MASTER_v3.m``)
 *	**Four subscripts** (will run in the order listed)
-    | - ``spatialExploration_paths_v3.m``\
-      Determine paths relevant to the paradigm
-    | - ``spatialExploration_instruction_v3.m``\
-      Provides general task instructions and a demo task to familiarize the patient with the task \
-      (note: only applicable for learning session)
-	  | - ``spatialExploration_task_v3.m``\
-	    Main experiment
-    | - ``spatialExploration_recollection_v3.m``\
-      Free recollection of main experiment
+    | - ``spatialExploration_paths_v3.m``: sets path
+    | - ``spatialExploration_instruction_v3.m``:  Task instructions and demo
+    |     *(note: only applicable for learning session)*
+	  | - ``spatialExploration_task_v3.m``: Main experiment
+    | - ``spatialExploration_recollection_v3.m``: Free recall
 
 5. Experimenter instructions
 ------
@@ -93,10 +89,12 @@ Settings for the main experiment:
   *	Verify **maze size** is defined (``init.nSquares``; range 4-6)
   *	Verify that the **photodiode location** is set correctly (``init.PDlocation``; 1=left; 2=right)
   *	Verify that utilization of **audio trigger** is defined (``init.audioTrigger``; 1=on; 2=off)
-2. General checklist for experiment:
   * Verify that the **paths** are defined correctly (``spatialExploration_paths_v3.m``):
 
-:Running the complete experiment:
+
+**Running the complete experiment:**
+.. code-block::
+
   When everything is done and the participant is ready, simple press **“Run”** from
   Matlab’s Editor tab or type ``spatialExploration_MASTER_v3`` into the command window.
   The master script calls all the sub-functions and scripts automatically, so
@@ -104,13 +102,17 @@ Settings for the main experiment:
   participant will get a detailed instruction during the
   ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
 
-:Running individual sections:
+**Running individual sections:**
+.. code-block::
+
   Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
   main experiment (``spatialExploration_task_v3.m``), and recollection
   (``spatialExploration_recollection_v3.m``) can be run independently. You will
   be prompted for the relevant information in Matlab’s Command Window.
 
-:How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm:
+**How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm:**
+.. code-block::
+
   * The participant can **PAUSE** at any time.
   * You can **ABORT** at any time by pressing ``Escape``
   * You can **SKIP** any trial by pressing ``s``
@@ -125,7 +127,9 @@ Settings for the main experiment:
 6. Patient instructions
 -----------------
 
-:Instructions for ``spatialExploration_instruction_v3.m``:
+**Instructions for ``spatialExploration_instruction_v3.m``**
+.. code-block::
+
     "Welcome to the spatial exploration task. The goal is to move the cursor to the
     target. You can use the arrow keys on the keyboard to move the cursor to the
     target. There are some hidden obstacles in your path. Try to remember their
@@ -135,7 +139,9 @@ Settings for the main experiment:
     the path for each picture. We will first show you some examples. The task
     will begin when you press spacebar. Good luck!”
 
-:Instructions for ``spatialExploration_task_v3.m``:
+**Instructions for ``spatialExploration_task_v3.m``**
+.. code-block::
+
     “Welcome to the spatial exploration task. The goal is to move the cursor to the
     target. You can use the arrow keys on the keyboard to move the cursor to the target.
     There are some hidden obstacles in your path. Try to remember their location to
@@ -144,7 +150,9 @@ Settings for the main experiment:
     After you have completed the task, we will ask you to remember the path for
     each picture. The task will begin when you press spacebar. Good luck!”
 
-:Instructions for ``spatialExploration_recollection_v3.m``:
+**Instructions for ``spatialExploration_recollection_v3.m``**
+.. code-block::
+
       “We will now show you the same environments as before. Please follow the routes
       that you have learned. You can make corrections using the ``backspace`` and ``R``
       keys on the keyboard. We will now show you the same environments as before.
@@ -153,8 +161,11 @@ Settings for the main experiment:
 7. Comments/issues
 ------------
 
-:Psychtoolbox related:
-  *	**Synchronization issues**. You can uncomment 'Screen('Preference', 'SkipSyncTests', 1);'
-  in the “Psychtoolbox initialization” section (very top of the scripts) to alleviate
+**Psychtoolbox related:**
+:Synchronization issues:
+  You can uncomment 'Screen('Preference', 'SkipSyncTests', 1);' in the
+  “Psychtoolbox initialization” section (very top of the scripts) to alleviate
   this error. Note that this could potentially result in timing issues.
-  *	**Screen not cooperating (MEX error)**. Potential fix: restart script or restart Matlab.
+
+:MEX error:
+  Potential fix: restart script or restart Matlab.
