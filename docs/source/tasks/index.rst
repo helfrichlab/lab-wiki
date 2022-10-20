@@ -9,3 +9,5 @@ Overview
 
    belief-update
    gabor
+   ior
+   mandel-brot

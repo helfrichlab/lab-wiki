@@ -7,7 +7,7 @@ A place to search for the answer of life, the universe, and everything.
 
 This is an internal wiki for our lab. If you are looking for more information
 about our projects, members, and open positions, check our
-`website <https://helfrich-lab.com/>`.
+`website <https://helfrich-lab.com/>`_.
 
 
 .. note::
