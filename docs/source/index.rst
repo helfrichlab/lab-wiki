@@ -22,6 +22,7 @@ Contents
 .. toctree::
    :titlesonly:
 
+   agenda
    lab-related
    tasks/index
    methods/index
