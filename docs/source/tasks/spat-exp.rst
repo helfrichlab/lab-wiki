@@ -1,16 +1,15 @@
 .. include:: /Includes.rst.txt
 
 ======
-Spatial Exploration (SpatExpl)
+Spatial Exploration task
+(SpatExpl)
 ======
 
 .. autosummary::
    :toctree: generated
 
-
  Descriptives
  ------
-
 | **From HelfrichLab**
 | **Authors:** Frank van Schalkwijk & Randolph Helfrich
 | **Run on:** Psychtoolbox
@@ -19,41 +18,47 @@ Spatial Exploration (SpatExpl)
 
 Learning session
 -----------
-
-| **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
-| **Duration**: ca. 40m\
-| **Blocks**: 3\
-| **Trials**: 30\
-| **Pause**: NA. Pause is self-implemented\
-| **Abort**: Enabled. Press 'esc' to abort\
-| **Skip trial**: Enabled. Press 's' to skip to the next trial\
+.. code-block::
+    **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
+    **Duration**: ca. 40m\
+    **Blocks**: 3\
+    **Trials**: 30\
+    **Pause**: NA. Pause is self-implemented\
+    **Abort**: Enabled. Press 'esc' to abort\
+    **Skip trial**: Enabled. Press 's' to skip to the next trial\
 
 Recall session
 -----------
-| **Structure**: Recall (1x repetition), free recall\
-| **Duration**: ca. 40m\
-| **Blocks**: 3\
-| **Trials**: 30\
-| **Pause**: NA. Pause is self-implemented\
-| **Abort**: Enabled. Press 'esc' to abort\
-| **Skip trial**: Enabled. Press 's' to skip to the next trial\
+.. code-block::
+
+    **Structure**: Recall (1x repetition), free recall\
+
+    **Duration**: ca. 40m\
+
+    **Blocks**: 3\
+
+    **Trials**: 30\
+
+    **Pause**: NA. Pause is self-implemented\
+
+    **Abort**: Enabled. Press 'esc' to abort\
+
+    **Skip trial**: Enabled. Press 's' to skip to the next trial\
 
 Contents
 ------
-
+::.
   1. Equipment
   2. Set Up
   3. Scripts
   4. Instructions
   5. Timing
 
-
 Equipment
 ------
-
+::.
 1. Stimulus laptop
 2. Photodiode
-
 
 Set up
 ------
@@ -65,16 +70,15 @@ Set up
   *	``init.nSquares``     - Maze dimension (NxN; define as number [e.g., 5]; range: 4-6)
   *	``init.PDlocation``   - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
   *	``init.audioTrigger`` - Audio triggers (1=yes; 0=no)
-3.	In case of photodiode scaling being too large/small: the photodiode size can be scaled in the task script (“spatialExploration_task_v3.m”) under settings [“settings.PDscaling”]).
-
+3.	In case of photodiode scaling being too large/small: the photodiode size can be scaled in the task script (``spatialExploration_task_v3.m``) under settings [``settings.PDscaling``]).
 
 Script
 ------
 *	Master script that runs all sub-scripts/functions [“spatialExploration_MASTER_v3.m”]
 *	4 subscripts (will run in the same order as listed)
-    - ``spatialExploration_paths_v3.m`` \
+    - ``spatialExploration_paths_v3.m``\
       Determine paths relevant to the paradigm
-    - ``*``spatialExploration_instruction_v3.m``\
+    - ``spatialExploration_instruction_v3.m``\
       Provides general task instructions and a demo task to familiarize the patient with the task \
       (note: only applicable for learning session)
 	  - ``spatialExploration_task_v3.m``\
@@ -114,8 +118,8 @@ Settings for the main experiment
   ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
 
 
-  .. code-block::
-    :caption: Running individual sections
+.. code-block::
+  :caption: Running individual sections
 
   Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
   main experiment (``spatialExploration_task_v3.m``), and recollection
@@ -128,6 +132,7 @@ How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm
 * You can **ABORT** at any time during the instructions, main experiment, or
   recollection by pressing ``Escape``
 * You can **SKIP** any trial by pressing ``S``
+* During free recall, you can make corrections using ``backspace`` and ``R``
 
 .. note::
   Please make sure to only use the abort and stop options if the participant cannot continue the experiment.
@@ -136,7 +141,7 @@ How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm
   Data are stored automatically, also when you abort.
 
 Instructions
-------
+-----------------
 
 .. code-block::
   :caption: Instructions for ``spatialExploration_instruction_v3.m``:
@@ -163,7 +168,7 @@ Instructions
   After you have completed the task, we will ask you to remember the path for
   each picture. The task will begin when you press spacebar. Good luck!”
 
-  .. code-block::
+.. code-block::
     :caption: Instructions for ``spatialExploration_recollection_v3.m``:
 
     “We will now show you the same environments as before. Please follow the routes
@@ -172,10 +177,10 @@ Instructions
     Please follow the routes that you have learned and retrace your steps.”
 
 Comments/issues
------
+------------
 
 Psychtoolbox related:
------
+-------------
 *	**Synchronization issues**. You can uncomment 'Screen('Preference', 'SkipSyncTests', 1);'
   in the “Psychtoolbox initialization” section (very top of the scripts) to alleviate
   this error. Note that this could potentially result in timing issues.
