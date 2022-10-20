@@ -1,8 +1,7 @@
 .. include:: /Includes.rst.txt
 
 ======
-Spatial Exploration task
-(SpatExpl)
+Spatial Exploration task (SpatExpl)
 ======
 
 .. autosummary::
@@ -10,6 +9,7 @@ Spatial Exploration task
 
  Descriptives
  ------
+
 | **From HelfrichLab**
 | **Authors:** Frank van Schalkwijk & Randolph Helfrich
 | **Run on:** Psychtoolbox
@@ -18,36 +18,30 @@ Spatial Exploration task
 
 Learning session
 -----------
+
 .. code-block::
     **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
     **Duration**: ca. 40m\
     **Blocks**: 3\
     **Trials**: 30\
     **Pause**: NA. Pause is self-implemented\
-    **Abort**: Enabled. Press 'esc' to abort\
-    **Skip trial**: Enabled. Press 's' to skip to the next trial\
+    **Abort**: Enabled. Press ``esc`` to abort\
+    **Skip trial**: Enabled. Press ``s`` to skip to the next trial\
 
 Recall session
 -----------
+
 .. code-block::
-
     **Structure**: Recall (1x repetition), free recall\
-
-    **Duration**: ca. 40m\
-
-    **Blocks**: 3\
-
-    **Trials**: 30\
-
+    **Duration**: ca. 10m\
+    **Blocks**: 1\
+    **Trials**: 10\
     **Pause**: NA. Pause is self-implemented\
-
-    **Abort**: Enabled. Press 'esc' to abort\
-
-    **Skip trial**: Enabled. Press 's' to skip to the next trial\
+    **Abort**: Enabled. Press ``esc`` to abort\
+    **Skip trial**: Enabled. Press ``s`` to skip to the next trial\
 
 Contents
 ------
-::.
   1. Equipment
   2. Set Up
   3. Scripts
@@ -56,7 +50,6 @@ Contents
 
 Equipment
 ------
-::.
 1. Stimulus laptop
 2. Photodiode
 
@@ -70,7 +63,7 @@ Set up
   *	``init.nSquares``     - Maze dimension (NxN; define as number [e.g., 5]; range: 4-6)
   *	``init.PDlocation``   - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
   *	``init.audioTrigger`` - Audio triggers (1=yes; 0=no)
-3.	In case of photodiode scaling being too large/small: the photodiode size can be scaled in the task script (``spatialExploration_task_v3.m``) under settings [``settings.PDscaling``]).
+3.	In case of photodiode scaling being too large/small: the photodiode size can be scaled in the task script (``spatialExploration_task_v3.m``) under settings ()``settings.PDscaling``).
 
 Script
 ------
@@ -132,7 +125,7 @@ How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm
 * You can **ABORT** at any time during the instructions, main experiment, or
   recollection by pressing ``Escape``
 * You can **SKIP** any trial by pressing ``S``
-* During free recall, you can make corrections using ``backspace`` and ``R``
+* During free recall, you can make **corrections** using ``backspace`` and ``R``
 
 .. note::
   Please make sure to only use the abort and stop options if the participant cannot continue the experiment.
