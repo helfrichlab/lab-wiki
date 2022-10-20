@@ -23,4 +23,5 @@ Contents
 
    lab-related
    tasks/index
+   methods/index
    ddd
