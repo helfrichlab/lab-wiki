@@ -20,8 +20,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth:2
 
    lab-related
    tasks/index
    methods/index
-   ddd
