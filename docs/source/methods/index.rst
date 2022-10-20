@@ -5,7 +5,6 @@ Methods
 ========
 
 .. toctree::
-   :hidden:
    :glob:
    :titlesonly:
 
