@@ -20,6 +20,7 @@ Learning session
 -----------
 
 .. code-block::
+
     **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
     **Duration**: ca. 40m\
     **Blocks**: 3\
@@ -31,6 +32,7 @@ Learning session
 Recall session
 -----------
 .. code-block::
+
     **Structure**: Recall (1x repetition), free recall\
     **Duration**: ca. 10m\
     **Blocks**: 1\
