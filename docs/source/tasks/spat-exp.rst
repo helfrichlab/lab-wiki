@@ -143,38 +143,35 @@ How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm
 Instructions
 -----------------
 
-.. code-block::
-  :caption: Instructions for ``spatialExploration_instruction_v3.m``:
+.. topic:: Instructions for ``spatialExploration_instruction_v3.m``
 
-  "Welcome to the spatial exploration task. The goal is to move the cursor to the
-  target. You can use the arrow keys on the keyboard to move the cursor to the
-  target. There are some hidden obstacles in your path. Try to remember their
-  location to reach the target.\
-  \
-  You will see a variety of pictures. Each picture has its own layout. Try to
-  remember the path required to move the cursor to the target. After you have
-  completed the task, we will ask you to remember the path for each picture.\
-  \
-  We will first show you some examples. The task will begin when you press spacebar. Good luck!”
+    "Welcome to the spatial exploration task. The goal is to move the cursor to the
+    target. You can use the arrow keys on the keyboard to move the cursor to the
+    target. There are some hidden obstacles in your path. Try to remember their
+    location to reach the target.\
+    \
+    You will see a variety of pictures. Each picture has its own layout. Try to
+    remember the path required to move the cursor to the target. After you have
+    completed the task, we will ask you to remember the path for each picture.\
+    \
+    We will first show you some examples. The task will begin when you press spacebar. Good luck!”
 
-.. code-block::
-  :caption: Instructions for ``spatialExploration_task_v3.m``:
+.. topic:: Instructions for ``spatialExploration_task_v3.m``
 
-  “Welcome to the spatial exploration task. The goal is to move the cursor to the
-  target. You can use the arrow keys on the keyboard to move the cursor to the target.
-  There are some hidden obstacles in your path. Try to remember their location to
-  reach the target. You will see a variety of pictures. Each picture has its own
-  layout. Try to remember the path required to move the cursor to the target.
-  After you have completed the task, we will ask you to remember the path for
-  each picture. The task will begin when you press spacebar. Good luck!”
+    “Welcome to the spatial exploration task. The goal is to move the cursor to the
+    target. You can use the arrow keys on the keyboard to move the cursor to the target.
+    There are some hidden obstacles in your path. Try to remember their location to
+    reach the target. You will see a variety of pictures. Each picture has its own
+    layout. Try to remember the path required to move the cursor to the target.
+    After you have completed the task, we will ask you to remember the path for
+    each picture. The task will begin when you press spacebar. Good luck!”
 
-.. code-block::
-    :caption: Instructions for ``spatialExploration_recollection_v3.m``:
+.. topic:: Instructions for ``spatialExploration_recollection_v3.m``:
 
-    “We will now show you the same environments as before. Please follow the routes
-    that you have learned. You can make corrections using the ``backspace`` and ``R``
-    keys on the keyboard. We will now show you the same environments as before.
-    Please follow the routes that you have learned and retrace your steps.”
+      “We will now show you the same environments as before. Please follow the routes
+      that you have learned. You can make corrections using the ``backspace`` and ``R``
+      keys on the keyboard. We will now show you the same environments as before.
+      Please follow the routes that you have learned and retrace your steps.”
 
 Comments/issues
 ------------
