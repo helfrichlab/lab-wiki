@@ -1,13 +1,14 @@
 .. include:: /Includes.rst.txt
 
 ======
-Spatial Exploration task (SpatExpl)
+Spatial Exploration task \
+(SpatExpl)
 ======
 
 .. autosummary::
    :toctree: generated
 
- .. Descriptives:
+ Descriptives:
  ------
 **From HelfrichLab** \
 **Authors:** Frank van Schalkwijk & Randolph Helfrich \
@@ -46,8 +47,7 @@ Spatial Exploration task (SpatExpl)
     **Skip trial**: Enabled. Press 's' to skip to the next trial\
 
 Contents
- ------
- ::
+------::
   1. Equipment
   2. Set Up
   3. Scripts
@@ -55,7 +55,7 @@ Contents
   5. Timing
 
 Equipment
-------
+------::
 1. Stimulus laptop
 2. Photodiode
 
@@ -102,12 +102,16 @@ Instructions
   * Verify that the **paths** are defined correctly (“spatialExploration_paths_v3.m”):
 
 
-"testing"
+.. code-block::
+  :caption: A cool example
+
+    The output of this line starts with four spaces.
+
+.. code-block::
+
+       The output of this line has no spaces at the beginning.
 
 
-''testing
-
-''testing''
 
 Subheading 2
 ------
