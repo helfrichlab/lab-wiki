@@ -19,7 +19,7 @@ Spatial Exploration task (SpatExpl)
 Learning session
 -----------
 
-.. code-block::
+.. note::
 
     **Structure**: Training, Learning (2x consecutive repetitions), immediate recall (2x), free recall\
     **Duration**: ca. 40m\
@@ -31,7 +31,7 @@ Learning session
 
 Recall session
 -----------
-.. code-block::
+.. comments
 
     **Structure**: Recall (1x repetition), free recall\
     **Duration**: ca. 10m\
