@@ -82,7 +82,7 @@ Settings for the main experiment:
 5. Experimenter instructions
 ------
 
-1. Checklist prior to the experiment:
+**Checklist prior to the experiment:**
   * Verify that **patient ID** is correct (``init.ID``)
   * Verify **session type** is defined (``init.sessionType``)
   *	Verify **maze size** is defined (``init.nSquares``; range 4-6)
@@ -90,7 +90,9 @@ Settings for the main experiment:
   *	Verify that utilization of **audio trigger** is defined (``init.audioTrigger``; 1=on; 2=off)
   * Verify that the **paths** are defined correctly (``spatialExploration_paths_v3.m``):
 
-**Running the complete experiment:**::
+**Running the complete experiment:**
+
+..code-block::
 
   When everything is done and the participant is ready, simple press **“Run”** from
   Matlab’s Editor tab or type ``spatialExploration_MASTER_v3`` into the command window.
@@ -99,17 +101,17 @@ Settings for the main experiment:
   participant will get a detailed instruction during the
   ``spatialExploration_instruction_v3.m`` and ``spatialExploration_task_v3.m`` scripts.
 
-**Running individual sections:**::
+**Running individual sections:**
 
-.. code-block::
+..code-block::
+
   Scripts for the instruction/demo (``spatialExploration_instruction_v3.m``),
   main experiment (``spatialExploration_task_v3.m``), and recollection
   (``spatialExploration_recollection_v3.m``) can be run independently. You will
   be prompted for the relevant information in Matlab’s Command Window.
 
-**How to **PAUSE**, **RESUME**, **SKIP**, or **ABORT** the paradigm:**
-
-.. code-block::
+**How to PAUSE, RESUME, SKIP, or ABORT the paradigm:**
+..code-block::
 
   * The participant can **PAUSE** at any time.
   * You can **ABORT** at any time by pressing ``Escape``
@@ -125,9 +127,7 @@ Settings for the main experiment:
 6. Patient instructions
 -----------------
 
-**Instructions for ``spatialExploration_instruction_v3.m``**
-.. code-block::
-
+**Instructions for spatialExploration_instruction_v3.m**:
     "Welcome to the spatial exploration task. The goal is to move the cursor to the
     target. You can use the arrow keys on the keyboard to move the cursor to the
     target. There are some hidden obstacles in your path. Try to remember their
@@ -137,9 +137,7 @@ Settings for the main experiment:
     the path for each picture. We will first show you some examples. The task
     will begin when you press spacebar. Good luck!”
 
-**Instructions for ``spatialExploration_task_v3.m``**
-.. code-block::
-
+**Instructions for spatialExploration_task_v3.m**:
     “Welcome to the spatial exploration task. The goal is to move the cursor to the
     target. You can use the arrow keys on the keyboard to move the cursor to the target.
     There are some hidden obstacles in your path. Try to remember their location to
@@ -148,9 +146,7 @@ Settings for the main experiment:
     After you have completed the task, we will ask you to remember the path for
     each picture. The task will begin when you press spacebar. Good luck!”
 
-**Instructions for ``spatialExploration_recollection_v3.m``**
-.. code-block::
-
+**Instructions for** ``spatialExploration_recollection_v3.m``:
       “We will now show you the same environments as before. Please follow the routes
       that you have learned. You can make corrections using the ``backspace`` and ``R``
       keys on the keyboard. We will now show you the same environments as before.
