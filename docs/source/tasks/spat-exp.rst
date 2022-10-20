@@ -7,10 +7,10 @@ Spatial Exploration task (SpatExpl)
 .. autosummary::
    :toctree: generated
 
-| **From HelfrichLab**
+| **From: HelfrichLab**
 | **Authors:** Frank van Schalkwijk & Randolph Helfrich
 | **Run on:** Psychtoolbox
-| **Age:**
+| **Abbreviation:** SpatExpl
 | **Contact:** frank.schalkwijk@uni-tuebingen.de
 
 Contents
