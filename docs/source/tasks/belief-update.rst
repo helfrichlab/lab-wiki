@@ -7,7 +7,6 @@ Belief Update
 .. autosummary::
    :toctree: generated
 
-
 |**Authors**: Gabriela Iwama
 |**Structure**: Coherence calibration, localizer, training session, main task
 |**Duration**: ca. 1h
@@ -16,9 +15,8 @@ Belief Update
 |**Pause**: enabled during random dots response or ITI
 
 
-
 Subheading 1
-------
+
 
 
 Subheading 2

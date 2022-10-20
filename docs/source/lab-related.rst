@@ -16,7 +16,7 @@ New arrivals
 Forms and admin:
 ----------------
 
-* .. _Hertie intranet login:  https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user/
+* `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
 
 * Holiday Form          -> Git/Google document (?)
 
@@ -27,7 +27,7 @@ Forms and admin:
 Account Passwords
 ----------------
 .. note::
-    Talk to our Lab Wizard to get access to our *very important* passwords
+    Talk to our Lab Wizard to get access to our *very important* passwords.
 
 Other:
 ----------------
