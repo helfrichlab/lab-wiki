@@ -61,5 +61,3 @@ Contents
 * `Canonical correlation <http://sites.psu.edu/mcnl/files/2017/03/BIOE597_SP17_Lecture13-2fxzc43.pdf>`_
 * `Interactive power calculator <https://observablehq.com/@patrickmineault/interactive-demo-in-pure-js?s=03>`_
 * `How to write a thorough peer review <https://www.nature.com/articles/d41586-018-06991-0>`_
-
-.. image:: lablab.jpg
