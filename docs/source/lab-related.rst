@@ -51,4 +51,4 @@ Contents
 .. note::
     Bring files on an USB disk that is formatted for Windows. Didn't work with MAC format. \
 
-.. image:: lablab.jpg
+.. image:: /resources/lablab.jpg
