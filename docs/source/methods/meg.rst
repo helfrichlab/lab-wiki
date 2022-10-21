@@ -82,8 +82,8 @@ Supplies are found in M/EEG prep room #2 under the sink & large gray cabinet.
 Covers are in cabinet of MEEG prep room #1
 
 4. Scheduling recording time
-
 ------
+
 .. code-block::
 
   1. Obtain access to M/EEG Google calendar
@@ -302,11 +302,9 @@ Covers are in cabinet of MEEG prep room #1
 
 * If ACQ is turned off: login requires username (meg) and password (meglab). Page 1 of logbook.
 
-* Signal recorded on UDI0001 shows response for both buttons of the response box. Note that the amplitude is larger for one button vs. the other (amp is also
-really high, so rescale to see it).
+* Signal recorded on UDI0001 shows response for both buttons of the response box. Note that the amplitude is larger for one button vs. the other (amp is also really high, so rescale to see it).
 
-* Hardware filters are offline filters and therefore influence your raw signal.
-Can also apply visual filters in one of the menus under “display” during acquisition.
+* Hardware filters are offline filters and therefore influence your raw signal. Can also apply visual filters in one of the menus under “display” during acquisition.
 
 
 14. Alarms
