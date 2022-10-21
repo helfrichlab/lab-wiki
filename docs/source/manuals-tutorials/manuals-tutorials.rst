@@ -47,6 +47,7 @@ Contents
 ----------------
 `Fieldtrip tutorials <https://www.fieldtriptoolbox.org/tutorial/>`_
 `Mike X Cohen tutorials <https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists>`_
+`Fieldtrip tutorial on ECoG and sEEG recordings <https://www.fieldtriptoolbox.org/tutorial/human_ecog/>`_
 
 
 2. iEEG recordings
