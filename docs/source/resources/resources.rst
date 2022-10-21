@@ -11,16 +11,43 @@ Contents
 ------
 .. code-block::
 
-  1. Color maps (matlab)
-  2. Other
+  1. Coding
+  2. Plotting (Matlab)
+  3. Color maps (Matlab)
+  4. Software
+  5. Other
 
 
-1. Color maps (matlab)
+1. Coding
+---------
+* `The Good Research Code Handbook <https://goodresearch.dev/index.html>`_
+
+
+2. Plotting
+---------
+* `Prettier plots in Matlab <https://anneurai.net/2016/06/13/prettier-plots-in-matlab/>`_
+
+
+3. Color maps (matlab)
 ---------
 * `cbrewer2 <https://de.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2>`_
 
 
-2. Other
+4. Software
+---------
+**Lab Communication**
+* `Group messaging: Slack <https://slack.com/>`_
+* `Video conferencing: Zoom <https://zoom.us/>`_
+
+**GitHub**
+* `GitHub Desktop <https://desktop.github.com/>`_
+* `Text editor: Atom <https://atom.io/>`_
+
+**other**
+* `File synchronization: FreeFileSync <https://freefilesync.org/>`_
+
+
+5. Other
 ---------
 * `plotSurfaceROIBoundary <https://github.com/StuartJO/plotSurfaceROIBoundary?s=31>`_
 * `Quanta Magazine: Concept of entropy <https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/>`_
