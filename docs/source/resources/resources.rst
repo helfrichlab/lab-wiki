@@ -43,6 +43,9 @@ Contents
 * `GitHub Desktop <https://desktop.github.com/>`_
 * `Text editor: Atom <https://atom.io/>`_
 
+**Citation**
+* `Zotero <https://www.zotero.org/>`_
+
 **other**
 * `File synchronization: FreeFileSync <https://freefilesync.org/>`_
 
