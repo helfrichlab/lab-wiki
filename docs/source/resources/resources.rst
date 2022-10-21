@@ -36,17 +36,21 @@ Contents
 4. Software
 ---------
 **Lab Communication**
+
 * `Group messaging: Slack <https://slack.com/>`_
 * `Video conferencing: Zoom <https://zoom.us/>`_
 
 **GitHub**
+
 * `GitHub Desktop <https://desktop.github.com/>`_
 * `Text editor: Atom <https://atom.io/>`_
 
 **Citation**
+
 * `Zotero <https://www.zotero.org/>`_
 
-**other**
+**Other**
+
 * `File synchronization: FreeFileSync <https://freefilesync.org/>`_
 
 
@@ -57,3 +61,5 @@ Contents
 * `Canonical correlation <http://sites.psu.edu/mcnl/files/2017/03/BIOE597_SP17_Lecture13-2fxzc43.pdf>`_
 * `Interactive power calculator <https://observablehq.com/@patrickmineault/interactive-demo-in-pure-js?s=03>`_
 * `How to write a thorough peer review <https://www.nature.com/articles/d41586-018-06991-0>`_
+
+.. image:: lablab.jpg
