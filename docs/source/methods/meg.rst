@@ -92,9 +92,9 @@ Covers are in cabinet of MEEG prep room #1
 ------
 
 :Control room:
-  | * Main lights on (2x)
-  | * Start console (CTF MEG; #51).
-  | * Turn on power switches/boxes (1x left of trigger box; 2x at desk level).
+  * Main lights on (2x)
+  * Start console (CTF MEG; #51).
+  * Turn on power switches/boxes (1x left of trigger box; 2x at desk level).
   | * Recording PC (fo2-25) is on.
   | * Set trigger box set appropriately (#13; e.g., ‘Laptop’)
   | * Turn on stimulus PC (fo2-36 in the pc cabinet with the class door; right side of the desk).
