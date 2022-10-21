@@ -2,6 +2,7 @@ Agenda
 =====
 
 .. _team-meetings:
+
 Upcoming team meetings
 ------------
 
@@ -48,12 +49,6 @@ Upcoming team meetings
 | @ 11:00-12:00 |               |                       |                     |
 +---------------+---------------+-----------------------+---------------------+
 
-.. _lab-activities:
-Upcoming lab activities
-------------
-TBA
-
-
 .. _conferences:
 
 Upcoming Conferences
@@ -67,7 +62,7 @@ Upcoming Conferences
 +---------------+-----------------+---------------+-------------+-------------+
 | W. symp. 2023 | Werfenweng, AT  | 09-11/02/2023 | Pending     | Pending     |
 +---------------+-----------------+---------------+-------------+-------------+
-| `FENS 2023 <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-establishment-and-maintenance-of-brain-cell-states>`_          | Rungsted Kyst,DK| 23-26/04/2023 | Pending     | Pending     |
+| FENS 2023     | Rungsted Kyst,DK| 23-26/04/2023 | Pending     | Pending     |
 +---------------+-----------------+---------------+-------------+-------------+
 | L&M 2023      | CA, USA         | 26-30/04/2023 | 30/09/2022  | 01/11/2022  |
 +---------------+-----------------+---------------+-------------+-------------+
@@ -75,5 +70,20 @@ Upcoming Conferences
 +---------------+-----------------+---------------+-------------+-------------+
 | PUG 2023      | Tuebingen, DE   | ##-##/06/2023 | Pending     | Pending     |
 +---------------+-----------------+---------------+-------------+-------------+
-| `SFN 2023 <https://www.sfn.org/meetings/neuroscience-2022>`_      | San Diego, USA          | ##-##/11/2023 | Pending     | Pending     |
+| SFN 2023      | San Diego, USA  | ##-##/11/2023 | Pending     | Pending     |
 +---------------+-----------------+---------------+-------------+-------------+
+
+.. _lab-activities:
+
+Upcoming lab activities
+------------
+
++---------------------+-----------------------+------------------------------+
+| Date and time       | Location              | Activity
++=====================+=======================+==============================+
+| ##/11/2022 @ 18:00  | HIH conference room   | MK tournament
++---------------------+-----------------------+------------------------------+
+| ##/12/2022 @ ##:##  | TBA                   | Christmas party/Secret Santa
++---------------------+-----------------------+------------------------------+
+| ##/##/#### @ ##:##  | TBA                   | 3Lab get-together
++---------------------+-----------------------+------------------------------+
