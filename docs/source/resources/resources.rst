@@ -36,17 +36,21 @@ Contents
 4. Software
 ---------
 **Lab Communication**
+
 * `Group messaging: Slack <https://slack.com/>`_
 * `Video conferencing: Zoom <https://zoom.us/>`_
 
 **GitHub**
+
 * `GitHub Desktop <https://desktop.github.com/>`_
 * `Text editor: Atom <https://atom.io/>`_
 
 **Citation**
+
 * `Zotero <https://www.zotero.org/>`_
 
 **other**
+
 * `File synchronization: FreeFileSync <https://freefilesync.org/>`_
 
 
