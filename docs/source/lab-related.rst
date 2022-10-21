@@ -27,9 +27,10 @@ Contents
 ----------------
 
 * `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
-* Holiday Form          -> Git/Google document (?)
-* Travel Reimbursement  -> Git/Google document (?)
-* COVID form            -> Git/Google document (?)
+* `Holiday Form <https://drive.google.com/file/d/1ue5ZDLYCfC3PWy3jWtuYSim2J8Anidhv/view?usp=sharing>`_
+* `Travel Reimbursement  <https://docs.google.com/document/d/1ygQX72nbrVegYTK4uhqORTzVOvH0uH2cGihVOtP5QoA/edit#heading=h.6577oa1hbkwp>`_
+* `COVID form <https://drive.google.com/file/d/1r4f9mo4D2R7l6N-ZjzONeJvmrOYsn9Tz/view?usp=sharing>`_
+
 
 3. Account Passwords
 ----------------
