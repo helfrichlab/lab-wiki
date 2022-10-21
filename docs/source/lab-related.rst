@@ -40,12 +40,13 @@ Contents
 4. Other:
 ----------------
 
-**Poster printing**:
-1. Go to the main entrance of the CRONA.
-2. Turn left towards the Kinderklinik.
-3. In the main lobby you should find elevators facing a playground + aquarium. Go down to floor 1. \
-4. In the basement, turn left through the glass doors.
-5. On your right you should see some 'half stairs' leading up to a single door. This is where the print center is located. \
+**Poster printing:**
 
- .. note::
+| 1. Go to the main entrance of the CRONA.
+| 2. Turn left towards the Kinderklinik.
+| 3. In the main lobby you should find elevators facing a playground + aquarium. Go down to floor 1. \
+| 4. In the basement, turn left through the glass doors.
+| 5. On your right you should see some 'half stairs' leading up to a single door. This is where the print center is located. \
+
+.. note::
     Bring files on an USB disk that is formatted for Windows. Didn't work with MAC format. \
