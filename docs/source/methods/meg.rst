@@ -18,18 +18,19 @@ Contents
 
   1. Contacts
   2. Equipment
-  3. Scheduling recording time
-  4. Checklist prior to a recording
-  5. Participant preparation prior to recording
-  6. Conducting an experiment
-  7. Checklist after a recording
-  8. Data export
-  9. Cleaning
-  10. Supplies
-  11. Channel notes
-  12. Other notes
-  13. Alarms
-  14. Open questions
+  3. Supplies
+  4. Scheduling recording time
+  5. Checklist prior to a recording
+  6. Participant preparation prior to recording
+  7. Preparations prior to experiment
+  8. Conducting an experiment
+  9. Checklist after a recording
+  10. Data export
+  11. Cleaning
+  12. Channel notes
+  13. Other notes
+  14. Alarms
+  15. Open questions
 
 1. Contacts
 ------
@@ -74,13 +75,13 @@ Contents
   * Scrubs in gray cabinets in front of changing room (left)
   * Bedding in cabinet of M/EEG prep. room
 
-10. Supplies
+3. Supplies
 ------
 
 Supplies are found in M/EEG prep room #2 under the sink & large gray cabinet.
 Covers are in cabinet of MEEG prep room #1
 
-3. Scheduling recording time
+4. Scheduling recording time
 
 ------
 .. code-block::
@@ -88,7 +89,7 @@ Covers are in cabinet of MEEG prep room #1
   1. Obtain access to M/EEG Google calendar
   2. Reserve a timeslot
 
-4. Checklist prior to a recording
+5. Checklist prior to a recording
 ------
 
 :Control room:
@@ -139,7 +140,7 @@ Covers are in cabinet of MEEG prep room #1
   **Response boxes:** Port 1 = small amplitude; Port 2 = large amplitude.
 
 
-5. Participant preparation prior to recording
+6. Participant preparation prior to recording
 ------
 
 :Participant:
@@ -148,7 +149,7 @@ Covers are in cabinet of MEEG prep room #1
   * Changed into scrubs (utilize changing room).
 
 
-6. Preparations prior to experiment
+7. Preparations prior to experiment
 ------
 
 :MEG preparations:
@@ -192,7 +193,7 @@ Covers are in cabinet of MEEG prep room #1
   Communicate with your participant
 
 
-6. Conducting an experiment
+8. Conducting an experiment
 ------
 
 .. Note::
@@ -228,7 +229,7 @@ Covers are in cabinet of MEEG prep room #1
   sending a trigger to the PC!
 
 
-7. Checklist after a recording
+9. Checklist after a recording
 ------
 
   * Remove photodiode(s)
@@ -241,7 +242,7 @@ Covers are in cabinet of MEEG prep room #1
   * Take participant out of MEG room
 
 
-8. Data export
+10. Data export
 ------
 
   * Turn on fo2-53 PC
@@ -251,7 +252,7 @@ Covers are in cabinet of MEEG prep room #1
   * Copy files through drag & drop. [Note:] Start this process early as copying takes ages.
 
 
-9. Cleaning
+11. Cleaning
 ------
 
 :MEG room:
@@ -285,7 +286,7 @@ Covers are in cabinet of MEEG prep room #1
   Leave recording PC (fo2-25) ON and logged in!
 
 
-11. Channel notes
+12. Channel notes
 ------
 
   * UDI0001 = response box; Amp settings: Stim = 2k-5k
@@ -293,30 +294,27 @@ Covers are in cabinet of MEEG prep room #1
   * UADC002 = photodiode #2; Amp settings: ADC vol = 5
   * UADC012 – UADC016 = eye-tracking channels
   * Trigger hub in MEG room: response box connected to ports #1 & #2
-  |   o	Port #1 = Left button	- Has lowest amplitude (channel UDI0001)
-  |   o	Port #2 = Right button	- Has highest amplitude (channel UDI0001)
+    |   o	Port #1 = Left button	- Has lowest amplitude (channel UDI0001)
+    |   o	Port #2 = Right button	- Has highest amplitude (channel UDI0001)
 
-12. Other notes
+13. Other notes
 ------
 
-* If ACQ is turned off: login requires username (meg) and password (meglab).
-Page 1 of logbook.
+* If ACQ is turned off: login requires username (meg) and password (meglab). Page 1 of logbook.
 
-* Signal recorded on UDI0001 shows response for both buttons of the response
-box. Note that the amplitude is larger for one button vs. the other (amp is also
+* Signal recorded on UDI0001 shows response for both buttons of the response box. Note that the amplitude is larger for one button vs. the other (amp is also
 really high, so rescale to see it).
 
 * Hardware filters are offline filters and therefore influence your raw signal.
 Can also apply visual filters in one of the menus under “display” during acquisition.
 
 
-13. Alarms
+14. Alarms
 ------
 
 :Alarm #1 - O2 sensor:
   * In case of helium leak inside MEG:
-  * Helium is non-toxic but competes with oxygen. Consequently, ensure ventilation
-      before helping participant!
+  * **Helium is non-toxic but competes with oxygen**. Ventilate helping participant!
   * Open MEG door, & all doors leading outside.
   * Get patient out & notify staff
 
@@ -337,7 +335,7 @@ Can also apply visual filters in one of the menus under “display” during acq
     * If all OK, press “reset” button or do hard reset by replugging power cable
 
 
-14. Open questions
+15. Open questions
 ------
 
 1. Are data saved after every block?
