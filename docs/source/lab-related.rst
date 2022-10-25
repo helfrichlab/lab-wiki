@@ -45,15 +45,15 @@ Contents
 `General instructions <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
 (windows:)
-| 1. Navigate to the `support page <https://support.lexmark.com/en_us/drivers-downloads.html?q=Lexmark+CX622>`_
-| 2. Search for "lexmark scanback utility" -> Download & install
-| 3. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
-| 	- IP address: 169.254.225.179
-| 	- Choose a name for your scan profile
-| 	- Finish
-| 4. With the scanback utility opened and ready, go to the printer, select "scan profiles" -> "my profiles"
-| 5. Scan to your heart's content
-| 6. File will be where you selected it to save on your device
+1. Navigate to the `support page <https://support.lexmark.com/en_us/drivers-downloads.html?q=Lexmark+CX622>`_
+2. Search for "lexmark scanback utility" -> Download & install
+3. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
+	- IP address: 169.254.225.179
+	- Choose a name for your scan profile
+	- Finish
+4. With the scanback utility opened and ready, go to the printer, select "scan profiles" -> "my profiles"
+5. Scan to your heart's content. Scanner sends document to your PC
+6. File will be saved on your device as determined by your scan profile
 
 .. Note::
   Your scan profile can be saved as a shortcut. i.e., simply start the shortcut and you're ready to scan to your PC
