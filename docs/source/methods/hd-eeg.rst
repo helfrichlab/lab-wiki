@@ -33,22 +33,22 @@ Contents
 .. Note::
   Determine participant/patient ID
 
-::Hardware::
+:Hardware:
   * Switch on EGI transformer box
   * Switch on the amplifier
   * Start recording device (Mac)
   * Start stimulus laptop (Windows)
 
-::Software::
+:Software:
   * Start Netstation Acquisition software
   * Insert participant/patient ID
   * Select correct workspace
 
-::HD-EEG net::
+:HD-EEG net:
   * Prepare electrolyte solution in respective bucket
     (# L water, # g potassium, # ml baby shampoo)
 
-::Other::
+:Other:
   * Syringes for electrolyte solution
   * Towels & gloves
   * Clean recording & monitoring rooms; paradigm operational
@@ -61,13 +61,15 @@ Contents
 * Obtain written informed consent before you do anything else
 * Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
 
-[FIGURE 1]
-*Figure 1: measuring skull circumference and determining cap size (image used from EGI manual)*
+.. code-block::
+  ``[FIGURE 1]``
+  *Figure 1: measuring skull circumference and determining cap size (image used from EGI manual)*
 
-* 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross (Fig. 2).
+* 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross.
 
-[FIGURE 2]
-*Figure 2: Marking vertex (image used from EGI manual)*
+.. code-block::
+  ``[FIGURE 2]``
+  *Figure 2: Marking vertex (image used from EGI manual)*
 
 .. Note::
    Full instructions can also be found `here <https://www.egi.com/knowledge-center/net-application>`_. This also contains some useful instruction videos for marking vertex position, applying, manipulating, and removing the EGI net.
@@ -89,8 +91,9 @@ Contents
 .. warning::
   Ensure the connector **DOES NOT** get wet!
 
-[FIGURE 3]
-*Figure 3: Adjusting the EGI net (image used from EGI manual)*
+  .. code-block::
+    ``[FIGURE 3]``
+    *Figure 3: Adjusting the EGI net (image used from EGI manual)*
 
 4. Acquiring signal from the EGI net
 ---------
@@ -133,8 +136,9 @@ Contents
 5.  Have the participant/patient close their eyes
 6.	Carefully remove the EGI cap by 'peeling' it back on itself
 
-[FIGURE 4]
-*Figure 4. Removing the EGI net (image used from EGI manual)*
+.. code-block::
+  ``[FIGURE 4]``
+  *Figure 4. Removing the EGI net (image used from EGI manual)*
 
 
 7. Cleanup
@@ -164,20 +168,21 @@ Contents
 
 
 .. Note::
-  3.	Leave the HD-EEG room in a clean state (i.e. no dirty towels etc.) and make sure everything is set for the next recording (i.e. fresh towels, materials cleaned, etc.).
+  Leave the HD-EEG room in a clean state (i.e. no dirty towels etc.) and make sure everything is set for the next recording (i.e. fresh towels, materials cleaned, etc.).
 
 
 8. EGI electrode layout
 ---------
 
-[FIGURE 5]
-*Figure 5. EGI electrode layout (image used from EGI manual)*
+.. code-block::
+  ``[FIGURE 5]``
+  *Figure 5. EGI electrode layout (image used from EGI manual)*
 
 
 9. Scripts
 ---------
 
-:Scripts:
+:EGI scripts:
   | ``EGI_connect.m``         Connect stimulus PC to EGI NetStation
   | ``EGI_sendTrigger.m``     Send trigger to EGI NetStation
   | ``EGI_startRecording.m``  Start recording
