@@ -17,19 +17,18 @@ Contents
 ------------
 
 :**Access card** to the HIH:
-    Readme -> Git/Google document (?)
-    Contact: Silke.Burkhardt<at>med.uni-tuebingen.de
+    `Readme <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
 
-:**CIN profile** for Helfrich cluster:
-   Readme -> Git/Google document (?)
+:**CIN account** for Helfrich cluster:
+   `Readme <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
 
 2. Forms and admin
 ----------------
 
 * `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
-* `Holiday Form <https://drive.google.com/file/d/1ue5ZDLYCfC3PWy3jWtuYSim2J8Anidhv/view?usp=sharing>`_
-* `Travel Reimbursement  <https://docs.google.com/document/d/1ygQX72nbrVegYTK4uhqORTzVOvH0uH2cGihVOtP5QoA/edit#heading=h.6577oa1hbkwp>`_
-* `COVID form <https://drive.google.com/file/d/1r4f9mo4D2R7l6N-ZjzONeJvmrOYsn9Tz/view?usp=sharing>`_
+* `Holiday Form <https://drive.google.com/file/d/1HgoYe5X1d2mham_nnoCjoEMOLNE83skJ/view?usp=sharing>`_
+* `Travel Reimbursement  <https://docs.google.com/document/d/1MHdxWnzyfvQFAc9EeAr83zK1aa1pmdiP/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
+* `COVID form <https://drive.google.com/file/d/1yMPYi3x-3g8H9-e5pPTN8CRds7BM3qk2/view?usp=sharing>`_
 
 
 3. Account Passwords
