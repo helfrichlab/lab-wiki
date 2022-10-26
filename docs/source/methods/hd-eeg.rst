@@ -64,13 +64,13 @@ Contents
 
 .. image:: /images/egi/EGI_fig1.JPG
 
-  **Figure 1.** Measuring skull circumference and determining cap size (image used from EGI manual)*
+**Figure 1.** Measuring skull circumference and determining cap size (image used from EGI manual)*
 
 * 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross.
 
 .. image:: /images/egi/EGI_fig2.JPG
 
-  **Figure 2.** Marking vertex (image used from EGI manual)*
+**Figure 2.** Marking vertex (image used from EGI manual)*
 
 .. Note::
    Full instructions can also be found `here <https://www.egi.com/knowledge-center/net-application>`_. This also contains some useful instruction videos for marking vertex position, applying, manipulating, and removing the EGI net.
@@ -94,7 +94,7 @@ Contents
 
 .. image:: /images/egi/EGI_fig3.JPG
 
-  **Figure 3.** Adjusting the EGI net (image used from EGI manual)*
+**Figure 3.** Adjusting the EGI net (image used from EGI manual)*
 
 4. Acquiring signal from the EGI net
 ---------
@@ -139,7 +139,7 @@ Contents
 
 .. image:: /images/egi/EGI_fig4.JPG
 
-  **Figure 4.** Removing the EGI net (image used from EGI manual)*
+**Figure 4.** Removing the EGI net (image used from EGI manual)*
 
 
 7. Cleanup
