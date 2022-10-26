@@ -153,6 +153,7 @@ Contents
   Make sure the connector **DOES NOT** get wet!!
 
 **Cleaning the EEG cap:**
+
 1.  Turn net inside out
 2.  Soak the net for 10 minutes in the disinfectant. For first 2-3 minutes gently repeatedly plunge the net in disinfectant.
 3.  Fill the rinse bucket with warm (not hot) tap water
@@ -164,6 +165,7 @@ Contents
   Refresh disinfectant regularly using the concentrated solution that is in the HD-EEG room (in a 1:4 ratio with solution & regular tap water; make solution of 2L).
 
 **Shutting down the EGI system:**
+
 1.	Close Netstation
 2.	Start Firefox, click on “System” and select “Shutdown”
 3.	Shut down the EGI recording device (Mac)
