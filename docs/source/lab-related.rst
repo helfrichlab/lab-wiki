@@ -16,11 +16,8 @@ Contents
 1. New arrivals
 ------------
 
-:**Access card** to the HIH:
-    `Readme <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
-
-:**CIN account** for Helfrich cluster:
-   `Readme <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
+* `Access card to the HIH <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
+* `CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
 
 2. Forms and admin
 ----------------
