@@ -61,14 +61,17 @@ Contents
 * Obtain written informed consent before you do anything else
 * Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
 
+
+.. image:: /images/egi/EGI_fig1.jpg
+
 .. code-block::
-  ``[FIGURE 1]``
   *Figure 1: measuring skull circumference and determining cap size (image used from EGI manual)*
 
 * 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross.
 
+.. image:: /images/egi/EGI_fig2.jpg
+
 .. code-block::
-  ``[FIGURE 2]``
   *Figure 2: Marking vertex (image used from EGI manual)*
 
 .. Note::
@@ -91,9 +94,10 @@ Contents
 .. warning::
   Ensure the connector **DOES NOT** get wet!
 
-  .. code-block::
-    ``[FIGURE 3]``
-    *Figure 3: Adjusting the EGI net (image used from EGI manual)*
+.. image:: /images/egi/EGI_fig3.jpg
+
+.. code-block::
+  *Figure 3: Adjusting the EGI net (image used from EGI manual)*
 
 4. Acquiring signal from the EGI net
 ---------
@@ -136,8 +140,9 @@ Contents
 5.  Have the participant/patient close their eyes
 6.	Carefully remove the EGI cap by 'peeling' it back on itself
 
+.. image:: /images/egi/EGI_fig4.jpg
+
 .. code-block::
-  ``[FIGURE 4]``
   *Figure 4. Removing the EGI net (image used from EGI manual)*
 
 
@@ -174,8 +179,9 @@ Contents
 8. EGI electrode layout
 ---------
 
+.. image:: /images/egi/EGI_fig5.jpg
+
 .. code-block::
-  ``[FIGURE 5]``
   *Figure 5. EGI electrode layout (image used from EGI manual)*
 
 
