@@ -41,6 +41,6 @@ iEEG
   Always wear an FFP2 mask in hospital setting
 
 
- 2. Documents
- ---------
+2. Documents
+---------
 * `Recording sheet <https://drive.google.com/file/d/1C2RIVT56SW-NAZHh8nHHQVft2VepwKpR/view?usp=sharing>`_
