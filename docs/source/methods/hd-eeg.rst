@@ -61,19 +61,16 @@ Contents
 * Obtain written informed consent before you do anything else
 * Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
 
-.. image:: /images/lablab.jpg
 
 .. image:: /images/egi/EGI_fig1.JPG
 
-.. code-block::
-  *Figure 1: measuring skull circumference and determining cap size (image used from EGI manual)*
+  **Figure 1.** Measuring skull circumference and determining cap size (image used from EGI manual)*
 
 * 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross.
 
 .. image:: /images/egi/EGI_fig2.JPG
 
-.. code-block::
-  *Figure 2: Marking vertex (image used from EGI manual)*
+  **Figure 2.** Marking vertex (image used from EGI manual)*
 
 .. Note::
    Full instructions can also be found `here <https://www.egi.com/knowledge-center/net-application>`_. This also contains some useful instruction videos for marking vertex position, applying, manipulating, and removing the EGI net.
@@ -97,8 +94,7 @@ Contents
 
 .. image:: /images/egi/EGI_fig3.JPG
 
-.. code-block::
-  *Figure 3: Adjusting the EGI net (image used from EGI manual)*
+  **Figure 3.** Adjusting the EGI net (image used from EGI manual)*
 
 4. Acquiring signal from the EGI net
 ---------
@@ -143,8 +139,7 @@ Contents
 
 .. image:: /images/egi/EGI_fig4.JPG
 
-.. code-block::
-  *Figure 4. Removing the EGI net (image used from EGI manual)*
+  **Figure 4.** Removing the EGI net (image used from EGI manual)*
 
 
 7. Cleanup
