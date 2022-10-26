@@ -61,6 +61,7 @@ Contents
 * Obtain written informed consent before you do anything else
 * Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
 
+.. image:: /images/lablab.jpg
 
 .. image:: /images/egi/EGI_fig1.jpg
 
@@ -181,7 +182,8 @@ Contents
 8. EGI electrode layout
 ---------
 
-.. image:: /images/egi/EGI_fig5.jpg
+
+  /images/egi/EGI_fig5.jpg
 
 .. code-block::
   *Figure 5. EGI electrode layout (image used from EGI manual)*
