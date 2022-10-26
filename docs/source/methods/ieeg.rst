@@ -16,8 +16,8 @@ iEEG
    2. Documents
 
 
- 1. Manual
- ---------
+1. Manual
+---------
 
 :Channels:
     | ``DC1`` (purple trace): photodiode
