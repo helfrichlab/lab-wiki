@@ -46,7 +46,7 @@ Contents
 
 :HD-EEG net:
   * Prepare electrolyte solution in respective bucket
-    (# L water, # g potassium, # ml baby shampoo)
+    (``# L`` water, ``# g`` potassium, ``# ml`` baby shampoo)
 
 :Other:
   * Syringes for electrolyte solution
@@ -60,7 +60,6 @@ Contents
 1.	Explain to the participant what is about to happen. Explain cap placement and procedures.
 2.	Obtain written informed consent before you do anything else
 3.	Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
-
 
 .. image:: /images/egi/EGI_fig1.JPG
 **Figure 1.** Measuring skull circumference and determining cap size (image used from EGI manual)*
@@ -91,14 +90,14 @@ Contents
   Ensure the connector **DOES NOT** get wet!
 
 .. image:: /images/egi/EGI_fig3.JPG
-**Figure 3.** Adjusting the EGI net (image used from EGI manual)*
+**Figure 3.** Adjusting the EGI net (image used from EGI manual)
 
 4. Acquiring signal from the EGI net
 ---------
 
 1.  Connect the connector to the EGI beam.
 2.	Start acquisition within Netstation
-3.	Check the impedances of the electrodes (should be roughly < 50 kOhm.
+3.	Check the impedances of the electrodes (should be ``< 50 kOhm``.
 
 .. note::
   If impedances are higher, you can improve the signal by ensuring good contact (push hair out of the way) and re-soaking the electrode with electrolyte solution.
@@ -114,6 +113,7 @@ Contents
 
 
 **Ending your recording:**
+
 * [Option 1:] Click ``end`` in Netstation
 * [Option 2:] Execute ``EGI_stopRecording.m`` on the stimulus PC
 
@@ -151,7 +151,7 @@ Contents
 3.  Fill the rinse bucket with warm (not hot) tap water
 4.  Repeatedly plunge the net in clean water (gently). Rinse water and repeat at least 4 times
 5.  Use one of the foamboard head models to dry the EGI net. Place a towel on the head model and place the net onto the head model to dry.
-6.  [Alternative:] Air dry the NetStation
+6.  ``Alternative:`` Air dry the NetStation
 
 .. Note::
   Refresh disinfectant regularly using the concentrated solution that is in the HD-EEG room (in a 1:4 ratio with solution & regular tap water; make solution of 2L).
@@ -165,7 +165,6 @@ Contents
 5.	Shut down the transformer box
 6.	Shut down the stimulus laptop
 
-
 .. Note::
   Leave the HD-EEG room in a clean state (i.e. no dirty towels etc.) and make sure everything is set for the next recording (i.e. fresh towels, materials cleaned, etc.).
 
@@ -175,9 +174,7 @@ Contents
 
 
 .. image:: /images/egi/EGI_fig5.JPG
-
-.. code-block::
-  *Figure 5. EGI electrode layout (image used from EGI manual)*
+**Figure 5.** EGI electrode layout (image used from EGI manual)*
 
 
 9. Scripts

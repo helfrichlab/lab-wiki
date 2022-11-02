@@ -94,27 +94,27 @@ Covers are in cabinet of MEEG prep room #1
 
 :Control room:
   * Main lights on (2x)
-  * Start console (CTF MEG; #51).
+  * Start console (``CTF MEG``; ``#51``).
   * Turn on power switches/boxes (1x left of trigger box; 2x at desk level).
-  * Recording PC (fo2-25) is on.
-  * Set trigger box set appropriately (#13; e.g., ‘Laptop’)
-  * Turn on stimulus PC (fo2-36 in the pc cabinet with the class door; right side of the desk).
+  * Recording PC (``fo2-25``) is on.
+  * Set trigger box set appropriately (``#13``; e.g., ‘Laptop’)
+  * Turn on stimulus PC (``fo2-36`` in the pc cabinet with the class door; right side of the desk).
   * Select Braun lab profile
   * Flip power switch on far left for eye-tracking PC
   * Turn on eye-tracking PC ([note:] located on the desk, not the pc labeled ‘eye-tracking’)
   * Select Eye-track OS
   * Setup stimulus laptop, connect HDMI & “USB triggers” cables, and power
-  * Projector input to laptop (bottom of desk; radio console; #11)
-  * Trigger output to laptop (bottom of desk; radio console; #12).
+  * Projector input to laptop (bottom of desk; radio console; ``#11``)
+  * Trigger output to laptop (bottom of desk; radio console; ``#12``).
   * Set intercom to “listen” only
   * Volume levels for intercom (MEG room & speaker).
   * Obtain eye-tracking camera from the office of Gabi & Jürgen (gray cabinet).
 
 .. Warning::
-  PC fo2-25 should not be turned off or logged
+  PC ``fo2-25`` should not be turned off or logged
 
 .. Note::
-  Press & hold to make sure both lights are switched (COM5 issue).
+  Press & hold to make sure both lights are switched (``COM5`` issue).
 
 .. Note::
   Speaker volume is separate control (labeled grey box; top left).
@@ -174,14 +174,14 @@ Covers are in cabinet of MEEG prep room #1
   * “Set options” -> mouse stim off -> select both eyes -> long-range mount -> Binoc|Monoc
   * Select both eyes & click on them to verify
   * Select “auto trigger”
-  * Switch console (#11) to stimulus PC (fo2-36)
+  * Switch console (``#11``) to stimulus PC (``fo2-36``)
   * Start “Track” program
   * Overwrite “demo” recording.
   * Calibrate
   * Once calibrated: exit program
   * Switch to eye-tracking PC:
   * Select “validate” -> “Accept”
-  * Shut down stimulus PC (fo2-36). Leave eye-tracking PC running!
+  * Shut down stimulus PC (``fo2-36``). Leave eye-tracking PC running!
 
 :Recording preparations:
   * Provide response box
@@ -245,8 +245,8 @@ Covers are in cabinet of MEEG prep room #1
 10. Data export
 ------
 
-  * Turn on fo2-53 PC
-  * Switch console to data transfer PC (fo2-53)
+  * Turn on ``fo2-53`` PC
+  * Switch console to data transfer PC (``fo2-53``)
   * Start program “file transfer from Acq”
   * Select correct recording & storage folders
   * Copy files through drag & drop. [Note:] Start this process early as copying takes ages.
@@ -274,16 +274,16 @@ Covers are in cabinet of MEEG prep room #1
   * Switch off eye-tracking PC
   * Disconnect stimulus laptop (HDMI & USB triggers)
   * Switch trigger output (bottom of desk; radio console) to stimulus PC
-  * Beamer & trigger control to default settings (#11: fo2-35; #12: fo2-36)
-  * All PCs off except recording PC (fo2-25)
-  * Console off (CTF MEG; #51). Should show orange light as standby
+  * Beamer & trigger control to default settings (``#11``: ``fo2-35``; ``#12``: ``fo2-36``)
+  * All PCs off except recording PC (``fo2-25``)
+  * Console off (CTF MEG; ``#51``). Should show orange light as standby
   * Power switches/boxes (2x) off (left of trigger box)
   * Disinfect control room with wipes
   * Turn of main lights (2x)
   * Deposit laundry and sort if the bucket is full (located next to scrubs cabinets)
 
 .. Warning::
-  Leave recording PC (fo2-25) ON and logged in!
+  Leave recording PC (``fo2-25``) ON and logged in!
 
 
 12. Channel notes
