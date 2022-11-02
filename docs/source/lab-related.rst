@@ -42,7 +42,7 @@ Contents
 4. Other
 ----------------
 
-**Scanning with Lexmark printer**
+### Scanning with Lexmark printer
 
 `General Instructions <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
@@ -52,9 +52,9 @@ Contents
 #. Search for "lexmark scanback utility" -> Download & install
 #. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
-    * IP address: 169.254.225.179
-  	* Choose a name for your scan profile
-  	* Finish
+  * IP address: 169.254.225.179
+  * Choose a name for your scan profile
+  * Finish
 
 #. With the scanback utility opened and ready, go to the printer, select "scan profiles" -> "my profiles"
 #. Scan to your heart's content. Scanner sends document to your PC
@@ -62,12 +62,12 @@ Contents
 
 .. admonition:: Note
 
-  Your scan profile can be saved as a shortcut. i.e., simply start the shortcut and you're ready to scan to your PC.
+  | Your scan profile can be saved as a shortcut. i.e., simply start the shortcut and you're ready to scan to your PC.
   | When you want to print to the PC, you have to start the *Lexmark scanback utility* and be ready to receive the file.
   Otherwise, you won't see your profile on the printer.
 
 
-**Poster printing:**
+### Poster printing:
 
 | 1. Go to the main entrance of the CRONA.
 | 2. Turn left towards the Kinderklinik.
@@ -78,6 +78,6 @@ Contents
 .. note::
     Bring files on an USB disk that is formatted for Windows. Didn't work with MAC format.
 
-**Logos**
+### Logos
 
 You can download our logos `here <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_ .
