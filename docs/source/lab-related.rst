@@ -5,21 +5,24 @@ Lab Related
 
 Contents
 ------
-.. code-block::
-
-  1. New arrivals
-  2. Forms and admin
-  3. Account Passwords
-  4. Other
+ :ref:`arrival`
+ :ref:`forms`
+ :ref:`passwords`
+ :ref:`other`
 
 
-1. New arrivals
+
+..  _arrival:
+
+1. New Arrivals
 ------------
 
 * `Access card to the HIH <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
 * `CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
 
-2. Forms and admin
+.. _forms:
+
+2. Forms and Admin
 ----------------
 
 * `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
@@ -27,11 +30,14 @@ Contents
 * `Travel Reimbursement  <https://docs.google.com/document/d/1MHdxWnzyfvQFAc9EeAr83zK1aa1pmdiP/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
 * `COVID form <https://drive.google.com/file/d/1yMPYi3x-3g8H9-e5pPTN8CRds7BM3qk2/view?usp=sharing>`_
 
-
+.. _passwords:
 3. Account Passwords
 ----------------
 .. note::
     Talk to our Lab Wizard to get access to our *very important* passwords.
+
+
+.. _other:
 
 4. Other:
 ----------------
