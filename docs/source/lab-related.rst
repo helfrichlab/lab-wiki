@@ -47,6 +47,7 @@ Contents
 `General instructions <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
 *On Windows:*
+
 #. Navigate to the `support page <https://support.lexmark.com/en_us/drivers-downloads.html?q=Lexmark+CX622>`_
 #. Search for "lexmark scanback utility" -> Download & install
 #. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
@@ -62,6 +63,7 @@ Contents
 .. admonition:: Note
 
   Your scan profile can be saved as a shortcut. i.e., simply start the shortcut and you're ready to scan to your PC.
+
   When you want to print to the PC, you have to start the *Lexmark scanback utility* and be ready to receive the file.
   Otherwise, you won't see your profile on the printer.
 
