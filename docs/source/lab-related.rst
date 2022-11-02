@@ -47,17 +47,18 @@ Contents
 `General instructions <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
 *On Windows:*
-#. Navigate to the `support page <https://support.lexmark.com/en_us/drivers-downloads.html?q=Lexmark+CX622>`_
-#. Search for "lexmark scanback utility" -> Download & install
-#. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
+
+| 1. Navigate to the `support page <https://support.lexmark.com/en_us/drivers-downloads.html?q=Lexmark+CX622>`_
+| 2. Search for "lexmark scanback utility" -> Download & install
+| 13. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
     * IP address: 169.254.225.179
   	* Choose a name for your scan profile
   	* Finish
 
-#. With the scanback utility opened and ready, go to the printer, select "scan profiles" -> "my profiles"
-#. Scan to your heart's content. Scanner sends document to your PC
-#. File will be saved on your device as determined by your scan profile
+| 4. With the scanback utility opened and ready, go to the printer, select "scan profiles" -> "my profiles"
+| 5. Scan to your heart's content. Scanner sends document to your PC
+| 6. File will be saved on your device as determined by your scan profile
 
 .. admonition:: Note
 
@@ -79,4 +80,4 @@ Contents
 
 **Logos**
 
-`Folders <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
+Team and Institute logos can be found `here <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
