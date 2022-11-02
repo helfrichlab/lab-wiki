@@ -39,12 +39,12 @@ Contents
 
 .. _other:
 
-4. Other:
+4. Other
 ----------------
 
-**Scanning with Lexmark printer:**
+**Scanning with Lexmark printer**
 
-`General instructions <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
+`General Instructions <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
 *On Windows:*
 
@@ -63,8 +63,7 @@ Contents
 .. admonition:: Note
 
   Your scan profile can be saved as a shortcut. i.e., simply start the shortcut and you're ready to scan to your PC.
-
-  When you want to print to the PC, you have to start the *Lexmark scanback utility* and be ready to receive the file.
+  | When you want to print to the PC, you have to start the *Lexmark scanback utility* and be ready to receive the file.
   Otherwise, you won't see your profile on the printer.
 
 
@@ -81,4 +80,4 @@ Contents
 
 **Logos**
 
-`Folders <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
+You can download our logos `here <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_ .
