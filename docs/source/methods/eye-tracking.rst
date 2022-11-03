@@ -25,5 +25,5 @@ See more `here <https://www.sr-research.com/support/thread-7674.html>`_. You nee
 
 Other resources
 ~~~~~~~~
-`Eyelink + EEG recording checklist <https://drive.google.com/drive/u/2/folders/10vD3gqu_U4Rd9AkMi9Aa7D13_BGxsTjE>`_
-Related codes (opening Eyelink from stim PC, start recording, etc.)
+| `Eyelink + EEG recording checklist <https://drive.google.com/drive/u/2/folders/10vD3gqu_U4Rd9AkMi9Aa7D13_BGxsTjE>`_
+| Related codes (opening Eyelink from stim PC, start recording, etc.)
