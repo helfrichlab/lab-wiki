@@ -41,6 +41,7 @@ Contents
   1. Analyses
   2. iEEG recordings
   3. Writing
+  4. Other
 
 
 1. Analyses
@@ -59,3 +60,8 @@ Contents
 3. Writing
 --------
 `Ten simple rules for structuring papers <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619&ref=https://githubhelp.com>`_
+
+
+4. Other
+--------
+`Ten simple rules for a supportive laboratory environment <https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01928/113591/10-Simple-Rules-for-a-Supportive-Laboratory>`_
