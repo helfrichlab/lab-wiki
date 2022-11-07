@@ -64,4 +64,6 @@ Contents
 
 4. Other
 --------
-`Ten simple rules for a supportive laboratory environment <https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01928/113591/10-Simple-Rules-for-a-Supportive-Laboratory>`_
+* `Ten simple rules for a supportive laboratory environment <https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01928/113591/10-Simple-Rules-for-a-Supportive-Laboratory>`_
+* `How to write a thorough peer review <https://www.nature.com/articles/d41586-018-06991-0>`_
+* `How to get what you need from your Ph.D. or postdoc supervisor <https://www.science.org/content/article/how-get-what-you-need-your-phd-or-postdoc-supervisor>`_
