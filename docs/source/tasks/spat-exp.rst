@@ -67,7 +67,7 @@ Settings for the main experiment:
    - ``settings.showBlocks``	 = Maze obstacles (1=yes; 0=no; default=0)
 
 .. note::
-  The photodiode size can be scaled (``settings.PDscaling``)
+  The photodiode size can be scaled by changing ``settings.PDscaling`` in the task script ``spatialExploration_task_v3.m``
 
 4. Scripts
 ------
