@@ -1,54 +1,17 @@
 .. include:: /Includes.rst.txt
 
 ======
-Manuals
+Reading and Learning
 ======
 
-.. autosummary::
-   :toctree: generated
-
-Contents
-------
-.. code-block::
-
-  1. iEEG recordings
-  2. HD-EEG recordings
-  3. MEG recordings
-
-
-1. iEEG recordings
-------
-Recording manual -> Git/Google document (?)
-
-
-2. HD-EEG recordings
-------
-Recording manual -> Git/Google document (?)
-
-
-3. MEG recording manual
-------
-Recording manual -> Git/Google document (?)
-
-======
-Tutorials
-======
-
-Contents
-------
-.. code-block::
-
-  1. Analyses
-  2. iEEG recordings
-  3. Writing
-  4. Other
+Here you can find recommended readings, tutorials, and guidelines.
 
 
 1. Analyses
 ----------------
-`Fieldtrip tutorials <https://www.fieldtriptoolbox.org/tutorial/>`_
-`Mike X Cohen tutorials <https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists>`_
-`Fieldtrip tutorial on ECoG and sEEG recordings <https://www.fieldtriptoolbox.org/tutorial/human_ecog/>`_
+* `Fieldtrip tutorials <https://www.fieldtriptoolbox.org/tutorial/>`_
+* `Mike X Cohen tutorials <https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ/playlists>`_
+* `Fieldtrip tutorial on ECoG and sEEG recordings <https://www.fieldtriptoolbox.org/tutorial/human_ecog/>`_
 
 
 2. iEEG recordings
@@ -57,9 +20,20 @@ Contents
 * `Servick, 2022, Science <https://www.science.org/content/article/brain-surgeries-are-opening-windows-neuroscientists-ethical-questions-abound/>`_
 
 
-3. Writing
+3. Coding & Sharing
+---------
+* `The Good Research Code Handbook <https://goodresearch.dev/index.html>`_
+* `FAIR guideline for data sharing <https://www.nature.com/articles/sdata201618>`_
+
+
+4. Writing
 --------
 `Ten simple rules for structuring papers <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619&ref=https://githubhelp.com>`_
+
+2. Common Concepts
+---------
+* `Quanta Magazine: Concept of entropy <https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/>`_
+* `Canonical correlation <http://sites.psu.edu/mcnl/files/2017/03/BIOE597_SP17_Lecture13-2fxzc43.pdf>`_
 
 
 4. Other

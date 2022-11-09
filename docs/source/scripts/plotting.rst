@@ -8,9 +8,13 @@ Plotting
    :toctree: generated
 
 
-Subheading 1
-------
+How to make beautiful plots
+~~~~~~~
+ * `Prettier plots in Matlab <https://anneurai.net/2016/06/13/prettier-plots-in-matlab/>`_
+ * `plotSurfaceROIBoundary <https://github.com/StuartJO/plotSurfaceROIBoundary?s=31>`_
 
 
-Subheading 2
-------
+Color maps (matlab)
+~~~~~~~
+ * `cbrewer2 <https://de.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2>`_
+ * Universally readable `scientific colour maps <https://www.fabiocrameri.ch/colourmaps/>`_
