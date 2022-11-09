@@ -28,5 +28,4 @@ Contents
    methods/index
    tasks/index
    scripts/index
-   manuals-tutorials/index
    resources/index

@@ -39,7 +39,7 @@ Contents
 
 .. _other:
 
-4. Other:
+4. Other
 ----------------
 
 **Scanning with Lexmark printer:**
@@ -51,9 +51,9 @@ Contents
 | 2. Search for "lexmark scanback utility" -> Download & install
 | 3. Follow instructions provided `here <https://infoserve.lexmark.com/ids/ifc/ids_topic.aspx?root=v45279224&gid=&id=46197912&topic=v52255050&productCode=Lexmark_CX622&loc=en_US>`_
 
-  * IP address: 169.254.225.179
-	* Choose a name for your scan profile
-	* Finish
+* IP address: 169.254.225.179
+* Choose a name for your scan profile
+* Finish
 
 | 4. With the scanback utility opened and ready, go to the printer, select "scan profiles" -> "my profiles"
 | 5. Scan to your heart's content. Scanner sends document to your PC
@@ -77,8 +77,7 @@ Contents
     Bring files on an USB disk that is formatted for Windows. Didn't work with MAC format.
 
 **Templates & Logos**
-
-Team and institute logos can be found `here <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
-- `PowerPoint Template <https://docs.google.com/presentation/d/1zxOOv8z0zvL9Rh0HkDgO998ASqqjAEJx/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
-- `Poster template <https://drive.google.com/file/d/1C3w_e7innclz8eTqQBupR9V2aejO-q-d/view?usp=sharing>`_
-- `HIH Post-in template <https://docs.google.com/document/d/1_yxghGCoDE2W3s6rbJXt1CP_P8Qz3KB3/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
+  * Team and institute logos can be found `here <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
+  * `PowerPoint Template <https://docs.google.com/presentation/d/1zxOOv8z0zvL9Rh0HkDgO998ASqqjAEJx/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
+  * `Poster template <https://drive.google.com/file/d/1C3w_e7innclz8eTqQBupR9V2aejO-q-d/view?usp=sharing>`_
+  * `HIH Post-in template <https://docs.google.com/document/d/1_yxghGCoDE2W3s6rbJXt1CP_P8Qz3KB3/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
