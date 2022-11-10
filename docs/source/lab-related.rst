@@ -18,6 +18,7 @@ Contents
 
 * `Access card to the HIH <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
 * `CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
+* `Hertie IT Wiki <https://hih-docu.neurologie.uni-tuebingen.de/>`_
 
 .. _forms:
 
