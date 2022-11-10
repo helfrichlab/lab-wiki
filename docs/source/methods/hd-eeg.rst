@@ -24,7 +24,12 @@ Contents
 
 
 .. note::
-  Official EGI documentation can be found `here <https://www.egi.com/knowledge-center/net-application>`_
+  * `EGI knowledge center <https://www.egi.com/knowledge-center>`_
+  * `EGI video documentation <https://www.egi.com/knowledge-center/net-application>`_
+  * `Technical manual <https://www.egi.com/images/stories/manuals/Second%20Batch%20of%20IFUs%20with%20new%20Notified%20Body%20Jan%202019/GSN_tman_8105171-51_20181231.pdf>`_
+  * `HydroCel Geodesic Sensor Net - user instructions <https://www.egi.com/images/stories/manuals/Second%20Batch%20of%20IFUs%20with%20new%20Notified%20Body%20Jan%202019/HC_GSN_MR_uins_8402110-01_20181221.pdf>`_
+  * `HydroCel Geodesic Sensor Net - application instructions <https://www.egi.com/images/stories/manuals/Printed%20IFUs%20with%20New%20Notified%20Body/HC_GSN_RM_sponged_appl_uins_8403481-53_20181210.pdf>`_
+  * `HydroCel Geodesic Sensor Net - spongeless long-term monitoring nets <https://www.egi.com/images/stories/manuals/Second%20Batch%20of%20IFUs%20with%20new%20Notified%20Body%20Jan%202019/HC_GSN_LTM_spongeless_uins_8404694-52_20181221.pdf>`_
 
 
 1. Preparing for a recording
@@ -44,9 +49,14 @@ Contents
   * Insert participant/patient ID
   * Select correct workspace
 
-:HD-EEG net:
+:HD-EEG sponge net:
   * Prepare electrolyte solution in respective bucket
-    (``# L`` water, ``# g`` potassium, ``# ml`` baby shampoo)
+    (``1 L`` water, ``11 g`` potassium chloride, ``5 ml`` baby shampoo)
+
+
+.. warning::
+  Potassium chloride solution should only be utilized in combination with the sponge nets, not the gel nets!
+
 
 :Other:
   * Syringes for electrolyte solution
