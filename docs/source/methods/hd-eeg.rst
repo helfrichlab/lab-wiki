@@ -71,10 +71,11 @@ Contents
 2.	Obtain written informed consent before you do anything else
 3.	Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
 
+
 .. image:: /images/egi/EGI_Fig1.jpg
-
-
 **Figure 1.** Measuring skull circumference and determining cap size (image used from EGI manual)
+
+
 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross.
 
 
@@ -152,7 +153,7 @@ Contents
 5.  Have the participant/patient close their eyes
 6.	Carefully remove the EGI cap by 'peeling' it back on itself
 
-
+.. image:: /images/egi/EGI_Fig6.jpg
 .. image:: /images/egi/EGI_Fig5.jpg
 **Figure 5.** Removing the EGI net (image used from EGI manual)
 
