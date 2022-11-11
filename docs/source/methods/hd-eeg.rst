@@ -153,7 +153,7 @@ Contents
 5.  Have the participant/patient close their eyes
 6.	Carefully remove the EGI cap by 'peeling' it back on itself
 
-.. image:: /images/egi/EGI_Fig6.jpg
+
 .. image:: /images/egi/EGI_Fig5.jpg
 **Figure 5.** Removing the EGI net (image used from EGI manual)
 
