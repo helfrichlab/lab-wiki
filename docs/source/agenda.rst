@@ -66,7 +66,7 @@ Upcoming Conferences
   :widths: auto
 
   ======================================================= ================= =============== ============= =================
-   Conference                                 Location            Dates           Abstract      Registration
+   Conference                                             Location          Dates           Abstract      Registration
 
   ======================================================= ================= =============== ============= =================
   `Cosyne 2023 <https://www.cosyne.org/>`_                Montreal, CA      09-14/03/2023   23/11/2022    Opens 28/11/2022
