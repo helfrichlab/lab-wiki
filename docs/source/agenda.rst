@@ -22,7 +22,7 @@ Upcoming team meetings
     - 3Lab meeting
     - Various
     - 3Lab event day
-  * - 23/11/2022
+  * - 23/11/2022 @ 11:00-12:00
     - Lab meeting
     - TBA
     - Journal club
@@ -58,7 +58,7 @@ Upcoming Conferences
   :widths: auto
   :header-rows: 1
 
-  * - Dates (from-to)
+  * - Dates
     - Conference
     - Location
     - Abstract
@@ -77,7 +77,7 @@ Upcoming Conferences
     - `Cosyne 2023 <https://www.cosyne.org/>`_
     - Montreal, CA
     - 23/11/2022
-    - Opens 28/11/2022
+    - from 28/11/2022
   * - 23-26/04/2023
     - `FENS 2023 <https://www.fens.org/meetings/the-brain-conferences>`_
     - Rungsted Kyst, DK
@@ -98,6 +98,7 @@ Upcoming Conferences
     - Tuebingen, DE
     - Pending
     - Pending
+
 
 
 .. _lab-activities:
