@@ -61,8 +61,8 @@ Upcoming Conferences
   * - Dates (from-to)
     - Conference
     - Location
-    - Abstract deadline
-    - Registration deadline
+    - Abstract
+    - Registration
   * - 08-09/02/2023
     - Univ. SBG DK+
     - Werfenweng, AT
@@ -94,7 +94,7 @@ Upcoming Conferences
     - 20/12/2022
     - 20/12/2022
   * - ##-##/06/2023
-    - Psychologie und Gehirn 2023
+    - PUG 2023
     - Tuebingen, DE
     - Pending
     - Pending
@@ -122,6 +122,5 @@ Upcoming lab activities
     - HIH Christmas walk
     - HIH
   * - 16/12/2022 @ 18:00
-    - Christmas party/Secret Santae
-    - Activity
+    - Christmas party/Secret Santa
     - TBA
