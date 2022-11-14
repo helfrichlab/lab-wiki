@@ -72,7 +72,7 @@ Contents
 3.	Measure circumference of participant’s head. Measure around glabella (brow ridge) and 2.5 cm above the inion (bump on the back of the skull; Fig. 1). Select appropriate cap and submerge in electrolyte solution.
 
 
-.. image:: /images/egi_fig1.png
+.. image:: /images/egi/egi_fig1.png
 
 **Figure 1.** Measuring skull circumference and determining cap size (image used from EGI manual)
 
@@ -80,7 +80,7 @@ Contents
 4.	Mark Vertex (Cz position). Measure nasion-inion distance and draw a perpendicular line at midpoint. Also mark midpoint between the two preauricular points. Vertex should be in the middle of the cross.
 
 
-.. image:: /images/egi_fig2.png
+.. image:: /images/egi/egi_fig2.png
 
 **Figure 2.** Marking vertex (image used from EGI manual)
 
@@ -105,12 +105,12 @@ Contents
   Ensure the connector **DOES NOT** get wet!
 
 
-.. image:: /images/egi_fig3.png
+.. image:: /images/egi/egi_fig3.png
 
 **Figure 3.** Placing the EGI net (image used from EGI manual)
 
 
-.. image:: /images/egi_fig4.png
+.. image:: /images/egi/egi_fig4.png
 
 **Figure 4.** Adjusting the EGI net (image used from EGI manual)
 
@@ -158,7 +158,7 @@ Contents
 6.	Carefully remove the EGI cap by 'peeling' it back on itself
 
 
-.. image:: /images/egi_fig5.png
+.. image:: /images/egi/egi_fig5.png
 
 **Figure 5.** Removing the EGI net (image used from EGI manual)
 
