@@ -25,7 +25,7 @@ Upcoming team meetings
   * - 23/11/2022 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Journal club
+    - `Journal club <https://psyarxiv.com/n3afb/>`_
   * - 30/11/2022 @ 11:00-12:00
     - Lab meeting
     - Jonas
