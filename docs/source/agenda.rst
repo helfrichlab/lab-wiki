@@ -14,17 +14,13 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 16/11/2022 @ 11:00-12:00
-    - Lab meeting
-    - Kirsti & Martin
-    - Project update
   * - 18/11/2022 @ 09:30-18:00
     - 3Lab meeting
     - Various
     - 3Lab event day
   * - 23/11/2022 @ 11:00-12:00
     - Lab meeting
-    - TBA
+    - Gabriela and Jonas
     - `Journal club <https://psyarxiv.com/n3afb/>`_
   * - 30/11/2022 @ 11:00-12:00
     - Lab meeting
@@ -37,7 +33,7 @@ Upcoming team meetings
   * - 07/12/2022 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Journal club
+    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
   * - 14/12/2022 @ 11:00-12:00
     - Lab meeting
     - Isabel
