@@ -89,7 +89,7 @@ Upcoming Conferences
     - Montreal, CA
     - 20/12/2022
     - 20/12/2022
-  * - ##-##/06/2023
+  * - 06-10/06/2023
     - PUG 2023
     - Tuebingen, DE
     - Pending
