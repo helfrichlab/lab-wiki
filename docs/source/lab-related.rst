@@ -29,6 +29,7 @@ Contents
 * `Holiday Form <https://drive.google.com/file/d/1HgoYe5X1d2mham_nnoCjoEMOLNE83skJ/view?usp=sharing>`_
 * `Travel Reimbursement  <https://docs.google.com/document/d/1MHdxWnzyfvQFAc9EeAr83zK1aa1pmdiP/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
 * `COVID form <https://drive.google.com/file/d/1yMPYi3x-3g8H9-e5pPTN8CRds7BM3qk2/view?usp=sharing>`_
+* `Reimbursement of healthy participants <https://docs.google.com/document/d/1NaVqjFQpYnuzau5N-GpaAXpn7XKEOg8g/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 
 .. _passwords:
 
