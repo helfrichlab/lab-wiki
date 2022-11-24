@@ -8,7 +8,7 @@ Contents
  | :ref:`arrival`
  | :ref:`forms`
  | :ref:`passwords`
- | :ref:`hardware`
+ | :ref:`equipment`
  | :ref:`other`
 
 
@@ -39,9 +39,9 @@ Contents
 .. note::
     Talk to our Lab Wizard to get access to our *very important* passwords.
 
-.. _forms:
+.. _equipment:
 
-4. Hardware
+4. Lab equipment
 ----------------
 
 * `Overview of lab equipment  <https://docs.google.com/document/d/1FRviFfRg1nuSjki-Lg_Q_UNpLcMBpd-Y/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
