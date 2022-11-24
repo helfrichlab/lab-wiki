@@ -115,9 +115,9 @@ Upcoming lab activities
   * - 01/12/2022 @ 18:00
     - MK tournament
     - HIH
-  * - 07/12/2022 @ 14:00?
+  * - 07/12/2022 @ 17:00
     - HIH Christmas walk
     - HIH
-  * - 16/12/2022 @ 18:00 (?)
+  * - 12/12/2022 @ 18:00 (?)
     - Christmas party/Secret Santa
     - TBA
