@@ -8,6 +8,7 @@ Contents
  | :ref:`arrival`
  | :ref:`forms`
  | :ref:`passwords`
+ | :ref:`hardware`
  | :ref:`other`
 
 
@@ -38,10 +39,17 @@ Contents
 .. note::
     Talk to our Lab Wizard to get access to our *very important* passwords.
 
+.. _forms:
+
+4. Hardware
+----------------
+
+* `Overview of lab equipment  <https://docs.google.com/document/d/1FRviFfRg1nuSjki-Lg_Q_UNpLcMBpd-Y/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
+
 
 .. _other:
 
-4. Other
+5. Other
 ----------------
 
 **Scanning with Lexmark printer:**

@@ -14,14 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 18/11/2022 @ 09:30-18:00
-    - 3Lab meeting
-    - Various
-    - 3Lab event day
-  * - 23/11/2022 @ 11:00-12:00
-    - Lab meeting
-    - Gabriela and Jonas
-    - `Journal club <https://psyarxiv.com/n3afb/>`_
   * - 30/11/2022 @ 11:00-12:00
     - Lab meeting
     - Jonas
@@ -33,16 +25,27 @@ Upcoming team meetings
   * - 07/12/2022 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
+    - Journal club
   * - 14/12/2022 @ 11:00-12:00
     - Lab meeting
     - Isabel
     - Project update
-  * - 21/12/2022 @ 11:00-12:00
+  * - 11/01/2022 @ 11:00-12:00
     - Lab meeting
     - TBA
     - Journal club
-
+  * - 18/01/2022 @ 11:00-12:00
+    - Lab meeting
+    - Frank
+    - Project update
+  * - 25/01/2022 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Journal club
+  * - 01/02/2022 @ 11:00-12:00
+    - Lab meeting
+    - Jan
+    - Project update
 
 
 .. _conferences:
@@ -109,15 +112,12 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 10-15/11/2022
-    - Nick Myers & Mariana Lomeli
-    - HIH
   * - 01/12/2022 @ 18:00
     - MK tournament
     - HIH
   * - 07/12/2022 @ 14:00?
     - HIH Christmas walk
     - HIH
-  * - 16/12/2022 @ 18:00
+  * - 16/12/2022 @ 18:00 (?)
     - Christmas party/Secret Santa
     - TBA
