@@ -32,8 +32,11 @@ Contents
     | 192.168.7.189
 
 :Resources:
-    | **HIH-HN1 (headnode):** 2x20 cores 2.1Ghz -> 80 threads (192GB RAM)
-    | **HIH1-HIH4 (compute nodes) (headnode):** 2x20 cores 2.1Ghz -> 80 threads (768GB RAM)
+    | **HIH-HN1 (headnode):**
+    | - 2x20 cores 2.1Ghz -> 80 threads (192GB RAM)
+    | **HIH1-HIH4 (compute nodes) (headnode):**
+    | - 2x20 cores 2.1Ghz -> 80 threads (768GB RAM)
+    |
     | All nodes have data storage mounted with 10GbE GPFS client (r/w up to 1400MB/s)
 
 .. warning::
@@ -47,10 +50,10 @@ Contents
 2. Required programs
 ------
 
-:Windows:
-    | * Ubuntu 20.04.4 LTS
+**Windows**
+* Ubuntu 20.04.4 LTS
 
-    Install Windows Subsystem for Linux (WSL) by entering this command in an administrator (!!)
+    "Install Windows Subsystem for Linux (WSL) by entering this command in an administrator (!!)
 		PowerShell or Windows Command Prompt and then restarting your machine:
 
 		`>> wsl --install`
@@ -61,17 +64,15 @@ Contents
 
 		The first time you launch a newly installed Linux distribution, a console window will open and
 		you'll be asked to wait for files to de-compress and be stored on your machine. All future
-		launches should take less than a second.
+		launches should take less than a second. `source <https://docs.microsoft.com/en-us/windows/wsl/install>`_ "
 
-    `source <https://docs.microsoft.com/en-us/windows/wsl/install>`_
-
-:MAC OS:
-    | * Has integrated software (Shell/Terminal)
+**MAC OS**
+* Has integrated software (Shell/Terminal)
 
 
 .. _mountingCluster:
 
-3. Mounting cluster as local drive
+3. Mounting cluster as a local drive
 ------
 
 :Windows:
@@ -79,6 +80,7 @@ Contents
     2. Right click \\192.168.7.189\helfrich_data -> Map network drive
     3. Right click \\192.168.7.189\[username] -> Map network drive
     4. Assign drive letters for the connections
+
 
 :MAC OS:
     1. >> Finder >> Go >> Connect to server
@@ -97,23 +99,25 @@ Contents
     2. ssh [username]@192.168.7.189
     3. enter password
 
+
 :MAC OS:
     1. Start Shell/Terminal
     2. ssh -X [username]@192.168.7.189
-    2. enter password
+    3. enter password
 
-                  .--,       .--,
-                 ( (  \.---./  ) )
-                  '.__/o   o\__.'
-                     {=  ^  =}
-                      >  -  <
-              _______.""`-------`"".______
-              /                            \
-              \ Welcome to the CIN-Cluster /
-              /        HIH-Headnode 1      \
-              \____________________________/
-                   ___)( )(___
-                  (((__) (__)))
+.. code-block::
+  |          .--,       .--,
+  |         ( (  \.---./  ) )
+  |          '.__/o   o\__.'
+  |             {=  ^  =}
+  |              >  -  <
+  |      _______.""`-------`"".______
+  |      /                            \
+  |      \ Welcome to the CIN-Cluster /
+  |      /        HIH-Headnode 1      \
+  |      \____________________________/
+  |           ___)( )(___
+  |          (((__) (__)))
 
 
 .. _config:
@@ -127,14 +131,14 @@ This is to ensure that you can utilize qsub and are authorized to write to your 
 1. Connect to the cluster
 
 .. code-block::
-2. >> ssh-keygen -t distance
+  >> ssh-keygen -t distance
 
 Accept all defaults by pressing enter
 
 Afterwards type:
 
 .. code-block::
->> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
 Now you should be ready to run MATLAB
 
@@ -143,10 +147,8 @@ Now you should be ready to run MATLAB
 This is to make it easier to start Matlab (instead of stating Matlab's path every time)
 
 1. Connect to the cluster
-2. Navigate to your home folder (default) and type:
-.. code-block::
-  >> vi .bashrc
-3. Press `i` to edit and add the last line (without the leftward-facing arrow):
+2. Navigate to your home folder (default) and type:  >> vi .bashrc
+3. Press `i` to edit and add the last line (without the leftward-facing arrow)
 
 .. code-block::
   # .bashrc
@@ -180,19 +182,20 @@ This is to make it easier to start Matlab (instead of stating Matlab's path ever
 6. Starting MATLAB
 ------
 You have multiple options to start Matlab:
-* Without a GUI (recommended):
-  - without the shortcut:
+
+** Without a GUI (recommended):**
+  - without the shortcut
     .. code-block::
       >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
-  - With the shortcut:
+  - With the shortcut
     .. code-block::
       >> matlab -nodesktop -nojvm
 
-* With a GUI (not recommended):
-- without the shortcut:
+**With a GUI (not recommended):**
+- without the shortcut
   .. code-block::
     >> /usr/local/MATLAB/R2021b/bin/matlab
-- With the shortcut:
+- With the shortcut
   .. code-block::
     >> matlab
 
@@ -202,17 +205,17 @@ You have multiple options to start Matlab:
 7. Parallelizing jobs
 ------
 To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip
+
 1. Add Fieldtrip
-  .. code-block::
-    >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
+.. code-block::
+  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
+2. Run ft_defaults
+3. Add QSUB
+.. code-block::
+  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
 .. Note::
   Different versions of Fieldtrip will be available over time in /Toolboxes/fieldtrip/
-
-2. Run ft_defaults
-3. Add QSUB
-  .. code-block::
-    >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
 
 .. _qsub_workflow:
