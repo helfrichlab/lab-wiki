@@ -56,7 +56,8 @@ Contents
     "Install Windows Subsystem for Linux (WSL) by entering this command in an administrator (!!)
 		PowerShell or Windows Command Prompt and then restarting your machine:
 
-		`>> wsl --install`
+.. code-block::
+  >> wsl --install
 
 		This command will enable the required optional components, download the latest Linux kernel, set
 		WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default, see below
@@ -106,18 +107,18 @@ Contents
     3. enter password
 
 .. code-block::
-  |          .--,       .--,
-  |         ( (  \.---./  ) )
-  |          '.__/o   o\__.'
-  |             {=  ^  =}
-  |              >  -  <
-  |      _______.""`-------`"".______
-  |      /                            \
-  |      \ Welcome to the CIN-Cluster /
-  |      /        HIH-Headnode 1      \
-  |      \____________________________/
-  |           ___)( )(___
-  |          (((__) (__)))
+      .--,       .--,
+     ( (  \.---./  ) )
+      '.__/o   o\__.'
+         {=  ^  =}
+          >  -  <
+  _______.""`-------`"".______
+  /                            \
+  \ Welcome to the CIN-Cluster /
+  /        HIH-Headnode 1      \
+  \____________________________/
+       ___)( )(___
+      (((__) (__)))
 
 
 .. _config:
@@ -126,6 +127,7 @@ Contents
 ------
 
 **Set up SSH keys**
+
 This is to ensure that you can utilize qsub and are authorized to write to your personal folder (check)
 
 1. Connect to the cluster
@@ -185,19 +187,25 @@ You have multiple options to start Matlab:
 
 ** Without a GUI (recommended):**
   - without the shortcut
-    .. code-block::
-      >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
+
+.. code-block::
+  >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
+
   - With the shortcut
-    .. code-block::
-      >> matlab -nodesktop -nojvm
+
+.. code-block::
+  >> matlab -nodesktop -nojvm
 
 **With a GUI (not recommended):**
 - without the shortcut
-  .. code-block::
-    >> /usr/local/MATLAB/R2021b/bin/matlab
+
+.. code-block::
+  >> /usr/local/MATLAB/R2021b/bin/matlab
+
 - With the shortcut
-  .. code-block::
-    >> matlab
+
+.. code-block::
+  >> matlab
 
 
 .. _parallelizing:
@@ -207,10 +215,13 @@ You have multiple options to start Matlab:
 To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip
 
 1. Add Fieldtrip
+
 .. code-block::
   >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
+
 2. Run ft_defaults
 3. Add QSUB
+
 .. code-block::
   >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
