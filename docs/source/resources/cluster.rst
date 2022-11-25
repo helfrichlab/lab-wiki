@@ -51,21 +51,22 @@ Contents
 ------
 
 **Windows**
+
 * Ubuntu 20.04.4 LTS
 
-    "Install Windows Subsystem for Linux (WSL) by entering this command in an administrator (!!)
-		PowerShell or Windows Command Prompt and then restarting your machine:
+    "Install Windows Subsystem for Linux (WSL) by entering this command in an **administrator**  PowerShell or Windows Command Prompt and then restarting your machine:
 
-.. code-block::
-  >> wsl --install
+    .. code-block::
 
-		This command will enable the required optional components, download the latest Linux kernel, set
-		WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default, see below
-		to change this).
+      >> wsl --install
 
-		The first time you launch a newly installed Linux distribution, a console window will open and
-		you'll be asked to wait for files to de-compress and be stored on your machine. All future
-		launches should take less than a second. `source <https://docs.microsoft.com/en-us/windows/wsl/install>`_ "
+This command will enable the required optional components, download the latest Linux kernel, set
+WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default, see below
+to change this).
+
+The first time you launch a newly installed Linux distribution, a console window will open and
+you'll be asked to wait for files to de-compress and be stored on your machine. All future
+launches should take less than a second. `source <https://docs.microsoft.com/en-us/windows/wsl/install>`_ "
 
 **MAC OS**
 * Has integrated software (Shell/Terminal)
@@ -81,7 +82,7 @@ Contents
     2. Right click \\192.168.7.189\helfrich_data -> Map network drive
     3. Right click \\192.168.7.189\[username] -> Map network drive
     4. Assign drive letters for the connections
-
+|
 
 :MAC OS:
     1. >> Finder >> Go >> Connect to server
@@ -107,18 +108,19 @@ Contents
     3. enter password
 
 .. code-block::
-      .--,       .--,
-     ( (  \.---./  ) )
-      '.__/o   o\__.'
-         {=  ^  =}
-          >  -  <
-  _______.""`-------`"".______
-  /                            \
-  \ Welcome to the CIN-Cluster /
-  /        HIH-Headnode 1      \
-  \____________________________/
-       ___)( )(___
-      (((__) (__)))
+
+        .--,       .--,
+       ( (  \.---./  ) )
+        '.__/o   o\__.'
+           {=  ^  =}
+            >  -  <
+    _______.""`-------`"".______
+    /                            \
+    \ Welcome to the CIN-Cluster /
+    /        HIH-Headnode 1      \
+    \____________________________/
+         ___)( )(___
+        (((__) (__)))
 
 
 .. _config:
@@ -132,15 +134,15 @@ This is to ensure that you can utilize qsub and are authorized to write to your 
 
 1. Connect to the cluster
 
-.. code-block::
-  >> ssh-keygen -t distance
+  .. code-block::
+    >> ssh-keygen -t distance
 
 Accept all defaults by pressing enter
 
 Afterwards type:
 
-.. code-block::
-  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+  .. code-block::
+    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
 Now you should be ready to run MATLAB
 
@@ -153,6 +155,7 @@ This is to make it easier to start Matlab (instead of stating Matlab's path ever
 3. Press `i` to edit and add the last line (without the leftward-facing arrow)
 
 .. code-block::
+
   # .bashrc
 
   # Source global definitions
@@ -172,6 +175,7 @@ This is to make it easier to start Matlab (instead of stating Matlab's path ever
   ~
   ~
   ~
+
 4. To save, press `escape` and type :wq
 5. You have now added Matlab to the default path
 
@@ -188,24 +192,24 @@ You have multiple options to start Matlab:
 ** Without a GUI (recommended):**
   - without the shortcut
 
-.. code-block::
-  >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
+  .. code-block::
+    >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
 
   - With the shortcut
 
-.. code-block::
-  >> matlab -nodesktop -nojvm
+  .. code-block::
+    >> matlab -nodesktop -nojvm
 
 **With a GUI (not recommended):**
 - without the shortcut
 
-.. code-block::
-  >> /usr/local/MATLAB/R2021b/bin/matlab
+  .. code-block::
+    >> /usr/local/MATLAB/R2021b/bin/matlab
 
 - With the shortcut
 
-.. code-block::
-  >> matlab
+  .. code-block::
+    >> matlab
 
 
 .. _parallelizing:
@@ -216,14 +220,14 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 1. Add Fieldtrip
 
-.. code-block::
-  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
+  .. code-block::
+    >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
 
 2. Run ft_defaults
 3. Add QSUB
 
-.. code-block::
-  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
+  .. code-block::
+    >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
 .. Note::
   Different versions of Fieldtrip will be available over time in /Toolboxes/fieldtrip/
