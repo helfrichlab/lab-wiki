@@ -22,7 +22,7 @@ Contents
 | :ref:`commands`
 | :ref:`howTo`
 | :ref:`example`
-
+| :ref:`test_qsub`
 
 .. _details:
 
