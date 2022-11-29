@@ -34,21 +34,20 @@ Contents
 **Resources:**
 
 :HIH-HN1:
-  | * Head node
-  | * 2x20 cores 2.1Ghz
-  | * ~ 80 threads (192GB RAM)
+  * Head node
+  * 2x20 cores 2.1Ghz
+  * ~ 80 threads (192GB RAM)
 
 :HIH1-HIH4:
-  | * Compute nodes)
-  | * 2x20 cores 2.1Ghz
-  | * ~ 80 threads (768GB RAM)
-  |
-  | All nodes have data storage mounted with 10GbE GPFS client (r/w up to 1400MB/s)
+  * Compute nodes
+  * 2x20 cores 2.1Ghz
+  * ~ 80 threads (768GB RAM)
+  * All nodes have data storage mounted with 10GbE GPFS client (r/w up to 1400MB/s)
 
 .. warning::
-  | * 160 CPUs available (=parallel jobs/threads)
-  | * 3072 GB RAM, ~19.2 GB per jobs
-  | * **Keep these numbers in mind!**
+  * 160 CPUs available (=parallel jobs/threads)
+  * 3072 GB RAM, ~19.2 GB per jobs
+  * **Keep these numbers in mind!**
 
 
 .. image:: /images/cluster/cluster1.png
@@ -66,7 +65,6 @@ Contents
 "Install Windows Subsystem for Linux (WSL) by entering this command in an **administrator**  PowerShell or Windows Command Prompt and then restarting your machine:"
 
 .. code-block::
-
   >> wsl --install
 
 "This command will enable the required optional components, download the latest Linux kernel, set
@@ -88,9 +86,9 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 ------
 
 :Windows:
-  1. >> File Explorer >> \\192.168.7.189
-  2. Right click \\192.168.7.189\helfrich_data -> Map network drive
-  3. Right click \\192.168.7.189\[username] -> Map network drive
+  1. >> File Explorer >> \\\192.168.7.189
+  2. Right click \\\192.168.7.189\\helfrich_data (data folder) -> Map network drive
+  3. Right click \\\192.168.7.189\\[username] (user folder) -> Map network drive
   4. Assign drive letters for the connections
 
 
@@ -146,14 +144,8 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 
 **Change your password**
 
-1. Connect to the cluster with a GUI
-  * Xquartz (MACOS)
-  * MobaXterm (Windows)
-2. Start firefox
-
-.. code-block::
-  firefox
-
+1. Connect to the cluster with a GUI (e.g., Xquartz [MAC OS] or MobaXterm [Windows])
+2. Start firefox (type 'firefox' in the terminal)
 3. Change your password at: https://cin-ldap/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user
 
 
@@ -162,26 +154,28 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 This is to ensure that you can utilize qsub and are authorized to write to your personal folder (check)
 
 1. Connect to the cluster
+2. Type the following commands
 
-  .. code-block::
-    >> ssh-keygen -t distance
+.. code-block::
+  >> ssh-keygen -t distance
 
-2. Accept all defaults by pressing enter
-3. Type:
+3. Accept all defaults by pressing enter
+4. Type the following command:
 
   .. code-block::
     >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
 Now you should be ready to run MATLAB
 
+.. line
 
-**Set up Matlab shortcut**
+**Set up a Matlab shortcut**
 
-This is to make it easier to start Matlab (instead of stating Matlab's path every time)
+This is to make it easier to start Matlab (instead of defining Matlab's path every time)
 
 1. Connect to the cluster
-2. Navigate to your home folder (default) and type:  >> vi .bashrc
-3. Press `i` to edit and add the last line (without the leftward-facing arrow)
+2. Navigate to your home folder (default) and type:  ``vi .bashrc``
+3. Press ``i`` to edit and add the last line (without the leftward-facing arrow)
 
 .. code-block::
 
@@ -205,7 +199,7 @@ This is to make it easier to start Matlab (instead of stating Matlab's path ever
   ~
   ~
 
-4. To save, press `escape` and type :wq
+4. To save, press ``escape`` and type ``:wq``
 5. You have now added Matlab to the default path
 
 .. Note::
@@ -218,27 +212,15 @@ This is to make it easier to start Matlab (instead of stating Matlab's path ever
 ------
 You have multiple options to start Matlab:
 
-** Without a GUI (recommended):**
-  - without the shortcut
+* **Without a GUI (recommended):**
 
-.. code-block::
-  >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
+    * without the shortcut: >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
+    * With the shortcut:    >> matlab -nodesktop -nojvm
 
-  - With the shortcut
+* **With a GUI (not recommended):**
 
-.. code-block::
-  >> matlab -nodesktop -nojvm
-
-**With a GUI (not recommended):**
-- without the shortcut
-
-.. code-block::
-  >> /usr/local/MATLAB/R2021b/bin/matlab
-
-- With the shortcut
-
-.. code-block::
-  >> matlab
+  * without the shortcut: >> /usr/local/MATLAB/R2021b/bin/matlab
+  * With the shortcut:    >> matlab
 
 
 .. _parallelizing:
@@ -247,16 +229,9 @@ You have multiple options to start Matlab:
 ------
 To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip
 
-1. Add Fieldtrip
-
-.. code-block::
-  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
-
-2. Run ft_defaults
-3. Add QSUB
-
-.. code-block::
-  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
+1. Add Fieldtrip: >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
+2. Run ft_defaults: >> ft_defaults
+3. Add QSUB to Matlab's path: >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
 .. Note::
   Different versions of Fieldtrip will be available over time in /Toolboxes/fieldtrip/
@@ -266,7 +241,6 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 8. Creating an efficient work flow for QSUB
 ------
-
 
 * Separate your project into different steps and associated functions.
 * Separate analyses from plotting functions
@@ -278,8 +252,8 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 
 .. Note::
-* Tip #1: Have a master setpath script to add fieldtrip and all toolboxes in order to get the environment right
-* Tip #2: Have a function that initializes the subj automatically
+  * **Tip #1:** Have a master setpath script to add fieldtrip and all toolboxes in order to get the environment right
+  * **Tip #2:** Have a function that initializes the subj automatically
 
 
 .. _clusterEtiquette:
@@ -318,23 +292,27 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 11. Other commands
 ------
 
-  | qsub              #submit a job, see man qsub
-  | qdel -p jobid     #will force purge the job if it is not killed by qdel
-  | qstat             #list information about queues and jobs
-  | showq             #calculated guess which job will run next
-  | xpbs              #GUI to PBS commands
-  | qstat -q          #list all queues on system
-  | qstat -Q          #list queue limits for all queues
-  | qstat -a          #list all jobs on system
-  | qstat -s          #list all jobs with status comments
-  | qstat -r          #list all running jobs
-  | qstat -f jobid    #list full information known about jobid
-  | qstat -Qf queueid #list all information known about queueid
-  | qstat -B          #list summary information about the PBS server
-  | qstat -iu userid  #get info for queued jobs of userid
-  | qstat -u userid  #get info for all the jobs of userid
-  | qstat -n -1 jobid #will list nodes on which jobid is running in one line
-  | checkjob jobid    #will list job details
+  | qsub                       # submit a job, see man qsub
+  | qdel -p jobid              # will force purge the job if it is not killed by qdel
+  | qstat                      # list information about queues and jobs
+  | showq                      # calculated guess which job will run next
+  | xpbs                       # GUI to PBS commands
+  | qstat -q                   # list all queues on system
+  | qstat -Q                   # list queue limits for all queues
+  | qstat -a                   # list all jobs on system
+  | qstat -s                   # list all jobs with status comments
+  | qstat -r                   # list all running jobs
+  | qstat -f jobid             # list full information known about jobid
+  | qstat -Qf queueid          # list all information known about queueid
+  | qstat -B                   # list summary information about the PBS server
+  | qstat -iu userid           # get info for queued jobs of userid
+  | qstat -u userid            # get info for all the jobs of userid
+  | qstat -n -1 jobid          # will list nodes on which jobid is running in one line
+  | checkjob jobid             # will list job details
+
+  Example: Using ``qstat`` to display jobs:
+
+.. image:: /images/cluster/cluster5.png
 
 
 .. _howTo:
@@ -354,18 +332,63 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 13. Step-by-step example
 ------
 
-
 1. 	Start Ubuntu
 2. 	ssh fvanschalkwijk@192.168.7.189
 3. 	Enter password
-4. Start Matlab
-.. code-block::
-  >> matlab -nodesktop -nojvm (when shortcut enabled)
-5. 	cd to project folder (e.g., cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/)
-6. 	Define fpath: [fpath] = fjvs_startup_[PROJECT_ID]
-7. 	Define subjects: open the project's "*_MASTER" script and define subjects (as cell strings, e.g., {'TUE01','TUE02',...}
-8. 	Select the analysis you want to run using 'qsubcellfun' from the project's "*_MASTER" script
+4.  Start Matlab: >> matlab -nodesktop -nojvm (when shortcut enabled)
+5. 	cd to project folder (e.g., >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/)
+6. 	Define fpath: >> [fpath] = fjvs_startup_[PROJECT_ID]
+7. 	Define subjects: >> subjects = project4_alphaSpindles_init_subjects(fpath);
+|   **Note:** Subjects are defined as cell strings (e.g., {'TUE01','TUE02',...})
+8. 	Select the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
+
+.. code_block::
+  qsubcellfun(@iEEG_popOut_detect_spindles,subjects,'memreq', 10*1024^3,...
+                'timreq',10*3600,'StopOnError',false,'jvm','no','backend',...
+                'torque','queue','hih','diary','always');
+
 9. 	Execute your job
 10. Closing the terminal while leaving the jobs running: sequentially type ``~`` + ``ctrl`` + ``z`` to close the connection (while job(s) are running)
 11. Type "qstat" to determine status (while connected to the cluster)
 12. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
+
+
+.. _test_qsub:
+
+14. Testing QSUB
+------
+
+1. Create a test function that will be applied to every subject/channel/variable:
+
+..code_block::
+  function testscript(subj)
+    pathname = '/gpfs01/helfrich/user/rhelfrich/';
+    test = 1;
+    save([pathname,subj,'_test'],'test');
+  end
+
+2. Create the subject ID vector (can also be scripted instead of hardcoded):
+
+..code_block::
+  >> subj = {'S1','S2','S3'};
+
+  subj =
+    1x3 cell array
+      {'S1'}  {'S2'}  {'S3'}
+  >>
+
+3. Run the test script through QSUB:
+
+..code_block::
+  >> qsubcellfun(@testscript, subj, 'memreq', 10*1024^3, 'timreq', 5*3600, ‘queue’, ‘hih’, ‘backend’, ‘torque‘,'StopOnError', false, 'jvm', 'no')  
+
+Output:
+
+
+.. image:: /images/cluster/cluster6.png
+
+
+4. There should be three files in your mounted directory:
+
+
+.. image:: /images/cluster/cluster7.png
