@@ -154,27 +154,18 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 This is to ensure that you can utilize qsub and are authorized to write to your personal folder (check)
 
 1. Connect to the cluster
-2. Type the following commands
-
-.. code-block::
-  >> ssh-keygen -t distance
-
+2. Type the following command: >> ssh-keygen -t distance
 3. Accept all defaults by pressing enter
-4. Type the following command:
+4. Type the following command: >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+5. You should now be ready to run MATLAB
 
-  .. code-block::
-    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
-
-Now you should be ready to run MATLAB
-
-.. line
 
 **Set up a Matlab shortcut**
 
 This is to make it easier to start Matlab (instead of defining Matlab's path every time)
 
 1. Connect to the cluster
-2. Navigate to your home folder (default) and type:  ``vi .bashrc``
+2. Navigate to your home folder (default) and type:  >> vi .bashrc
 3. Press ``i`` to edit and add the last line (without the leftward-facing arrow)
 
 .. code-block::
@@ -199,7 +190,7 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
   ~
   ~
 
-4. To save, press ``escape`` and type ``:wq``
+4. To save, press ``escape`` and type >> :wq
 5. You have now added Matlab to the default path
 
 .. Note::
@@ -332,25 +323,28 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 13. Step-by-step example
 ------
 
-1. 	Start Ubuntu
-2. 	ssh fvanschalkwijk@192.168.7.189
-3. 	Enter password
-4.  Start Matlab: >> matlab -nodesktop -nojvm (when shortcut enabled)
-5. 	cd to project folder (e.g., >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/)
-6. 	Define fpath: >> [fpath] = fjvs_startup_[PROJECT_ID]
-7. 	Define subjects: >> subjects = project4_alphaSpindles_init_subjects(fpath);
+| 1. 	Start Ubuntu
+| 2. 	ssh fvanschalkwijk@192.168.7.189
+| 3. 	Enter password
+| 4.  Start Matlab: >> matlab -nodesktop -nojvm (when shortcut enabled)
+| 5. 	cd to project folder (e.g., >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/)
+| 6. 	Define fpath: >> [fpath] = fjvs_startup_[PROJECT_ID]
+| 7. 	Define subjects: >> subjects = project4_alphaSpindles_init_subjects(fpath);
 |   **Note:** Subjects are defined as cell strings (e.g., {'TUE01','TUE02',...})
-8. 	Select the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
 
-.. code_block::
+| 8. 	Select the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
+
+
+.. code-block::
+
   qsubcellfun(@iEEG_popOut_detect_spindles,subjects,'memreq', 10*1024^3,...
                 'timreq',10*3600,'StopOnError',false,'jvm','no','backend',...
                 'torque','queue','hih','diary','always');
 
-9. 	Execute your job
-10. Closing the terminal while leaving the jobs running: sequentially type ``~`` + ``ctrl`` + ``z`` to close the connection (while job(s) are running)
-11. Type "qstat" to determine status (while connected to the cluster)
-12. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
+| 9. 	Execute your job
+| 10. Closing the terminal while leaving the jobs running: sequentially type ``~`` + ``ctrl`` + ``z`` to close the connection (while job(s) are running)
+| 11. Type "qstat" to determine status (while connected to the cluster)
+| 12. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
 
 
 .. _test_qsub:
@@ -361,6 +355,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 1. Create a test function that will be applied to every subject/channel/variable:
 
 ..code_block::
+
   function testscript(subj)
     pathname = '/gpfs01/helfrich/user/rhelfrich/';
     test = 1;
@@ -369,7 +364,8 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 2. Create the subject ID vector (can also be scripted instead of hardcoded):
 
-..code_block::
+.. code-block::
+
   >> subj = {'S1','S2','S3'};
 
   subj =
@@ -379,7 +375,8 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 3. Run the test script through QSUB:
 
-..code_block::
+.. code-block::
+
   >> qsubcellfun(@testscript, subj, 'memreq', 10*1024^3, 'timreq', 5*3600, ‘queue’, ‘hih’, ‘backend’, ‘torque‘,'StopOnError', false, 'jvm', 'no')  
 
 Output:
