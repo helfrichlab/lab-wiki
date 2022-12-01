@@ -77,6 +77,11 @@ Upcoming Conferences
     - Montreal, CA
     - 23/11/2022
     - from 28/11/2022
+  * - 14-17/03/2023
+    - `MBB Symposium <https://www.cbs.mpg.de/en/mbb-symposium>`_
+    - Berlin, DE
+    - Until 15/01/2023
+    - Until 15/01/2023
   * - 23-26/04/2023
     - `FENS 2023 <https://www.fens.org/meetings/the-brain-conferences>`_
     - Rungsted Kyst, DK
