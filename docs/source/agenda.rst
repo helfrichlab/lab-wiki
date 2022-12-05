@@ -14,18 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 30/11/2022 @ 11:00-12:00
-    - Lab meeting
-    - Jonas
-    - Project update
-  * - 01/12/2022 @ 11:00-12:00
-    - 3Lab meeting
-    - Malte Wöstman
-    - TBA
   * - 07/12/2022 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Journal club
+    - `Journal club <https://www.nature.com/articles/s41562-017-0267-2?source=post_page>`_
   * - 14/12/2022 @ 11:00-12:00
     - Lab meeting
     - Isabel
@@ -71,7 +63,7 @@ Upcoming Conferences
     - W. symp. 2023
     - Werfenweng, AT
     - Pending
-    - Pending
+    - `16/12/2022 <https://sleeplab.ccns.sbg.ac.at/index.php/821927?lang=en>`_
   * - 09-14/03/2023
     - `Cosyne 2023 <https://www.cosyne.org/>`_
     - Montreal, CA
@@ -117,12 +109,12 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 01/12/2022 @ 18:00
-    - MK tournament
-    - HIH
   * - 07/12/2022 @ 17:00
     - HIH Christmas walk
     - HIH
-  * - 12/12/2022 @ 18:00 (?)
+  * - 12/12/2022 @ 18:00
     - Christmas party/Secret Santa
+    - TBA
+  * - 10/01/2023 @ 18:00 (?)
+    - Meeting & social (?)
     - TBA
