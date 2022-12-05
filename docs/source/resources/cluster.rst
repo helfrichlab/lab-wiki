@@ -414,7 +414,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 2. Create the subject ID vector (can also be scripted instead of hardcoded):
 
-..code_block::
+.. code-block::
 
   >> subj = {'S1','S2','S3'};
 

@@ -22,23 +22,46 @@ Upcoming team meetings
     - Lab meeting
     - Isabel
     - Project update
-  * - 11/01/2022 @ 11:00-12:00
+  * - 11/01/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
     - Journal club
-  * - 18/01/2022 @ 11:00-12:00
+  * - 18/01/2024 @ 11:00-12:00
     - Lab meeting
     - Frank
     - Project update
-  * - 25/01/2022 @ 11:00-12:00
+  * - 25/01/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
     - Journal club
-  * - 01/02/2022 @ 11:00-12:00
+  * - 01/02/2023 @ 11:00-12:00
     - Lab meeting
     - Jan
     - Project update
-
+  * - 15/02/2023 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Journal club
+  * - 22/02/2023 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Project update
+  * - 01/03/2023 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Journal club
+  * - 08/03/2023 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Project update
+  * - 15/03/2023 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Journal club
+  * - 29/03/2023 @ 11:00-12:00
+    - Lab meeting
+    - TBA
+    - Project update
 
 .. _conferences:
 
@@ -94,7 +117,6 @@ Upcoming Conferences
     - Tuebingen, DE
     - Pending
     - Pending
-
 
 
 .. _lab-activities:
