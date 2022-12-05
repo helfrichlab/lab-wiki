@@ -158,12 +158,14 @@ This is to ensure that you can utilize qsub and are authorized to write to your 
 2. Type the following command:
 
 .. code-block::
+
   >> ssh-keygen -t distance
 
 3. Accept all defaults by pressing enter
 4. Type the following command:
 
 .. code-block::
+
   >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
 5. You should now be ready to run MATLAB
@@ -202,7 +204,8 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
 4. To save, press ``escape`` and type:
 
 .. code-block::
-  >> :wq
+
+    >> :wq
 
 5. You have now added Matlab to the default path
 
@@ -216,14 +219,11 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
 ------
 You have multiple options to start Matlab:
 
-    * without the shortcut:
-
 .. code-block::
+  % Without the shortcut (default):
   >> usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
 
-    * With the shortcut:
-
-.. code-block::
+  % Without the shortcut:
   >> matlab -nodesktop -nojvm
 
 
@@ -236,17 +236,17 @@ You have multiple options to start Matlab:
 
 7. Parallelizing jobs
 ------
-To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip
+To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip. Note that different versions of Fieldtrip are available in /Toolboxes/fieldtrip/
 
 1. Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 
 .. code-block::
-  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
-  >> ft_defaults
-  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
-.. Note::
-  Different versions of Fieldtrip will be available over time in /Toolboxes/fieldtrip/
+    >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205
+    >> ft_defaults
+    >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
+
+
 
 
 .. _qsub_workflow:
