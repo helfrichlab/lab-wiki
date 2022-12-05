@@ -26,7 +26,7 @@ Upcoming team meetings
     - Lab meeting
     - TBA
     - Journal club
-  * - 18/01/2024 @ 11:00-12:00
+  * - 18/01/2023 @ 11:00-12:00
     - Lab meeting
     - Frank
     - Project update
