@@ -220,6 +220,7 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
 You have multiple options to start Matlab:
 
 .. code-block::
+
   % Without the shortcut (default):
   >> usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
 
@@ -376,6 +377,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 | 4.  Start Matlab, navigate to project folder, define path and subjects:
 
 .. code-block::
+
   >> matlab -nodesktop -nojvm (when shortcut enabled)
   >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/
   >> [fpath] = fjvs_startup_[PROJECT_ID]
@@ -384,6 +386,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 | 5. 	Select the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
 
 .. code-block::
+
   qsubcellfun(@iEEG_popOut_detect_spindles,subjects,'memreq', 10*1024^3,...
                 'timreq',10*3600,'StopOnError',false,'jvm','no','backend',...
                 'torque','queue','hih','diary','always');
