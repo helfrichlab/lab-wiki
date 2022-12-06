@@ -315,16 +315,13 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
   :widths: auto
   :header-rows: 1
 
-  * - Dates
-    - Conference
-    - Location
-    - Abstract
-    - Registration
-  * - 08-09/02/2023
-    - Univ. SBG DK+
-    - Werfenweng, AT
-    - Pending
-    - 15/10/2022
+  * - Command
+    - Description
+  * - qsub
+    - submit a job
+  * - qdel -p jobid
+    - will force purge the job if it is not killed by qdel
+
 
 
 .. list-table::
