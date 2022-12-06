@@ -183,6 +183,11 @@ Covers are in cabinet of MEEG prep room #1
   * Select “validate” -> “Accept”
   * Shut down stimulus PC (``fo2-36``). Leave eye-tracking PC running!
 
+
+.. image:: /images/meg/meg_fig1.jpg
+
+.. image:: /images/meg/meg_fig2.jpg
+
 :Recording preparations:
   * Provide response box
   * Check mirror angle for photodiode positioning
@@ -227,6 +232,11 @@ Covers are in cabinet of MEEG prep room #1
 .. Note::
   "Start recording" enables data acquisition. The actual recording starts by
   sending a trigger to the PC!
+
+
+  .. image:: /images/meg/meg_fig3.jpg
+
+  .. image:: /images/meg/meg_fig4.jpg
 
 
 9. Checklist after a recording

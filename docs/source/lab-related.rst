@@ -58,7 +58,7 @@ Contents
 * `Poster printing <https://docs.google.com/document/d/1jyw9kM4yUQJjUebQrlc_meAdg9MeBDBR5WHgIL4xsww/edit?usp=share_link>`_
 
 **Templates & Logos**
-  * Team and institute logos can be found `here <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
+  * `Team and institute logos <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
   * `PowerPoint Template <https://docs.google.com/presentation/d/1zxOOv8z0zvL9Rh0HkDgO998ASqqjAEJx/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
   * `Poster template <https://drive.google.com/file/d/1C3w_e7innclz8eTqQBupR9V2aejO-q-d/view?usp=sharing>`_
   * `HIH Post-in template <https://docs.google.com/document/d/1_yxghGCoDE2W3s6rbJXt1CP_P8Qz3KB3/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_

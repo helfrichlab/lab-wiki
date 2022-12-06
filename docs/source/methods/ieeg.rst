@@ -25,20 +25,21 @@ iEEG
     | ``DC3`` (green trace):  manual pedal/response box
 
 **Manual markers**
+
 * Place manual markers simply by typing on the keyboard
 * Mark experiment start and end using manual markers
 * Naming convention: ``RH exp # start``; ``RH exp # end``. Experiment nr. relative for each recording session
 
 **Room descriptives**
+
 * Recording station always located on the right side of the bed. Place photodiode marker accordingly.
 * Screen is turned off as you enter and should be turned off as you leave.
 * Keyboard is tucked into cupboard and should be replaced as you leave.
 
-.. Note::
-  Always communicate with your patient
 
 .. warning::
-  Always wear an FFP2 mask in hospital setting
+  * Communication with your subject is key. Be clear, patient, and friendly. It is preferable to come back another time than to force them to do a task against their perference.
+  * Always wear an FFP2 mask in hospital setting following COVID guidelines
 
 
 2. Documents
