@@ -176,7 +176,12 @@ This is to ensure that you can utilize qsub and are authorized to write to your 
 This is to make it easier to start Matlab (instead of defining Matlab's path every time)
 
 1. Connect to the cluster
-2. Navigate to your home folder (default) and type:  >> vi .bashrc
+2. Navigate to your home folder (default) and type:
+
+.. code-block::
+
+  >> vi .bashrc
+
 3. Press ``i`` to edit and add the last line (without the leftward-facing arrow)
 
 .. code-block::
@@ -210,7 +215,7 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
 5. You have now added Matlab to the default path
 
 .. Note::
-  Different text editors have different comments. The command to save may vary.
+  The command to save may vary between text editors.
 
 
 .. _matlab:
@@ -305,6 +310,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 11. Other commands
 ------
 
+
 .. list-table::
   :widths: auto
   :header-rows: 1
@@ -346,6 +352,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
   * -checkjob jobid
     - will list job details
 
+
   **Example:** Using ``qstat`` to display jobs:
 
 .. image:: /images/cluster/cluster5.png
@@ -377,6 +384,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 | 4.  Start Matlab, navigate to project folder, define path and subjects:
 
 .. code-block::
+
 
   >> matlab -nodesktop -nojvm (when shortcut enabled)
   >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/

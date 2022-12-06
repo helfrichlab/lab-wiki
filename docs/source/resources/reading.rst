@@ -30,13 +30,14 @@ Here you can find recommended readings, tutorials, and guidelines.
 --------
 `Ten simple rules for structuring papers <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619&ref=https://githubhelp.com>`_
 
-2. Common Concepts
+
+5. Common Concepts
 ---------
 * `Quanta Magazine: Concept of entropy <https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/>`_
 * `Canonical correlation <http://sites.psu.edu/mcnl/files/2017/03/BIOE597_SP17_Lecture13-2fxzc43.pdf>`_
 
 
-4. Other
+6. Other
 --------
 * `Ten simple rules for a supportive laboratory environment <https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01928/113591/10-Simple-Rules-for-a-Supportive-Laboratory>`_
 * `How to write a thorough peer review <https://www.nature.com/articles/d41586-018-06991-0>`_
