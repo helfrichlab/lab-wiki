@@ -315,6 +315,22 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
   :widths: auto
   :header-rows: 1
 
+  * - Dates
+    - Conference
+    - Location
+    - Abstract
+    - Registration
+  * - 08-09/02/2023
+    - Univ. SBG DK+
+    - Werfenweng, AT
+    - Pending
+    - 15/10/2022
+
+
+.. list-table::
+  :widths: auto
+  :header-rows: 1
+
   * - Command
     - Description
   * - qsub
@@ -353,7 +369,8 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
     - will list job details
 
 
-  **Example:** Using ``qstat`` to display jobs:
+
+**Example:** Using ``qstat`` to display jobs:
 
 .. image:: /images/cluster/cluster5.png
 
