@@ -7,6 +7,17 @@ Spatial Exploration task
 .. autosummary::
    :toctree: generated
 
+Contents
+------
+| :ref:`descriptives`
+| :ref:`equipment`
+| :ref:`setup`
+| :ref:`scripts`
+| :ref:`instructions-experimenter`
+| :ref:`instructions-participant`
+| :ref:`comments`
+
+
 | **From: HelfrichLab**
 | **Authors:** Frank van Schalkwijk & Randolph Helfrich
 | **Run on:** Psychtoolbox
@@ -24,6 +35,8 @@ Contents
   5. Experimenter instructions
   6. Patient instructions
   6. Comments/issues
+
+.. _descriptives:
 
 1. Task descriptives
 ------
@@ -46,11 +59,15 @@ Contents
     | **Abort:** Enabled. Press ``esc`` to abort
     | **Skip trial:** Enabled. Press ``s`` to skip to the next trial
 
+.. _equipment:
+
 2. Equipment
 ------
 :Hardware used:
   | Stimulus laptop
   | Photodiode
+
+.. _setup:
 
 3. Set up
 ------
@@ -69,6 +86,8 @@ Settings for the main experiment:
 .. note::
   The photodiode size can be scaled by changing ``settings.PDscaling`` in the task script ``spatialExploration_task_v3.m``
 
+.. _scripts:
+
 4. Scripts
 ------
 *	**Master script** that runs all sub-scripts/functions (``spatialExploration_MASTER_v3.m``)
@@ -85,6 +104,8 @@ Settings for the main experiment:
   | - ``script3.m`` -> Link to Git
   | - ``script4.m`` -> Link to Git
   | - ``script5.m`` -> Link to Git
+
+.. _instructions-experimenter:
 
 5. Experimenter instructions
 ------
@@ -126,6 +147,8 @@ Settings for the main experiment:
 .. note::
   Data are stored automatically, also when you abort.
 
+.. _instructions-participant:
+
 6. Patient instructions
 -----------------
 
@@ -156,6 +179,7 @@ Settings for the main experiment:
       keys on the keyboard. We will now show you the same environments as before.
       Please follow the routes that you have learned and retrace your steps.”*
 
+.. _comments:
 
 7. Comments/issues
 ------------

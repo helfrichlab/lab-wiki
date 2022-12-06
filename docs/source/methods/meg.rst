@@ -7,30 +7,31 @@ MEG
 .. autosummary::
    :toctree: generated
 
+Contents
+------
+| :ref:`contacts`
+| :ref:`equipment`
+| :ref:`supplies`
+| :ref:`scheduling`
+| :ref:`preparation-room`
+| :ref:`preparation-subject`
+| :ref:`preparation-experiment`
+| :ref:`recording`
+| :ref:`checklist-postrecording`
+| :ref:`data-export`
+| :ref:`cleaning`
+| :ref:`notes-channels`
+| :ref:`notes-other`
+| :ref:`alarms`
+| :ref:`questions`
+
 
 | **From: HelfrichLab**
 | **Authors:** Isabel Raposo, Jan Weber, and Frank van Schalkwijk
 | **Contact:**
 
-Contents
-------
-.. code-block::
 
-  1. Contacts
-  2. Equipment
-  3. Supplies
-  4. Scheduling recording time
-  5. Checklist prior to a recording
-  6. Participant preparation prior to recording
-  7. Preparations prior to experiment
-  8. Conducting an experiment
-  9. Checklist after a recording
-  10. Data export
-  11. Cleaning
-  12. Channel notes
-  13. Other notes
-  14. Alarms
-  15. Open questions
+.. _contacts:
 
 1. Contacts
 ------
@@ -54,6 +55,8 @@ Contents
     | **Tel:** 81200
     | **Workdays:** NA
 
+.. _equipment:
+
 2. Equipment
 ------
 :MEG room:
@@ -75,11 +78,15 @@ Contents
   * Scrubs in gray cabinets in front of changing room (left)
   * Bedding in cabinet of M/EEG prep. room
 
+.. _supplies:
+
 3. Supplies
 ------
 
 Supplies are found in M/EEG prep room #2 under the sink & large gray cabinet.
 Covers are in cabinet of MEEG prep room #1
+
+.. _scheduling:
 
 4. Scheduling recording time
 ------
@@ -88,6 +95,8 @@ Covers are in cabinet of MEEG prep room #1
 
   1. Obtain access to M/EEG Google calendar
   2. Reserve a timeslot
+
+.. _preparation-room:
 
 5. Checklist prior to a recording
 ------
@@ -139,6 +148,7 @@ Covers are in cabinet of MEEG prep room #1
 .. Note::
   **Response boxes:** Port 1 = small amplitude; Port 2 = large amplitude.
 
+.. _preparation-subject:
 
 6. Participant preparation prior to recording
 ------
@@ -148,6 +158,7 @@ Covers are in cabinet of MEEG prep room #1
   * No makeup, piercings, or metal on/in the body
   * Changed into scrubs (utilize changing room).
 
+.. _preparation-experiment:
 
 7. Preparations prior to experiment
 ------
@@ -194,9 +205,10 @@ Covers are in cabinet of MEEG prep room #1
   * Photodiode(s) placement (bottom right)
   * Close door (final closing procedure by pressing the “close” button)
 
-.. Note:
+.. Note::
   Communicate with your participant
 
+.. _recording:
 
 8. Conducting an experiment
 ------
@@ -238,6 +250,7 @@ Covers are in cabinet of MEEG prep room #1
 
   .. image:: /images/meg/meg_fig4.jpg
 
+.. _checklist-postrecording:
 
 9. Checklist after a recording
 ------
@@ -251,6 +264,7 @@ Covers are in cabinet of MEEG prep room #1
   * Move MEG chair fully forward
   * Take participant out of MEG room
 
+.. _data-export:
 
 10. Data export
 ------
@@ -261,6 +275,7 @@ Covers are in cabinet of MEEG prep room #1
   * Select correct recording & storage folders
   * Copy files through drag & drop. [Note:] Start this process early as copying takes ages.
 
+.. _cleaning:
 
 11. Cleaning
 ------
@@ -295,6 +310,7 @@ Covers are in cabinet of MEEG prep room #1
 .. Warning::
   Leave recording PC (``fo2-25``) ON and logged in!
 
+.. _notes-channels:
 
 12. Channel notes
 ------
@@ -307,6 +323,8 @@ Covers are in cabinet of MEEG prep room #1
     |   o	Port #1 = Left button	- Has lowest amplitude (channel UDI0001)
     |   o	Port #2 = Right button	- Has highest amplitude (channel UDI0001)
 
+.. _notes-other:
+
 13. Other notes
 ------
 
@@ -316,6 +334,7 @@ Covers are in cabinet of MEEG prep room #1
 
 * Hardware filters are offline filters and therefore influence your raw signal. Can also apply visual filters in one of the menus under “display” during acquisition.
 
+.. _alarms:
 
 14. Alarms
 ------
@@ -342,6 +361,7 @@ Covers are in cabinet of MEEG prep room #1
     * Right side out of MEG room, inspect cable.
     * If all OK, press “reset” button or do hard reset by replugging power cable
 
+.. _questions:
 
 15. Open questions
 ------

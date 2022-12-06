@@ -7,20 +7,17 @@ HD-EEG
 .. autosummary::
    :toctree: generated
 
-
 Contents
 ------
-.. code-block::
-
-  1. Preparing for a recording
-  2. Setup with participant
-  3. Applying the EGI net
-  4. Acquiring signal from the EGI net
-  5. Starting and ending your recording
-  6. Removing the EGI net
-  7. Cleanup
-  8. EGI electrode layout
-  9. Scripts
+| :ref:`preparation`
+| :ref:`setup-participant`
+| :ref:`setup-cap`
+| :ref:`signal-acquisition`
+| :ref:`recording`
+| :ref:`removal-cap`
+| :ref:`cleanup-cap`
+| :ref:`layout`
+| :ref:`scripts`
 
 
 .. note::
@@ -31,6 +28,7 @@ Contents
   * `HydroCel Geodesic Sensor Net - application instructions <https://www.egi.com/images/stories/manuals/Printed%20IFUs%20with%20New%20Notified%20Body/HC_GSN_RM_sponged_appl_uins_8403481-53_20181210.pdf>`_
   * `HydroCel Geodesic Sensor Net - spongeless long-term monitoring nets <https://www.egi.com/images/stories/manuals/Second%20Batch%20of%20IFUs%20with%20new%20Notified%20Body%20Jan%202019/HC_GSN_LTM_spongeless_uins_8404694-52_20181221.pdf>`_
 
+.. _preparation:
 
 1. Preparing for a recording
 ---------
@@ -63,6 +61,7 @@ Contents
   * Towels & gloves
   * Clean recording & monitoring rooms; paradigm operational
 
+.. _setup-participant:
 
 2. Setup with participant
 ---------
@@ -87,6 +86,7 @@ Contents
 .. Note::
    Full instructions can also be found `here <https://www.egi.com/knowledge-center/net-application>`_. This also contains some useful instruction videos for marking vertex position, applying, manipulating, and removing the EGI net.
 
+.. _setup-cap:
 
 3. Applying the EGI net
 ---------
@@ -114,6 +114,7 @@ Contents
 
 **Figure 4.** Adjusting the EGI net (image used from EGI manual)
 
+.. _signal-acquisition:
 
 4. Acquiring signal from the EGI net
 ---------
@@ -125,6 +126,7 @@ Contents
 .. note::
   If impedances are higher, you can improve the signal by ensuring good contact (push hair out of the way) and re-soaking the electrode with electrolyte solution.
 
+.. _recording:
 
 5. Starting and ending your recording
 ---------
@@ -146,6 +148,7 @@ Contents
 .. Warning::
   As soon as the recording ends, you have to reinsert the participant/patient ID!
 
+.. _removal-cap:
 
 6. Removing the EGI net
 ---------
@@ -162,6 +165,7 @@ Contents
 
 **Figure 5.** Removing the EGI net (image used from EGI manual)
 
+.. _cleanup-cap:
 
 7. Cleanup
 ---------
@@ -193,6 +197,7 @@ Contents
 .. Note::
   Leave the HD-EEG room in a clean state (i.e. no dirty towels etc.) and make sure everything is set for the next recording (i.e. fresh towels, materials cleaned, etc.).
 
+.. _layout:
 
 8. EGI electrode layout
 ---------
@@ -202,6 +207,7 @@ Contents
 
 **Figure 6.** EGI electrode layout (image used from EGI manual)
 
+.. _scripts:
 
 9. Scripts
 ---------
