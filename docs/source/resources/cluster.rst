@@ -321,19 +321,6 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
     - submit a job
   * - qdel -p jobid
     - will force purge the job if it is not killed by qdel
-
-
-
-.. list-table::
-  :widths: auto
-  :header-rows: 1
-
-  * - Command
-    - Description
-  * - qsub
-    - submit a job, see man qsub
-  * - qdel -p jobid
-    - will force purge the job if it is not killed by qdel
   * - qstat
     - list information about queues and jobs
   * - showq
@@ -362,7 +349,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
     - get info for all the jobs of userid
   * - qstat -n -1 jobid
     - will list nodes on which jobid is running in one line
-  * -checkjob jobid
+  * - checkjob jobid
     - will list job details
 
 
