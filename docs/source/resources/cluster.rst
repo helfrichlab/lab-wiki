@@ -9,22 +9,22 @@ Cluster
 
 Contents
 ------
-| :ref:`details`
-| :ref:`programs`
-| :ref:`mountingCluster`
-| :ref:`connect`
-| :ref:`config`
-| :ref:`matlab`
-| :ref:`parallelizing`
-| :ref:`qsub_workflow`
-| :ref:`clusterEtiquette`
-| :ref:`disconnect_reconnect`
-| :ref:`commands`
-| :ref:`howTo`
-| :ref:`example`
-| :ref:`test_qsub`
+| :ref:`cluster_details`
+| :ref:`cluster_programs`
+| :ref:`cluster_mountingCluster`
+| :ref:`cluster_connect`
+| :ref:`cluster_config`
+| :ref:`cluster_matlab`
+| :ref:`cluster_parallelizing`
+| :ref:`cluster_qsub_workflow`
+| :ref:`cluster_clusterEtiquette`
+| :ref:`cluster_disconnect_reconnect`
+| :ref:`cluster_commands`
+| :ref:`cluster_howTo`
+| :ref:`cluster_example`
+| :ref:`cluster_test_qsub`
 
-.. _details:
+.. _cluster_details:
 
 1. Details
 ------
@@ -54,7 +54,7 @@ Contents
 .. image:: /images/cluster/cluster1.png
 
 
-.. _programs:
+.. _cluster_programs:
 
 2. Required programs
 ------
@@ -81,7 +81,7 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 * Has integrated software (Shell/Terminal)
 
 
-.. _mountingCluster:
+.. _cluster_mountingCluster:
 
 3. Mounting cluster as a local drive
 ------
@@ -106,7 +106,7 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 .. image:: /images/cluster/cluster3.png
 
 
-.. _connect:
+.. _cluster_connect:
 
 4. Connecting to the cluster
 ------
@@ -138,7 +138,7 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
         (((__) (__)))
 
 
-.. _config:
+.. _cluster_config:
 
 5. One-time configurations
 ------
@@ -218,7 +218,7 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
   The command to save may vary between text editors.
 
 
-.. _matlab:
+.. _cluster_matlab:
 
 6. Starting MATLAB
 ------
@@ -238,7 +238,7 @@ You have multiple options to start Matlab:
 
 
 
-.. _parallelizing:
+.. _cluster_parallelizing:
 
 7. Parallelizing jobs
 ------
@@ -255,7 +255,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 
 
-.. _qsub_workflow:
+.. _cluster_qsub_workflow:
 
 8. Creating an efficient work flow for QSUB
 ------
@@ -274,7 +274,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
   * **Tip #2:** Have a function that initializes the subj automatically
 
 
-.. _clusterEtiquette:
+.. _cluster_clusterEtiquette:
 
 9. Cluster etiquette
 ------
@@ -293,7 +293,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
   Work and code locally, but keep ALL the data on the cluster. Mounted cluster folder can be accessed from your local machine like any other path
 
 
-.. _disconnect_reconnect:
+.. _cluster_disconnect_reconnect:
 
 10. Disconnect and reconnect
 ------
@@ -305,7 +305,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 .. Warning::
   Closing the terminal without properly closing the connection kills your jobs!!
 
-.. _commands:
+.. _cluster_commands:
 
 11. Other commands
 ------
@@ -359,7 +359,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 .. image:: /images/cluster/cluster5.png
 
 
-.. _howTo:
+.. _cluster_howTo:
 
 12. How to's
 ------
@@ -372,7 +372,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
   * Randolph: data (plus everyone ind. Projects w/ data identifier/documentation)
   * Frank/Isabel: How-To for Windows
 
-.. _example:
+.. _cluster_example:
 
 13. Step-by-step example
 ------
@@ -406,7 +406,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 | 9. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
 
 
-.. _test_qsub:
+.. _cluster_test_qsub:
 
 14. Testing QSUB
 ------

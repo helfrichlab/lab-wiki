@@ -5,14 +5,14 @@ Lab Related
 
 Contents
 ------
- | :ref:`arrival`
- | :ref:`forms`
- | :ref:`passwords`
- | :ref:`equipment`
- | :ref:`other`
+ | :ref:`lab_arrival`
+ | :ref:`lab_forms`
+ | :ref:`lab_passwords`
+ | :ref:`lab_equipment`
+ | :ref:`lab_other`
 
 
-..  _arrival:
+..  _lab_arrival:
 
 1. New Arrivals
 ------------
@@ -23,7 +23,7 @@ Contents
 * `3Lab Mailing List, please sign up for joint events <https://listserv.uni-tuebingen.de/mailman/listinfo/cogneuroteam>`_
 
 
-.. _forms:
+.. _lab_forms:
 
 2. Forms and Admin
 ----------------
@@ -34,14 +34,14 @@ Contents
 * `COVID form <https://drive.google.com/file/d/1yMPYi3x-3g8H9-e5pPTN8CRds7BM3qk2/view?usp=sharing>`_
 * `Reimbursement of healthy participants <https://docs.google.com/document/d/1NaVqjFQpYnuzau5N-GpaAXpn7XKEOg8g/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 
-.. _passwords:
+.. _lab_passwords:
 
 3. Account Passwords
 ----------------
 .. note::
     Talk to our Lab Wizard to get access to our *very important* passwords.
 
-.. _equipment:
+.. _lab_equipment:
 
 4. Lab equipment
 ----------------
@@ -49,7 +49,7 @@ Contents
 * `Overview of lab equipment  <https://docs.google.com/document/d/1FRviFfRg1nuSjki-Lg_Q_UNpLcMBpd-Y/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
 
 
-.. _other:
+.. _lab_other:
 
 5. Other
 ----------------

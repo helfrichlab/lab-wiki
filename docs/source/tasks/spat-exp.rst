@@ -9,13 +9,13 @@ Spatial Exploration task
 
 Contents
 ------
-| :ref:`descriptives`
-| :ref:`equipment`
-| :ref:`setup`
-| :ref:`scripts`
-| :ref:`instructions-experimenter`
-| :ref:`instructions-participant`
-| :ref:`comments`
+| :ref:`spatexp_descriptives`
+| :ref:`spatexp_equipment`
+| :ref:`spatexp_setup`
+| :ref:`spatexp_scripts`
+| :ref:`spatexp_instructions-experimenter`
+| :ref:`spatexp_instructions-participant`
+| :ref:`spatexp_comments`
 
 
 | **From: HelfrichLab**
@@ -36,7 +36,7 @@ Contents
   6. Patient instructions
   6. Comments/issues
 
-.. _descriptives:
+.. _spatexp_descriptives:
 
 1. Task descriptives
 ------
@@ -59,7 +59,7 @@ Contents
     | **Abort:** Enabled. Press ``esc`` to abort
     | **Skip trial:** Enabled. Press ``s`` to skip to the next trial
 
-.. _equipment:
+.. _spatexp_equipment:
 
 2. Equipment
 ------
@@ -67,7 +67,7 @@ Contents
   | Stimulus laptop
   | Photodiode
 
-.. _setup:
+.. _spatexp_setup:
 
 3. Set up
 ------
@@ -86,7 +86,7 @@ Settings for the main experiment:
 .. note::
   The photodiode size can be scaled by changing ``settings.PDscaling`` in the task script ``spatialExploration_task_v3.m``
 
-.. _scripts:
+.. _spatexp_scripts:
 
 4. Scripts
 ------
@@ -105,7 +105,7 @@ Settings for the main experiment:
   | - ``script4.m`` -> Link to Git
   | - ``script5.m`` -> Link to Git
 
-.. _instructions-experimenter:
+.. _spatexp_instructions-experimenter:
 
 5. Experimenter instructions
 ------
@@ -147,7 +147,7 @@ Settings for the main experiment:
 .. note::
   Data are stored automatically, also when you abort.
 
-.. _instructions-participant:
+.. _spatexp_instructions-participant:
 
 6. Patient instructions
 -----------------
@@ -179,7 +179,7 @@ Settings for the main experiment:
       keys on the keyboard. We will now show you the same environments as before.
       Please follow the routes that you have learned and retrace your steps.”*
 
-.. _comments:
+.. _spatexp_comments:
 
 7. Comments/issues
 ------------

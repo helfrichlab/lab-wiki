@@ -9,21 +9,21 @@ MEG
 
 Contents
 ------
-| :ref:`contacts`
-| :ref:`equipment`
-| :ref:`supplies`
-| :ref:`scheduling`
-| :ref:`preparation-room`
-| :ref:`preparation-subject`
-| :ref:`preparation-experiment`
-| :ref:`recording`
-| :ref:`checklist-postrecording`
-| :ref:`data-export`
-| :ref:`cleaning`
-| :ref:`notes-channels`
-| :ref:`notes-other`
-| :ref:`alarms`
-| :ref:`questions`
+| :ref:`meg_contacts`
+| :ref:`meg_equipment`
+| :ref:`meg_supplies`
+| :ref:`meg_scheduling`
+| :ref:`meg_preparation-room`
+| :ref:`meg_preparation-subject`
+| :ref:`meg_preparation-experiment`
+| :ref:`meg_recording`
+| :ref:`meg_checklist-postrecording`
+| :ref:`meg_data-export`
+| :ref:`meg_cleaning`
+| :ref:`meg_notes-channels`
+| :ref:`meg_notes-other`
+| :ref:`meg_alarms`
+| :ref:`meg_questions`
 
 
 | **From: HelfrichLab**
@@ -31,7 +31,7 @@ Contents
 | **Contact:**
 
 
-.. _contacts:
+.. _meg_contacts:
 
 1. Contacts
 ------
@@ -55,7 +55,7 @@ Contents
     | **Tel:** 81200
     | **Workdays:** NA
 
-.. _equipment:
+.. _meg_equipment:
 
 2. Equipment
 ------
@@ -78,7 +78,7 @@ Contents
   * Scrubs in gray cabinets in front of changing room (left)
   * Bedding in cabinet of M/EEG prep. room
 
-.. _supplies:
+.. _meg_supplies:
 
 3. Supplies
 ------
@@ -86,7 +86,7 @@ Contents
 Supplies are found in M/EEG prep room #2 under the sink & large gray cabinet.
 Covers are in cabinet of MEEG prep room #1
 
-.. _scheduling:
+.. _meg_scheduling:
 
 4. Scheduling recording time
 ------
@@ -96,7 +96,7 @@ Covers are in cabinet of MEEG prep room #1
   1. Obtain access to M/EEG Google calendar
   2. Reserve a timeslot
 
-.. _preparation-room:
+.. _meg_preparation-room:
 
 5. Checklist prior to a recording
 ------
@@ -148,7 +148,7 @@ Covers are in cabinet of MEEG prep room #1
 .. Note::
   **Response boxes:** Port 1 = small amplitude; Port 2 = large amplitude.
 
-.. _preparation-subject:
+.. _meg_preparation-subject:
 
 6. Participant preparation prior to recording
 ------
@@ -158,7 +158,7 @@ Covers are in cabinet of MEEG prep room #1
   * No makeup, piercings, or metal on/in the body
   * Changed into scrubs (utilize changing room).
 
-.. _preparation-experiment:
+.. _meg_preparation-experiment:
 
 7. Preparations prior to experiment
 ------
@@ -208,7 +208,7 @@ Covers are in cabinet of MEEG prep room #1
 .. Note::
   Communicate with your participant
 
-.. _recording:
+.. _meg_recording:
 
 8. Conducting an experiment
 ------
@@ -250,7 +250,7 @@ Covers are in cabinet of MEEG prep room #1
 
   .. image:: /images/meg/meg_fig4.jpg
 
-.. _checklist-postrecording:
+.. _meg_checklist-postrecording:
 
 9. Checklist after a recording
 ------
@@ -264,7 +264,7 @@ Covers are in cabinet of MEEG prep room #1
   * Move MEG chair fully forward
   * Take participant out of MEG room
 
-.. _data-export:
+.. _meg_data-export:
 
 10. Data export
 ------
@@ -275,7 +275,7 @@ Covers are in cabinet of MEEG prep room #1
   * Select correct recording & storage folders
   * Copy files through drag & drop. [Note:] Start this process early as copying takes ages.
 
-.. _cleaning:
+.. _meg_cleaning:
 
 11. Cleaning
 ------
@@ -310,7 +310,7 @@ Covers are in cabinet of MEEG prep room #1
 .. Warning::
   Leave recording PC (``fo2-25``) ON and logged in!
 
-.. _notes-channels:
+.. _meg_notes-channels:
 
 12. Channel notes
 ------
@@ -323,7 +323,7 @@ Covers are in cabinet of MEEG prep room #1
     |   o	Port #1 = Left button	- Has lowest amplitude (channel UDI0001)
     |   o	Port #2 = Right button	- Has highest amplitude (channel UDI0001)
 
-.. _notes-other:
+.. _meg_notes-other:
 
 13. Other notes
 ------
@@ -334,7 +334,7 @@ Covers are in cabinet of MEEG prep room #1
 
 * Hardware filters are offline filters and therefore influence your raw signal. Can also apply visual filters in one of the menus under “display” during acquisition.
 
-.. _alarms:
+.. _meg_alarms:
 
 14. Alarms
 ------
@@ -361,7 +361,7 @@ Covers are in cabinet of MEEG prep room #1
     * Right side out of MEG room, inspect cable.
     * If all OK, press “reset” button or do hard reset by replugging power cable
 
-.. _questions:
+.. _meg_questions:
 
 15. Open questions
 ------
