@@ -14,18 +14,14 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 07/12/2022 @ 11:00-12:00
-    - Lab meeting
-    - TBA
-    - `Journal club <https://www.nature.com/articles/s41562-017-0267-2?source=post_page>`_
   * - 14/12/2022 @ 11:00-12:00
     - Lab meeting
     - Isabel
     - Project update
   * - 11/01/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
-    - Journal club
+    - Jan
+    - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627321000453>`_
   * - 18/01/2023 @ 11:00-12:00
     - Lab meeting
     - Frank
@@ -33,15 +29,15 @@ Upcoming team meetings
   * - 25/01/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Journal club
+    - `Journal club <https://www.nature.com/articles/s41593-021-00845-1>`_
   * - 01/02/2023 @ 11:00-12:00
     - Lab meeting
     - Jan
     - Project update
   * - 15/02/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
-    - Journal club
+    - Frank
+    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
   * - 22/02/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
