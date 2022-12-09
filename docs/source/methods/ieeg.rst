@@ -24,17 +24,18 @@ iEEG
     | ``DC2`` (red trace):    audio 3.5mm
     | ``DC3`` (green trace):  manual pedal/response box
 
-**Manual markers**
-
-* Place manual markers simply by typing on the keyboard
-* Mark experiment start and end using manual markers
-* Naming convention: ``RH exp # start``; ``RH exp # end``. Experiment nr. relative for each recording session
-
 **Room descriptives**
 
-* Recording station always located on the right side of the bed. Place photodiode marker accordingly.
+* Recording station located on the left or right side of the bed. Assign photodiode position accordingly.
 * Screen is turned off as you enter and should be turned off as you leave.
-* Keyboard is tucked into cupboard and should be replaced as you leave.
+* Keyboard is tucked into cupboard and should be stowed away when you leave.
+
+
+**Manual markers**
+
+* As soon as you start typing, a pop-up window will appear where you can type your manual marker
+* Mark experiment start and end using manual markers
+* Naming convention: ``RH exp # start``; ``RH exp # end``. Experiment nr. relative for each recording session
 
 
 .. warning::

@@ -74,12 +74,12 @@ Upcoming Conferences
     - Abstract
     - Registration
   * - 08-09/02/2023
-    - Univ. SBG DK+
+    - `Univ. SBG DK+ <http://www.sleepscience.at/?page_id=4587&lang=en>`_
     - Werfenweng, AT
-    - Pending
+    - `16/12/2022 <https://sleeplab.ccns.sbg.ac.at/index.php/821927?lang=en>`_
     - 15/10/2022
   * - 09-11/02/2023
-    - W. symp. 2023
+    - `W. symp. 2023 <http://www.sleepscience.at/?page_id=4587&lang=en>`_
     - Werfenweng, AT
     - Pending
     - `16/12/2022 <https://sleeplab.ccns.sbg.ac.at/index.php/821927?lang=en>`_
@@ -113,6 +113,11 @@ Upcoming Conferences
     - Tuebingen, DE
     - Pending
     - Pending
+  * - ##-##/##/2025
+    - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
+    - TBA, PT
+    - Pending
+    - Pending
 
 
 .. _lab-activities:
@@ -127,9 +132,6 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 07/12/2022 @ 17:00
-    - HIH Christmas walk
-    - HIH
   * - 12/12/2022 @ 18:00
     - Christmas party/Secret Santa
     - TBA

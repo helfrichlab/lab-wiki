@@ -91,10 +91,8 @@ Covers are in cabinet of MEEG prep room #1
 4. Scheduling recording time
 ------
 
-.. code-block::
-
-  1. Obtain access to M/EEG Google calendar
-  2. Reserve a timeslot
+1.  Obtain access to M/EEG Google calendar ``...information pending...``
+2.  Reserve a timeslot using the Google calendar
 
 .. _meg_preparation-room:
 
@@ -123,10 +121,8 @@ Covers are in cabinet of MEEG prep room #1
   PC ``fo2-25`` should not be turned off or logged
 
 .. Note::
-  Press & hold to make sure both lights are switched (``COM5`` issue).
-
-.. Note::
-  Speaker volume is separate control (labeled grey box; top left).
+  * Press & hold to make sure both lights are switched (``COM5`` issue).
+  * Speaker volume is separate control (labeled grey box; top left).
 
 :MEG room:
   * Lights in MEG room (small black box @ front right)
@@ -238,12 +234,8 @@ Covers are in cabinet of MEEG prep room #1
   * Initiate block start & actual recording by sending a trigger through COM5 port
 
 .. Note::
-  *Stim response box:* Port 1 = lowest amplitude; port 2 = largest amplitude
-
-
-.. Note::
-  "Start recording" enables data acquisition. The actual recording starts by
-  sending a trigger to the PC!
+  * *Stim response box:* Port 1 = lowest amplitude; port 2 = largest amplitude
+  * ``Start recording`` only enables data acquisition. The actual **recording starts by sending a trigger to the recording PC!**
 
 
   .. image:: /images/meg/meg_fig3.jpg
@@ -308,20 +300,21 @@ Covers are in cabinet of MEEG prep room #1
   * Deposit laundry and sort if the bucket is full (located next to scrubs cabinets)
 
 .. Warning::
-  Leave recording PC (``fo2-25``) ON and logged in!
+  Leave recording PC (``fo2-25``) **ON and logged in!**
 
 .. _meg_notes-channels:
 
 12. Channel notes
 ------
 
-  * UDI0001 = response box; Amp settings: Stim = 2k-5k
-  * UADC001 = photodiode #1; Amp settings: ADC vol = 5
-  * UADC002 = photodiode #2; Amp settings: ADC vol = 5
-  * UADC012 – UADC016 = eye-tracking channels
+  * ``UDI0001`` = response box; Amp settings: Stim = 2k-5k
+  * ``UADC001`` = photodiode #1; Amp settings: ADC vol = 5
+  * ``UADC002`` = photodiode #2; Amp settings: ADC vol = 5
+  * ``UADC012`` – ``UADC016`` = eye-tracking channels
   * Trigger hub in MEG room: response box connected to ports #1 & #2
-    |   o	Port #1 = Left button	- Has lowest amplitude (channel UDI0001)
-    |   o	Port #2 = Right button	- Has highest amplitude (channel UDI0001)
+
+    * Port #1 = Left button	- Has lowest amplitude (channel UDI0001)
+    * Port #2 = Right button	- Has highest amplitude (channel UDI0001)
 
 .. _meg_notes-other:
 
@@ -329,9 +322,7 @@ Covers are in cabinet of MEEG prep room #1
 ------
 
 * If ACQ is turned off: login requires username (meg) and password (meglab). Page 1 of logbook.
-
-* Signal recorded on UDI0001 shows response for both buttons of the response box. Note that the amplitude is larger for one button vs. the other (amp is also really high, so rescale to see it).
-
+* Signal recorded on ``UDI0001`` shows response for both buttons of the response box. Note that the amplitude is larger for one button vs. the other (amp is also really high, so rescale to see it).
 * Hardware filters are offline filters and therefore influence your raw signal. Can also apply visual filters in one of the menus under “display” during acquisition.
 
 .. _meg_alarms:

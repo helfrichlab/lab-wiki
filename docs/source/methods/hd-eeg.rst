@@ -33,9 +33,6 @@ Contents
 1. Preparing for a recording
 ---------
 
-.. Note::
-  Determine participant/patient ID
-
 :Hardware:
   * Switch on EGI transformer box
   * Switch on the amplifier
@@ -93,7 +90,7 @@ Contents
 
 1.	Place a towel around the participant’s neck and covering the shoulders. Explain again what will happen
 2.	Shake the excess electrolyte from the net
-3.	Give the connector to the patient.
+3.	Give the connector to the patient so you can use both hands for cap placement
 4.	Stand directly in front of the patient when placing the net
 5.	Ask the participant to keep the eyes closed
 6.	Keep hold of the EGI cap using your thumbs and little fingers
@@ -121,10 +118,10 @@ Contents
 
 1.  Connect the connector to the EGI beam.
 2.	Start acquisition within Netstation
-3.	Check the impedances of the electrodes (should be ``< 50 kOhm``.
+3.	Check the impedances of the electrodes (``< 50 kOhm``).
 
 .. note::
-  If impedances are higher, you can improve the signal by ensuring good contact (push hair out of the way) and re-soaking the electrode with electrolyte solution.
+  If impedances are high, you can improve the signal by ensuring good contact (push hair out of the way) and re-soaking the electrode with electrolyte solution.
 
 .. _hdeeg_recording:
 
@@ -143,10 +140,9 @@ Contents
 * [Option 2:] Execute ``EGI_stopRecording.m`` on the stimulus PC
 
 .. Note::
-  An active recording is indicated by a red background and running timer.
+  * An active recording is indicated by a red background and running timer.
+  * As soon as the recording ends, you have to reinsert the participant/patient ID!
 
-.. Warning::
-  As soon as the recording ends, you have to reinsert the participant/patient ID!
 
 .. _hdeeg_removal-cap:
 
@@ -157,6 +153,7 @@ Contents
 2.  Make sure Netstation is no longer recording (i.e., white screen)
 3.  Stop signal Acquisition
 4.  Unplug the connector
+5.  Give the connector to the patient so you can use both hands for cap placement
 5.  Have the participant/patient close their eyes
 6.	Carefully remove the EGI cap by 'peeling' it back on itself
 
@@ -180,10 +177,10 @@ Contents
 3.  Fill the rinse bucket with warm (not hot) tap water
 4.  Repeatedly plunge the net in clean water (gently). Rinse water and repeat at least 4 times
 5.  Use one of the foamboard head models to dry the EGI net. Place a towel on the head model and place the net onto the head model to dry.
-6.  ``Alternative:`` Air dry the NetStation
+6.  ``Alternative:`` Air dry the HD-EEG cap inside-out
 
 .. Note::
-  Refresh disinfectant regularly using the concentrated solution that is in the HD-EEG room (in a 1:4 ratio with solution & regular tap water; make solution of 2L).
+  Refresh disinfectant regularly using the concentrated solution that is in the HD-EEG room (in a ``1:4`` ratio with solution & regular tap water; make solution of ``2L``).
 
 **Shutting down the EGI system:**
 
