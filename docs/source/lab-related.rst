@@ -39,7 +39,7 @@ Contents
 3. Account Passwords
 ----------------
 .. note::
-    Talk to our Lab Wizard :mage:
+    Talk to our Lab Wizard |:mage:|
 
 .. _lab_equipment:
 
