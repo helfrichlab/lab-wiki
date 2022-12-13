@@ -382,14 +382,16 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 | 1. 	Start Ubuntu
 | 2. 	ssh fvanschalkwijk@192.168.7.189
 | 3. 	Enter password
-| 4.  Start Matlab, navigate to project folder, define path and subjects:
+| 4.  Start Matlab, define paths, initialize fieldtrip, add qsub, navigate to project folder, and define subjects:
 
 .. code-block::
 
 
-  >> matlab -nodesktop -nojvm (when shortcut enabled)
+  >> matlab -nodesktop -nojvm (when shortcut enabled
   >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/
-  >> [fpath] = fjvs_startup_[PROJECT_ID]
+  >> [fpath] = fjvs_startup_[PROJECT_ID] % Defines paths
+  >> ft_defaults;
+  >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
   >> subjects = project4_alphaSpindles_init_subjects(fpath);
 
 | 5. 	Select the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
@@ -400,7 +402,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
                 'timreq',10*3600,'StopOnError',false,'jvm','no','backend',...
                 'torque','queue','hih','diary','always');
 
-| 6. 	Execute your job
+| 6. Execute your job
 | 7. Closing the terminal while leaving the jobs running: sequentially type ``~`` + ``ctrl`` + ``z`` to close the connection (while job(s) are running)
 | 8. Type "qstat" to determine status (while connected to the cluster)
 | 9. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
