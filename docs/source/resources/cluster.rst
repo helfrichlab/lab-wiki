@@ -28,6 +28,7 @@ Contents
 
 1. Details
 ------
+
 :IP address:
     | 192.168.7.189
 
