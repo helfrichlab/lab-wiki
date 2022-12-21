@@ -49,11 +49,11 @@ Upcoming team meetings
   * - 15/03/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Journal Club
+    - Project update
   * - 29/03/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Project update
+    - Journal club
 
 .. _conferences:
 

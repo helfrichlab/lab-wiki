@@ -388,7 +388,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 .. code-block::
 
 
-  >> matlab -nodesktop -nojvm (when shortcut enabled
+  >> matlab -nodesktop -nojvm % (when shortcut enabled
   >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/
   >> [fpath] = fjvs_startup_[PROJECT_ID] % Defines paths
   >> ft_defaults;
