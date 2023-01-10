@@ -40,7 +40,7 @@ Upcoming team meetings
     - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
   * - 01/03/2023 @ 11:00-12:00
     - Lab meeting
-    - Jan
+    - TBA
     - Project update
   * - 08/03/2023 @ 11:00-12:00
     - Lab meeting
@@ -48,7 +48,7 @@ Upcoming team meetings
     - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
   * - 15/03/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
+    - Jan
     - Project update
   * - 29/03/2023 @ 11:00-12:00
     - Lab meeting
@@ -104,7 +104,7 @@ Upcoming Conferences
     - Montreal, CA
     - 20/12/2022
     - 20/12/2022
-  * - 06-10/06/2023
+  * - 08-10/06/2023
     - PUG 2023
     - Tuebingen, DE
     - Pending
@@ -128,9 +128,6 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 10/01/2023 @ 18:00 (?)
-    - Meeting & social (?)
-    - TBA
   * - ??/02/2023 @ ##:00
     - 2023 kick-off social (?)
     - TBA
