@@ -14,18 +14,18 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 11/01/2023 @ 11:00-12:00
+  * - 16/01/2023 @ 16:00-17:00
     - Lab meeting
-    - Jan
-    - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627321000453>`_
+    - Janna
+    - Dress rehearsal of conference talk
   * - 18/01/2023 @ 11:00-12:00
     - Lab meeting
     - Frank
     - Project update
   * - 25/01/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
-    - Journal Club
+    - Michael
+    - `Journal Club <https://www.sciencedirect.com/science/article/abs/pii/S0166223622001643>`_
   * - 01/02/2023 @ 11:00-12:00
     - Lab meeting
     - Frank
