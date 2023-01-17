@@ -71,7 +71,7 @@ Contents
   * Eye-tracking PC
   * Eye-tracking battery (table close to MEG entry)
   * Stimulus PC
-  * Stimulus laptop
+  * Stimulus laptop (update: redundant. Use ``fo2-36`` instead)
   * Intercom
 
 :M/EEG prep. room:
@@ -110,9 +110,9 @@ Covers are in cabinet of MEEG prep room #1
   * Flip power switch on far left for eye-tracking PC
   * Turn on eye-tracking PC ([note:] located on the desk, not the pc labeled ‘eye-tracking’)
   * Select Eye-track OS
-  * Setup stimulus laptop, connect HDMI & “USB triggers” cables, and power
+  * Setup stimulus laptop, connect HDMI & “USB triggers” cables, and power (update: redundant. Use ``fo2-36`` instead)
   * Projector input to laptop (bottom of desk; radio console; ``#11``)
-  * Trigger output to laptop (bottom of desk; radio console; ``#12``).
+  * Trigger output to laptop (bottom of desk; radio console; ``#12``). (update: redundant. Use ``fo2-36`` instead)
   * Set intercom to “listen” only
   * Volume levels for intercom (MEG room & speaker).
   * Obtain eye-tracking camera from the office of Gabi & Jürgen (gray cabinet).
@@ -289,7 +289,7 @@ Covers are in cabinet of MEEG prep room #1
   * Switch off beamer (power switch)
   * Switch of lights for MEG room
   * Switch off eye-tracking PC
-  * Disconnect stimulus laptop (HDMI & USB triggers)
+  * Disconnect stimulus laptop (HDMI & USB triggers) (update: redundant. Use ``fo2-36`` instead)
   * Switch trigger output (bottom of desk; radio console) to stimulus PC
   * Beamer & trigger control to default settings (``#11``: ``fo2-35``; ``#12``: ``fo2-36``)
   * All PCs off except recording PC (``fo2-25``)
