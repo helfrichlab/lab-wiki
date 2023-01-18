@@ -320,6 +320,8 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
     - Description
   * - qsub
     - submit a job
+  * - qdel jobid
+    - will kill the specified job
   * - qdel -p jobid
     - will force purge the job if it is not killed by qdel
   * - qstat
