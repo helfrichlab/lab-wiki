@@ -32,7 +32,7 @@ Upcoming team meetings
     - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
   * - 01/03/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
+    - Mariana
     - Project update
   * - 08/03/2023 @ 11:00-12:00
     - Lab meeting
