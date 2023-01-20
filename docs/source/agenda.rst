@@ -14,14 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 16/01/2023 @ 16:00-17:00
-    - Lab meeting
-    - Janna
-    - Dress rehearsal of conference talk
-  * - 18/01/2023 @ 11:00-12:00
-    - Lab meeting
-    - Frank
-    - Project update
   * - 25/01/2023 @ 11:00-12:00
     - Lab meeting
     - Michael
@@ -105,10 +97,10 @@ Upcoming Conferences
     - 20/12/2022
     - 20/12/2022
   * - 08-10/06/2023
-    - PUG 2023
+    - `PUG 2023 <https://pug2023.de/home/en/>`_
     - Tuebingen, DE
-    - Pending
-    - Pending
+    - 31/03/2023
+    - 07/04/2023
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
