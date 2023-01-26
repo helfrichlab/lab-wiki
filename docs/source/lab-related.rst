@@ -11,6 +11,11 @@ Contents
  | :ref:`lab_equipment`
  | :ref:`lab_other`
 
+ 0. Phone numbers
+ ------------
+
+569 Ebene 5, Raum 110: +49 7071 29 81899
+569 Ebene 5, Raum 111: +49 7071 29 81929
 
 ..  _lab_arrival:
 
