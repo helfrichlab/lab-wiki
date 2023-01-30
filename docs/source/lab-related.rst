@@ -14,9 +14,6 @@ Contents
  0. Phone numbers
  ------------
 
-569 Ebene 5, Raum 110: +49 7071 29 81899
-569 Ebene 5, Raum 111: +49 7071 29 81929
-
 ..  _lab_arrival:
 
 1. New Arrivals
@@ -26,7 +23,7 @@ Contents
 * `How to request a CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
 * `Hertie IT Wiki <https://hih-docu.neurologie.uni-tuebingen.de/>`_
 * `Sign up for the 3Lab Mailing List <https://listserv.uni-tuebingen.de/mailman/listinfo/cogneuroteam>`_
-
+* `Lab documentation (tel, wifi, zoom, laptop) <https://docs.google.com/document/d/13GZwU_fvfFtpB9zSDVzpjDZjXKkLTERRRSZ3rihSWEU/edit>`_
 
 .. _lab_forms:
 
