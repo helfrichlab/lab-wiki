@@ -14,30 +14,22 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 25/01/2023 @ 11:00-12:00
-    - Lab meeting
-    - Michael
-    - `Journal Club <https://www.sciencedirect.com/science/article/abs/pii/S0166223622001643>`_
-  * - 01/02/2023 @ 11:00-12:00
-    - Lab meeting
-    - Frank
-    - `Journal club <https://www.nature.com/articles/s41586-022-05533-z>`_
   * - 15/02/2023 @ 11:00-12:00
     - Lab meeting
     - Matthias
     - Project update
   * - 22/02/2023 @ 11:00-12:00
     - Lab meeting
-    - Gabriela
-    - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
+    - Frank
+    - `Journal club <https://www.nature.com/articles/s41586-022-05533-z>`_
   * - 01/03/2023 @ 11:00-12:00
     - Lab meeting
     - Mariana
     - Project update
   * - 08/03/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
-    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
+    - Gabriela
+    - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
   * - 15/03/2023 @ 11:00-12:00
     - Lab meeting
     - Jan
@@ -45,7 +37,7 @@ Upcoming team meetings
   * - 29/03/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - Journal club
+    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
 
 .. _conferences:
 
