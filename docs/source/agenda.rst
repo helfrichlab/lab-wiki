@@ -41,7 +41,7 @@ Upcoming team meetings
   * - 05/04/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - TBA
+    - `Journal club <https://www.nature.com/articles/s41467-020-20722-y>`_
   * - 12/04/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
