@@ -123,8 +123,8 @@ Upcoming Conferences
   * - 08-10/06/2023
     - `PUG 2023 <https://pug2023.de/home/en/>`_
     - Tuebingen, DE
-    - 31/03/2023
-    - 07/04/2023
+    - `31/03/2023 <https://pug2023.de/home/en/einreichung/>`_
+    - `07/04/2023 <https://pug2023.de/home/en/registrierung/>`_
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
