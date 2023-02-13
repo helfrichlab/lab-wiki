@@ -85,21 +85,21 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 08-09/02/2023
-    - `Univ. SBG DK+ <http://www.sleepscience.at/?page_id=4587&lang=en>`_
-    - Werfenweng, AT
-    - `16/12/2022 <https://sleeplab.ccns.sbg.ac.at/index.php/821927?lang=en>`_
-    - 15/10/2022
-  * - 09-11/02/2023
-    - `W. symp. 2023 <http://www.sleepscience.at/?page_id=4587&lang=en>`_
-    - Werfenweng, AT
-    - Pending
-    - `16/12/2022 <https://sleeplab.ccns.sbg.ac.at/index.php/821927?lang=en>`_
+  * - 02-04/03/2023
+    - `DGKN <https://www.kongress-dgkn.de/>`_
+    - Hamburg
+    - NA
+    - NA
   * - 09-14/03/2023
     - `Cosyne 2023 <https://www.cosyne.org/>`_
     - Montreal, CA
     - 23/11/2022
     - from 28/11/2022
+  * - 22-24/03/2023
+    - `NWG 2023 <https://www.nwg-goettingen.de/2023/>`_
+    - Göttingen
+    - NA
+    - NA
   * - 14-17/03/2023
     - `MBB Symposium <https://www.cbs.mpg.de/en/mbb-symposium>`_
     - Berlin, DE
@@ -126,7 +126,7 @@ Upcoming Conferences
     - `31/03/2023 <https://pug2023.de/home/en/einreichung/>`_
     - `07/04/2023 <https://pug2023.de/home/en/registrierung/>`_
   * - 15-19/07/2023
-    - `Computational Neuroscience Meeting (CNS) <https://ocns.memberclicks.net/cns-2023-quick>`_
+    - `CNS 2023 <https://ocns.memberclicks.net/cns-2023-quick>`_
     - Leipzig, Germany
     - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
     - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
