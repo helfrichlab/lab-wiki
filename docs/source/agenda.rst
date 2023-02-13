@@ -125,6 +125,11 @@ Upcoming Conferences
     - Tuebingen, DE
     - `31/03/2023 <https://pug2023.de/home/en/einreichung/>`_
     - `07/04/2023 <https://pug2023.de/home/en/registrierung/>`_
+  * - 15-19/07/2023
+    - `Computational Neuroscience Meeting (CNS) <https://ocns.memberclicks.net/cns-2023-quick>`_
+    - Leipzig, Germany
+    - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
+    - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
