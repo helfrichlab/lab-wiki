@@ -14,10 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 15/02/2023 @ 11:00-12:00
-    - Lab meeting
-    - Matthias
-    - Project update
   * - 22/02/2023 @ 11:00-12:00
     - Lab meeting
     - Frank
@@ -45,7 +41,7 @@ Upcoming team meetings
   * - 12/04/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
-    - TBA
+    - `Journal club <https://www.biorxiv.org/content/10.1101/2023.02.08.527772v1>`_
   * - 19/04/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
@@ -97,7 +93,7 @@ Upcoming Conferences
     - from 28/11/2022
   * - 22-24/03/2023
     - `NWG 2023 <https://www.nwg-goettingen.de/2023/>`_
-    - Göttingen
+    - Göttingen, DE
     - NA
     - NA
   * - 14-17/03/2023
@@ -127,7 +123,7 @@ Upcoming Conferences
     - `07/04/2023 <https://pug2023.de/home/en/registrierung/>`_
   * - 15-19/07/2023
     - `CNS 2023 <https://ocns.memberclicks.net/cns-2023-quick>`_
-    - Leipzig, Germany
+    - Leipzig, DE
     - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
     - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
   * - ##-##/##/2025
@@ -149,6 +145,6 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - ??/02/2023 @ ##:00
-    - 2023 kick-off social (?)
-    - TBA
+  * - 24/02/2023 @ 18:00
+    - 2023 kick-off social
+    - `Zum Alten Fritz <https://goo.gl/maps/L271FKSskvBFbXoT7>`_
