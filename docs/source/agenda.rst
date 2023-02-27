@@ -14,26 +14,22 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 22/02/2023 @ 11:00-12:00
-    - Lab meeting
-    - Frank
-    - `Journal club <https://www.nature.com/articles/s41586-022-05533-z>`_
   * - 01/03/2023 @ 11:00-12:00
     - Lab meeting
     - Mariana
     - Project update
   * - 08/03/2023 @ 11:00-12:00
     - Lab meeting
-    - Gabriela
-    - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
+    - TBA
+    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
   * - 15/03/2023 @ 11:00-12:00
     - Lab meeting
     - Jan
     - Project update
   * - 29/03/2023 @ 11:00-12:00
     - Lab meeting
-    - TBA
-    - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
+    - Gabriela
+    - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
   * - 05/04/2023 @ 11:00-12:00
     - Lab meeting
     - TBA
@@ -145,6 +141,3 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 24/02/2023 @ 18:00
-    - 2023 kick-off social
-    - `Zum Alten Fritz <https://goo.gl/maps/L271FKSskvBFbXoT7>`_
