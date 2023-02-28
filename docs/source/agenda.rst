@@ -14,51 +14,51 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 01/03/2023 @ 11:00-12:00
+  * - 02/03/2023 @ 15:00-16:00
     - Lab meeting
     - Mariana
     - Project update
-  * - 08/03/2023 @ 11:00-12:00
+  * - 09/03/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - `Journal club <https://www.nature.com/articles/s41583-022-00606-4>`_
-  * - 15/03/2023 @ 11:00-12:00
+  * - 16/03/2023 @ 15:00-16:00
     - Lab meeting
     - Jan
     - Project update
-  * - 29/03/2023 @ 11:00-12:00
+  * - 23/05/2023 @ 15:00-16:00
+    - Lab meeting
+    - TBA
+    - TBA
+  * - 30/03/2023 @ 15:00-16:00
     - Lab meeting
     - Gabriela
     - `Journal club <https://www.sciencedirect.com/science/article/pii/S0896627322010327>`_
-  * - 05/04/2023 @ 11:00-12:00
+  * - 06/04/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - `Journal club <https://www.nature.com/articles/s41467-020-20722-y>`_
-  * - 12/04/2023 @ 11:00-12:00
+  * - 20/04/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - `Journal club <https://www.biorxiv.org/content/10.1101/2023.02.08.527772v1>`_
-  * - 19/04/2023 @ 11:00-12:00
+  * - 04/05/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - TBA
-  * - 03/05/2023 @ 11:00-12:00
+  * - 11/05/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - TBA
-  * - 10/05/2023 @ 11:00-12:00
+  * - 18/05/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - TBA
-  * - 17/05/2023 @ 11:00-12:00
+  * - 25/05/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - TBA
-  * - 24/05/2023 @ 11:00-12:00
-    - Lab meeting
-    - TBA
-    - TBA
-  * - 31/05/2023 @ 11:00-12:00
+  * - 01/06/2023 @ 15:00-16:00
     - Lab meeting
     - TBA
     - TBA
