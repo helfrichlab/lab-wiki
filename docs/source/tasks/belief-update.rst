@@ -43,17 +43,17 @@ Contents
 2. Setup
 --------
 
-In the first section of the master script you will find the following required variables that have to be manually updated:
+  In the first section of the master script you will find the following required variables that have to be manually updated:
   *	``subID``- Subject identification code (e.g., "TUE08")
   *	``cfg.checkside`` - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
 
-When you run ``config_exp.m``, a confirmation of the subject ID will be prompted. To confirm subject ID, enter ``true`` in the command line. 
+  When you run ``config_exp.m``, a confirmation of the subject ID will be prompted. To confirm subject ID, enter ``true`` in the command line. 
   You also must define a recording type. If you are running this task for patients, enter ``ECoG`` in the second prompt.
 
 ..  code-block:: matlab
     :caption: PATH:~\\belief-update\\code\\config_exp.m
 
-     ------ Confirm subID or type new subID ---- Test3 ----  [true/newID]: [user_input]
+     ------ Confirm subID or type new subID ---- TUE08 ----  [true/newID]: [user_input]
 
      ------ Recording Type [training/behavioral/EEG/ECoG/debug]: [user_input]
 
@@ -77,9 +77,8 @@ If
 ------
 
 **Checklist prior to the experiment:**
-  * [Check1 description]
-  * [Check2 description]
-  *	Verify that the **photodiode location** is set correctly (``init.PDlocation``; 1=left; 2=right)
+  * Verify that  the **subject ID** is set correctly (``subID``).
+  *	Verify that the **photodiode location** is set correctly (``cfg.checkside``; 1=left; 2=right).
 
 
 **Running the complete experiment:**
@@ -90,9 +89,11 @@ If
       The calibration must be completed in a single session. Otherwise, the calibration will start over.
 
 
+
 **How to PAUSE, RESUME, or ABORT the paradigm:**
-    * Pause/Resume by pressing ``P``
-    * Abort by pressing ``ESC``
+  * Pause/Resume by pressing ``P``
+  * Abort by pressing ``ESC``
+  If the experiment was aborted, run ``config_exp.m`` again with the same subID and recording type as before. The experiment will continue according to a predefine rule. The calibration session will start over. Other components will resume from the trial where it stopped.
 
 .. note::
   Data are stored automatically, also when you abort.
@@ -100,7 +101,7 @@ If
 
 .. _instructions-pat:
 
-6. Patient instructions
+1. Patient instructions
 -----------------
 
 **Instructions for** ``[script1.m]``:
