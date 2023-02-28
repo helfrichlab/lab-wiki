@@ -27,13 +27,16 @@ Contents
 -------------------
 
 :Recording Session:
-    | **Structure:**  Coherence calibration (5 min), localizer (5 min), training session (7 min), main task (up to 70 min)
+    | **Structure:**  Coherence calibration (up to 5 min)
+    |                 Localizer (5 min) 
+    |                 Training session (up to 8 min)
+    |                 Main task (up to 70 min)
     | **Duration:**   From 1h to 1h30
     | **Blocks:**     4 of 80 trials
     | **Trials:**     320
     | **Pause:**      Press ``P`` during random dots response or self-paced start
     | **Abort:**      Press ``ESC`` during random dots response or self-paced start
-    | **Equipment**   Stimulus laptop, Photodiode
+    | **Equipment:**  Stimulus laptop, Photodiode
 
 .. _setup:
 
@@ -41,21 +44,20 @@ Contents
 --------
 
 In the first section of the master script you will find the following required variables that have to be manually updated:
-  *	``subID`` - Subject identification code (e.g., "TUE08")
-  *	``cfg.checkside``  - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
+  *	``subID``- Subject identification code (e.g., "TUE08")
+  *	``cfg.checkside`` - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
 
-.. note::
-  When you run ``config_exp.m``, a confirmation of the subject ID will be prompted. To confirm subject ID, enter ``true`` in the command line. 
+When you run ``config_exp.m``, a confirmation of the subject ID will be prompted. To confirm subject ID, enter ``true`` in the command line. 
   You also must define a recording type. If you are running this task for patients, enter ``ECoG`` in the second prompt.
 
 ..  code-block:: matlab
-    :caption: ~\belief-update\code\config_exp.m
+    :caption: PATH:~\\belief-update\\code\\config_exp.m
 
      ------ Confirm subID or type new subID ---- Test3 ----  [true/newID]: [user_input]
 
      ------ Recording Type [training/behavioral/EEG/ECoG/debug]: [user_input]
 
-
+If 
 
 .. _scripts:
 
@@ -85,7 +87,7 @@ In the first section of the master script you will find the following required v
 
 
 **Running individual sections:**
-      [...Instructions...]
+      The calibration must be completed in a single session. Otherwise, the calibration will start over.
 
 
 **How to PAUSE, RESUME, or ABORT the paradigm:**
@@ -105,15 +107,7 @@ In the first section of the master script you will find the following required v
     *"[...instructions...]”*
 
 
-**Instructions for** ``[script2.m]``:
-    *“[...instructions...]”*
-
-
-**Instructions for** ``[script3.m]``:
-      *“[...instructions...]”*
-
-
-7. Comments/issues
+1. Comments/issues
 ------------
 
 :[Issue 1]:
