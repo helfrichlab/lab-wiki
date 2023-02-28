@@ -1,8 +1,8 @@
 .. include:: /Includes.rst.txt
 
-======
+=============
 Belief Update
-======
+=============
 
 .. autosummary::
    :toctree: generated
@@ -10,66 +10,68 @@ Belief Update
 | **From: HelfrichLab**
 | **Authors:** Gabriela Iwama
 | **Run on:** Psychtoolbox
-| **Abbreviation:** [...Abbreviation...]
-| **Contact:** [...Contact...]
+| **Abbreviation:** BU
 
 Contents
-------
-.. code-block::
+--------
 
-  1. Task descriptives
-  2. Equipment
-  3. Set Up
-  4. Scripts
-  5. Experimenter instructions
-  6. Patient instructions
-  6. Comments/issues
+ | :ref:`description`
+ | :ref:`setup`
+ | :ref:`scripts`
+ | :ref:`instructions-exp`
+ | :ref:`instructions-pat`
 
-1. Task descriptives
-------
+.. _description:
 
-:Recording session:
-    | **Structure:**  Coherence calibration, localizer, training session, main task
-    | **Duration:**   ca. 1h
+1. Task description
+-------------------
+
+:Recording Session:
+    | **Structure:**  Coherence calibration (5 min), localizer (5 min), training session (7 min), main task (up to 70 min)
+    | **Duration:**   From 1h to 1h30
     | **Blocks:**     4 of 80 trials
     | **Trials:**     320
-    | **Pause:**      enabled during random dots response or ITI
-    | **Abort:**      [...Pending...]
+    | **Pause:**      Press ``P`` during random dots response or self-paced start
+    | **Abort:**      Press ``ESC`` during random dots response or self-paced start
+    | **Equipment**   Stimulus laptop, Photodiode
 
+.. _setup:
 
-2. Equipment
-------
-:Hardware used:
-  | Stimulus laptop
-  | Photodiode
-  | [...Pending...]
+2. Setup
+--------
 
-3. Set up
-------
 In the first section of the master script you will find the following required variables that have to be manually updated:
-  *	``var1`` 	- Description
-  *	``var2``  - Description
-  *	``var3``  - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
+  *	``subID`` - Subject identification code (e.g., "TUE08")
+  *	``cfg.checkside``  - Photodiode location (1=bottom-left corner; 2=bottom-right corner)
 
 .. note::
-  [...Pending...]
+  When you run ``config_exp.m``, a confirmation of the subject ID will be prompted. To confirm subject ID, enter ``true`` in the command line. 
+  You also must define a recording type. If you are running this task for patients, enter ``ECoG`` in the second prompt.
 
-4. Scripts
+..  code-block:: matlab
+    :caption: ~\belief-update\code\config_exp.m
+
+     ------ Confirm subID or type new subID ---- Test3 ----  [true/newID]: [user_input]
+
+     ------ Recording Type [training/behavioral/EEG/ECoG/debug]: [user_input]
+
+
+
+.. _scripts:
+
+1. Scripts
 ------
-*	**Master script** that runs all sub-scripts/functions (``spatialExploration_MASTER_v3.m``)
-*	**# subscripts** (will run in the order listed)
-    | - ``script1.m``: [Function description]
-    | - ``script2.m``: [Function description]
-    | - ``script3.m``: [Function description]
 
-:Scripts:
-  | - ``script1.m`` -> Link to Git
-  | - ``script2.m`` -> Link to Git
-  | - ``script3.m`` -> Link to Git
-  | - ``script4.m`` -> Link to Git
-  | - ``script5.m`` -> Link to Git 
+| **Repository**: `GitHub <https://github.com/GabrielaIwama/belief-update>`_
+| **Dependencies**: `QuestPlus <https://github.com/petejonze/QuestPlus>`_
+| **Master Script**: ``config_exp.m``
 
-5. Experimenter instructions
+
+
+
+.. _instructions-exp:
+
+1. Experimenter instructions
 ------
 
 **Checklist prior to the experiment:**
@@ -87,15 +89,14 @@ In the first section of the master script you will find the following required v
 
 
 **How to PAUSE, RESUME, or ABORT the paradigm:**
-    * Pause by pressing ``p``
-    * Resume by pressing ``[key]``
-    * Abort by pressing ``esc``
-
-.. note::
-  [...note...]
+    * Pause/Resume by pressing ``P``
+    * Abort by pressing ``ESC``
 
 .. note::
   Data are stored automatically, also when you abort.
+
+
+.. _instructions-pat:
 
 6. Patient instructions
 -----------------
