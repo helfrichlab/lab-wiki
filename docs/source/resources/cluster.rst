@@ -19,6 +19,7 @@ Contents
 | :ref:`cluster_qsub_workflow`
 | :ref:`cluster_clusterEtiquette`
 | :ref:`cluster_disconnect_reconnect`
+| :ref:`cluster_vpn`
 | :ref:`cluster_commands`
 | :ref:`cluster_howTo`
 | :ref:`cluster_example`
@@ -31,7 +32,6 @@ Contents
 
 :IP address:
     | 192.168.7.189
-    | `Remote access using Hertie VPN <https://hih-docu.neurologie.uni-tuebingen.de/network-access/hih-vpn>`_
 
 **Resources:**
 
@@ -307,9 +307,18 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 .. Warning::
   Closing the terminal without properly closing the connection kills your jobs!!
 
+.. _cluster_vpn:
+
+11. Remote access using Hertie VPN
+------
+
+ `Instructions <https://hih-docu.neurologie.uni-tuebingen.de/network-access/hih-vpn>`_
+
+|   **Note:** Utilize 'openvpn hih pf 45 m udp4 1194'
+
 .. _cluster_commands:
 
-11. Other commands
+12. Other commands
 ------
 
 
@@ -365,7 +374,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 .. _cluster_howTo:
 
-12. How to's
+13. How to's
 ------
 
 * Separate functions for analysis from functions for visualization (i.e., plot locally, run computations on the cluster)
@@ -378,7 +387,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 .. _cluster_example:
 
-13. Step-by-step example
+14. Step-by-step example
 ------
 
 |   **Note:** Subjects are defined as cell strings (e.g., {'TUE01','TUE02',...})
@@ -414,7 +423,7 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
 
 .. _cluster_test_qsub:
 
-14. Testing QSUB
+15. Testing QSUB
 ------
 
 1. Create a test function that will be applied to every subject/channel/variable:
