@@ -31,6 +31,7 @@ Contents
 
 :IP address:
     | 192.168.7.189
+    | `Remote access using Hertie VPN <https://hih-docu.neurologie.uni-tuebingen.de/network-access/hih-vpn>`_
 
 **Resources:**
 
