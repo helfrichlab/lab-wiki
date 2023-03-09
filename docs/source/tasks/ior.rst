@@ -11,7 +11,7 @@ Inhibition of Return
 | **Authors:** Isabel Raposo
 | **Run on:** Psychtoolbox
 | **Abbreviation:** IOR
-| **Contact:** [...Contact...]
+| **Contact:** isa.1528@hotmail.com
 
 Contents
 ------
