@@ -35,7 +35,8 @@ Here you can find recommended readings, tutorials, and guidelines.
 ---------
 * `Quanta Magazine: Concept of entropy <https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/>`_
 * `Canonical correlation <http://sites.psu.edu/mcnl/files/2017/03/BIOE597_SP17_Lecture13-2fxzc43.pdf>`_
-
+* `DataHigh: Graphical user interface for visualizing and interacting with high-dimensional neural activity <https://users.ece.cmu.edu/~byronyu/software/DataHigh/get_started.html>`_
+* `High-Dimensional Data Analysis with Low-Dimensional Models <https://book-wright-ma.github.io/Book-WM-20210422.pdf>`_
 
 6. Other
 --------
