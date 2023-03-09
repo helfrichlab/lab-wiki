@@ -8,7 +8,7 @@ Inhibition of Return
    :toctree: generated
 
 | **From: HelfrichLab**
-| **Authors:** [...Authors...]
+| **Authors:** Isabel Raposo
 | **Run on:** Psychtoolbox
 | **Abbreviation:** IOR
 | **Contact:** [...Contact...]
