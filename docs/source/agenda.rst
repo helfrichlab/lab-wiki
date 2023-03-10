@@ -63,6 +63,8 @@ Upcoming team meetings
     - TBA
     - TBA
 
+`Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
+
 .. _conferences:
 
 Upcoming Conferences
