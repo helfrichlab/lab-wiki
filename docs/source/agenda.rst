@@ -26,10 +26,10 @@ Upcoming team meetings
     - Lab meeting
     - Jan
     - Project update
-  * - 23/05/2023 @ 15:00-16:00
+  * - 23/03/2023 @ 15:00-16:00
     - Lab meeting
-    - TBA
-    - TBA
+    - Markus
+    - Project update
   * - 30/03/2023 @ 15:00-16:00
     - Lab meeting
     - Gabriela
