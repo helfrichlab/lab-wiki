@@ -61,9 +61,9 @@ Upcoming Conferences
     - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
     - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
   * - 11-13/09/2023
-    - Nena
-    - TBA
-    - TBA
+    - `Nena 2023 <https://nenaconference.wordpress.com/>`_
+    - Frankfurt
+    - NA
     - TBA
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
