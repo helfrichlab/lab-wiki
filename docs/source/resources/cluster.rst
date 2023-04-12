@@ -229,9 +229,9 @@ You have multiple options to start Matlab:
 .. code-block::
 
   % Without the shortcut (default):
-  >> usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
+  >> /usr/local/MATLAB/R2021b/bin/matlab -nodesktop -nojvm
 
-  % Without the shortcut:
+  % With the shortcut:
   >> matlab -nodesktop -nojvm
 
 
