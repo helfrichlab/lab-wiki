@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 06/04/2023 @ 15:00-16:00
+  * - 19/04/2023 @ 10:00-11:00
     - Lab meeting
-    - TBA
-    - `Journal club <https://www.nature.com/articles/s41467-020-20722-y>`_
+    - David from UC Berkeley
+    - Project overview
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -65,6 +65,11 @@ Upcoming Conferences
     - Frankfurt
     - NA
     - TBA
+  * - 11-15/11/2023
+    - `SfN 2023 <https://www.sfn.org/>`_
+    - Washington, D.C.
+    - 14/06/2023 @ 5 p.m. ET `<https://www.sfn.org/meetings/neuroscience-2023/call-for-abstracts>`_
+    - 18/07-02/10/2023 `<https://www.sfn.org/meetings/neuroscience-2023/registration/registration-fees>`_
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
@@ -84,6 +89,6 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 08-11/09/2023
+  * - 07-10/09/2023
     - Lab retreat
     - Black forest
