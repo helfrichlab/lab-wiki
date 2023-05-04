@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 19/04/2023 @ 10:00-11:00
+  * - Pending
     - Lab meeting
-    - David from UC Berkeley
-    - Project overview
+    - Pending
+    - Pending
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -35,21 +35,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 23-26/04/2023
-    - `FENS 2023 <https://www.fens.org/meetings/the-brain-conferences>`_
-    - Rungsted Kyst, DK
-    - 12/01/2023
-    - 12/01/2023
-  * - 26-30/04/2023
-    - `Learning & Memory <https://learnmem2023.org/>`_
-    - CA, USA
-    - 30/09/2022
-    - 01/01/2023
-  * - 22-26/07/2023
-    - `OHBM 2023 <https://www.humanbrainmapping.org>`_
-    - Montreal, CA
-    - 20/12/2022
-    - 20/12/2022
   * - 08-10/06/2023
     - `PUG 2023 <https://pug2023.de/home/en/>`_
     - Tuebingen, DE
@@ -60,6 +45,11 @@ Upcoming Conferences
     - Leipzig, DE
     - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
     - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
+  * - 22-26/07/2023
+    - `OHBM 2023 <https://www.humanbrainmapping.org>`_
+    - Montreal, CA
+    - 20/12/2022
+    - 20/12/2022
   * - 11-13/09/2023
     - `Nena 2023 <https://nenaconference.wordpress.com/>`_
     - Frankfurt
