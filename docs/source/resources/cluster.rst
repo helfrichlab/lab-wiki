@@ -153,11 +153,11 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 
 
 **Set up SSH keys**
+This is to ensure that you can utilize qsub and are authorized to write to your personal folder
 
-This is to ensure that you can utilize qsub and are authorized to write to your personal folder (check)
-
+**FOR WINDOWS**
 1. Connect to the cluster
-2. Type the following command:
+2. Type the following command in the terminal window:
 
 .. code-block::
 
@@ -171,6 +171,27 @@ This is to ensure that you can utilize qsub and are authorized to write to your 
   >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
 5. You should now be ready to run MATLAB
+
+**FOR MAC OS**
+1. Connect to the cluster
+2. Type the following command in the terminal window:
+
+.. code-block::
+
+  >> ssh-keygen
+
+This starts the key generation process. When you execute this command, the ssh-keygen utility prompts you to indicate where to store the key.
+
+2. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase.
+3. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended. You will need to enter passphrase a second time to continue. Remember the passphrase for future connection prompts
+4. After you confirm the passphrase, the system generates the key pair.
+5. Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use
+6. Type the following command:
+
+.. code-block::
+
+  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+7. You should now be ready to run MATLAB
 
 
 **Set up a Matlab shortcut**
@@ -199,7 +220,7 @@ This is to make it easier to start Matlab (instead of defining Matlab's path eve
   # export SYSTEMD_PAGER=
 
   # User specific aliases and functions
-  export PATH=$PATH:/usr/local/MATLAB/R2021b/bin  <-
+  export PATH=$PATH:/usr/local/MATLAB/R2021b/bin/  # <-
   ~
   ~
   ~
@@ -244,9 +265,9 @@ You have multiple options to start Matlab:
 
 7. Parallelizing jobs
 ------
-To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip. Note that different versions of Fieldtrip are available in /Toolboxes/fieldtrip/
+To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtrip. Note that different versions of Fieldtrip are available in /Toolboxes/fieldtrip/.
 
-1. Add Fieldtrip, initialize, and add QSUB to Matlab's path:
+Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 
 .. code-block::
 
@@ -254,8 +275,50 @@ To parallelize jobs, you need to add qsub to Matlab's path AFTER adding Fieldtri
     >> ft_defaults
     >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
+**PARALLELIZING JOBS ON CLUSTER USING PYTHON**
+1. Create a .pbs script that relays .py script to the cluster
 
+Example script :
 
+.. code-block::
+    #===============================================================
+    #
+    #PBS -S /bin/bash                        # move to bash
+    #PBS -A nbinish                          # account to which job is charged
+    #PBS -N main                             # name of job
+    #PBS -l walltime=12:00:00                # job will run at most
+    #PBS -j oe                               # output and error is combined into the same file
+    #PBS -q hih                              # job submitted to hih queue
+    #PBS -m abe                              # begn end abort?
+    #PBS -M neha.binish@uni-tuebingen.de     # job notifications send to e-mail
+    #PBS -o main.out                         # name of outputfile
+    #PBS -e main.err                         # name of error file
+    #print the time and date at the beginning
+    date
+    echo " Started on `hostname`"
+
+    cd /gpfs01/helfrich/user/nbinish/ecog_nb1/python_scripts/subspace_cluster
+    module load python/conda/
+    module load openmpi/1.2.8
+
+    #run the python script main.py
+    python3 main.py
+    echo "Finished on `hostname`"
+
+    #print the time and date at the end
+    date
+
+2. Submit the .pbs script to the cluster using the following command:
+    >> qsub main.pbs
+
+3. Check the status of the job using the following command:
+    >> qstat -u nbinish
+
+4. Check the output of the job using the following command:
+    >> cat main.out
+
+5. Check the error of the job using the following command:
+    >> cat main.err
 
 .. _cluster_qsub_workflow:
 
