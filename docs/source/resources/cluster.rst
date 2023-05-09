@@ -282,6 +282,7 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 Example script :
 
 .. code-block::
+  
     #===============================================================
     #
     #PBS -S /bin/bash                        # move to bash
