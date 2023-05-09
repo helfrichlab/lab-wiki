@@ -155,44 +155,44 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 **Set up SSH keys**
 This is to ensure that you can utilize qsub and are authorized to write to your personal folder
 
-:Windows:
-  1. Connect to the cluster
-  2. Type the following command in the terminal window:
+**For Windows**
+1. Connect to the cluster
+2. Type the following command in the terminal window:
 
-  .. code-block::
+.. code-block::
 
-    >> ssh-keygen -t distance
+  >> ssh-keygen -t distance
 
-  3. Accept all defaults by pressing enter
-  4. Type the following command:
+3. Accept all defaults by pressing enter
+4. Type the following command:
 
-  .. code-block::
+.. code-block::
 
-    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
-  5. You should now be ready to run MATLAB
+5. You should now be ready to run MATLAB
 
-:MAC OS:
-  1. Connect to the cluster
-  2. Type the following command in the terminal window:
+**For MAC OS**
+1. Connect to the cluster
+2. Type the following command in the terminal window:
 
-  .. code-block::
+.. code-block::
 
-    >> ssh-keygen
+  >> ssh-keygen
 
-  This starts the key generation process. When you execute this command, the ssh-keygen utility prompts you to indicate where to store the key.
+This starts the key generation process. When you execute this command, the ssh-keygen utility prompts you to indicate where to store the key.
 
-  2. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase.
-  3. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended. You will need to enter passphrase a second time to continue. Remember the passphrase for future connection prompts
-  4. After you confirm the passphrase, the system generates the key pair.
-  5. Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use
-  6. Type the following command:
+2. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase.
+3. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended. You will need to enter passphrase a second time to continue. Remember the passphrase for future connection prompts
+4. After you confirm the passphrase, the system generates the key pair.
+5. Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use
+6. Type the following command:
 
-  .. code-block::
+.. code-block::
 
-    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
-  7. You should now be ready to run MATLAB
+7. You should now be ready to run MATLAB
 
 
 **Set up a Matlab shortcut**
@@ -282,7 +282,7 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 Example script :
 
 .. code-block::
-  
+
     #===============================================================
     #
     #PBS -S /bin/bash                        # move to bash
