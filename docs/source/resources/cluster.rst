@@ -161,18 +161,18 @@ The following  is to ensure that you can utilize qsub and are authorized to writ
   1. Connect to the cluster
   2. Type the following command in the terminal window:
 
-.. code-block::
+  .. code-block::
 
-  >> ssh-keygen -t distance
+    >> ssh-keygen -t distance
 
   3. Accept all defaults by pressing enter
   4. Type the following command:
 
-.. code-block::
+  .. code-block::
 
-  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
-5. You should now be ready to run MATLAB
+  5. You should now be ready to run MATLAB
 
 **For MAC OS**
 
@@ -191,9 +191,9 @@ This starts the key generation process. When you execute this command, the ssh-k
   6. Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use
   7. Type the following command:
 
-.. code-block::
+  .. code-block::
 
-  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
   8. You should now be ready to run MATLAB
 
@@ -285,7 +285,7 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 
   Example script :
 
-.. code-block::
+  .. code-block::
 
     #===============================================================
     #
@@ -314,27 +314,27 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
     #print the time and date at the end
     date
 
-    2. Submit the .pbs script to the cluster using the following command:
+  2. Submit the .pbs script to the cluster using the following command:
 
-.. code-block::
+  .. code-block::
 
     >> qsub main.pbs
 
-    3. Check the status of the job using the following command:
+  3. Check the status of the job using the following command:
 
-.. code-block::
+  .. code-block::
 
     >> qstat -u nbinish
 
-    4. Check the output of the job using the following command:
+  4. Check the output of the job using the following command:
 
-.. code-block::
+  .. code-block::
 
     >> cat main.out
 
-    5. Check the error of the job using the following command:
+  5. Check the error of the job using the following command:
 
-.. code-block::
+  .. code-block::
 
     >> cat main.err
 
