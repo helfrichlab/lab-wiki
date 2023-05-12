@@ -147,34 +147,37 @@ launches should take less than a second." `source <https://docs.microsoft.com/en
 
 **Change your password**
 
-1. Connect to the cluster with a GUI (e.g., Xquartz [MAC OS] or MobaXterm [Windows])
-2. Start firefox (type 'firefox' in the terminal)
-3. Change your password at: https://cin-ldap/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user
+  1. Connect to the cluster with a GUI (e.g., Xquartz [MAC OS] or MobaXterm [Windows])
+  2. Start firefox (type 'firefox' in the terminal)
+  3. Change your password at: https://cin-ldap/lam/templates/selfService/selfServiceLogin.php?name=default&scope=user
 
 
 **Set up SSH keys**
-This is to ensure that you can utilize qsub and are authorized to write to your personal folder
+
+The following  is to ensure that you can utilize qsub and are authorized to write to your personal folder
 
 **For Windows**
-1. Connect to the cluster
-2. Type the following command in the terminal window:
 
-.. code-block::
+  1. Connect to the cluster
+  2. Type the following command in the terminal window:
 
-  >> ssh-keygen -t distance
+  .. code-block::
 
-3. Accept all defaults by pressing enter
-4. Type the following command:
+    >> ssh-keygen -t distance
 
-.. code-block::
+  3. Accept all defaults by pressing enter
+  4. Type the following command:
 
-  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+  .. code-block::
 
-5. You should now be ready to run MATLAB
+    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+
+  5. You should now be ready to run MATLAB
 
 **For MAC OS**
-1. Connect to the cluster
-2. Type the following command in the terminal window:
+
+  1. Connect to the cluster
+  2. Type the following command in the terminal window:
 
 .. code-block::
 
@@ -182,17 +185,17 @@ This is to ensure that you can utilize qsub and are authorized to write to your 
 
 This starts the key generation process. When you execute this command, the ssh-keygen utility prompts you to indicate where to store the key.
 
-2. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase.
-3. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended. You will need to enter passphrase a second time to continue. Remember the passphrase for future connection prompts
-4. After you confirm the passphrase, the system generates the key pair.
-5. Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use
-6. Type the following command:
+  3. Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase.
+  4. Type in a passphrase. You can also hit the ENTER key to accept the default (no passphrase). However, this is not recommended. You will need to enter passphrase a second time to continue. Remember the passphrase for future connection prompts
+  5. After you confirm the passphrase, the system generates the key pair.
+  6. Your private key is saved to the id_rsa file in the .ssh directory and is used to verify the public key you use
+  7. Type the following command:
 
-.. code-block::
+  .. code-block::
 
-  >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
+    >> cat ~/.ssh/id_dsa.pub > ~/.ssh/authorized_keys
 
-7. You should now be ready to run MATLAB
+  8. You should now be ready to run MATLAB
 
 
 **Set up a Matlab shortcut**
@@ -277,11 +280,12 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
     >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
 
 **PARALLELIZING JOBS ON CLUSTER USING PYTHON**
-1. Create a .pbs script that relays .py script to the cluster
 
-Example script :
+  1. Create a .pbs script that relays .py script to the cluster
 
-.. code-block::
+  Example script :
+
+  .. code-block::
 
     #===============================================================
     #
@@ -310,16 +314,28 @@ Example script :
     #print the time and date at the end
     date
 
-2. Submit the .pbs script to the cluster using the following command:
+  2. Submit the .pbs script to the cluster using the following command:
+
+  .. code-block::
+
     >> qsub main.pbs
 
-3. Check the status of the job using the following command:
+  3. Check the status of the job using the following command:
+
+  .. code-block::
+
     >> qstat -u nbinish
 
-4. Check the output of the job using the following command:
+  4. Check the output of the job using the following command:
+
+  .. code-block::
+
     >> cat main.out
 
-5. Check the error of the job using the following command:
+  5. Check the error of the job using the following command:
+
+  .. code-block::
+
     >> cat main.err
 
 .. _cluster_qsub_workflow:
