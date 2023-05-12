@@ -52,6 +52,7 @@ Upcoming Conferences
     - TBA
   * - 18-21/10/2023
     - `FENS: Structuring Knowledge for Flexible Behaviour <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
+    - Rungsted Kyst, Denmark
     - Open until 14/06?
     - 30/03 - 14/06
   * - 11-15/11/2023
@@ -61,6 +62,7 @@ Upcoming Conferences
     - `18/07-02/10/2023 <https://www.sfn.org/meetings/neuroscience-2023/registration/registration-fees>`_
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`
+    - Vienna, Austria
     - NA
     - NA
 
