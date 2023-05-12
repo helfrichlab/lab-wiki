@@ -27,10 +27,10 @@ Contents
 -------------------
 
 :Recording Session:
-    | **Structure:**  Coherence calibration (up to 5 min)
-    |                 Localizer (5 min) 
-    |                 Training session (up to 8 min)
-    |                 Main task (up to 70 min)
+    | **Structure:**  0. Coherence calibration (up to 5 min) - Usually run as a standalone experiment before.
+    |                 1. Training session (up to 8 min)
+    |                 2. Main task (up to 70 min)
+    |                 3. Localizer (5 min) 
     | **Duration:**   From 1h to 1h30
     | **Blocks:**     4 of 80 trials
     | **Trials:**     320
@@ -40,8 +40,10 @@ Contents
 
 .. _setup:
 
-2. Setup
+1. Setup
 --------
+
+  **Important**: Enable graphics card and vertical synchronization!
 
   In the first section of the master script you will find the following required variables that have to be manually updated:
   *	``subID``- Subject identification code (e.g., "TUE08")
@@ -69,15 +71,14 @@ If
 | **Master Script**: ``config_exp.m``
 
 
-
-
 .. _instructions-exp:
 
 1. Experimenter instructions
 ------
 
 **Checklist prior to the experiment:**
-  * Verify that  the **subject ID** is set correctly (``subID``).
+  * Verify that graphics card and vertical synchronization are enabled.
+  * Verify that the **subject ID** is set correctly (``subID``).
   *	Verify that the **photodiode location** is set correctly (``cfg.checkside``; 1=left; 2=right).
 
 
@@ -104,18 +105,7 @@ If
 1. Patient instructions
 -----------------
 
-**Instructions for** ``[script1.m]``:
-    *"[...instructions...]”*
+**Instructions for** ``config_exp.m``:
 
 
-1. Comments/issues
-------------
 
-:[Issue 1]:
-  [...description + solution]
-
-:[Issue 2]:
-  [...description + solution]
-
-:[Issue 2]:
-  [...description + solution]
