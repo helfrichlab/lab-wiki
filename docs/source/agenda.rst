@@ -14,10 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 19/04/2023 @ 10:00-11:00
-    - Lab meeting
-    - David from UC Berkeley
-    - Project overview
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -50,6 +46,11 @@ Upcoming Conferences
     - Frankfurt
     - NA
     - TBA
+  * - 14-15/09/2023
+    - `2023 Tuebingen Systems Neuroscience Symposium (SNS2023) <http://meg.medizin.uni-tuebingen.de/2023/>`_
+    - Tuebingen
+    - 15/08/2023
+    - 15/08/2023
   * - 18-21/10/2023
     - `FENS: Structuring Knowledge for Flexible Behaviour <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
     - Rungsted Kyst, Denmark
@@ -65,7 +66,6 @@ Upcoming Conferences
     - Vienna, Austria
     - NA
     - NA
-
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
@@ -85,6 +85,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
+  * - 05/06/2023
+    - Lab dinner
+    - 19:00 @ Waldhorn in Lustnau, Tuebingen
   * - 07-10/09/2023
     - Lab retreat
     - Black forest
