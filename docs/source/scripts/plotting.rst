@@ -18,3 +18,4 @@ Color maps (matlab)
 ~~~~~~~
  * `cbrewer2 <https://de.mathworks.com/matlabcentral/fileexchange/58350-cbrewer2>`_
  * Universally readable `scientific colour maps <https://www.fabiocrameri.ch/colourmaps/>`_
+ * `Coolors - The super fast color palettes generator <https://coolors.co/>`_
