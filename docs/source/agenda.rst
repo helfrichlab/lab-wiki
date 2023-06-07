@@ -88,6 +88,9 @@ Upcoming lab activities
   * - 05/06/2023
     - Lab dinner
     - 19:00 @ Waldhorn in Lustnau, Tuebingen
+  * - 14/07/2023
+    - 3rd Mario Kart tournament
+    - TBA
   * - 07-10/09/2023
     - Lab retreat
     - Black forest
