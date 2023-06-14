@@ -14,6 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
+  * - TBD
+    - TBD
+    - TBD
+    - TBD
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -31,11 +35,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 08-10/06/2023
-    - `PUG 2023 <https://pug2023.de/home/en/>`_
-    - Tuebingen, DE
-    - `31/03/2023 <https://pug2023.de/home/en/einreichung/>`_
-    - `07/04/2023 <https://pug2023.de/home/en/registrierung/>`_
   * - 15-19/07/2023
     - `CNS 2023 <https://ocns.memberclicks.net/cns-2023-quick>`_
     - Leipzig, DE
@@ -54,18 +53,18 @@ Upcoming Conferences
   * - 18-21/10/2023
     - `FENS: Structuring Knowledge for Flexible Behaviour <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
     - Rungsted Kyst, Denmark
-    - Open until 14/06?
-    - 30/03 - 14/06
+    - 14/06
+    - 14/06
   * - 11-15/11/2023
     - `SfN 2023 <https://www.sfn.org/>`_
     - Washington, D.C.
     - `14/06/2023 @ 5 p.m. <https://www.sfn.org/meetings/neuroscience-2023/call-for-abstracts>`_
     - `18/07-02/10/2023 <https://www.sfn.org/meetings/neuroscience-2023/registration/registration-fees>`_
   * - 25-29/06/2024
-    - `FENS 2024 <https://fensforum.org/>`
+    - `FENS 2024 <https://fensforum.org/>`_
     - Vienna, Austria
-    - NA
-    - NA
+    - 29/11/2023
+    - 29/11/2023
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
@@ -85,9 +84,6 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 05/06/2023
-    - Lab dinner
-    - 19:00 @ Waldhorn in Lustnau, Tuebingen
   * - 14/07/2023
     - 3rd Mario Kart tournament
     - TBA
