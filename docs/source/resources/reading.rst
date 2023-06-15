@@ -34,18 +34,23 @@ Here you can find recommended readings, tutorials, and guidelines.
 
 5. Writing
 --------
-`Ten simple rules for structuring papers <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619&ref=https://githubhelp.com>`_
+* `Ten simple rules for structuring papers <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619&ref=https://githubhelp.com>`_
 
 
-6. Common Concepts
+6. Reviews
+--------
+* `How to write a thorough peer review <https://www.nature.com/articles/d41586-018-06991-0>`_
+* `How to prepare a rebuttal letter: some advice from a scientist, reviewer, and editor <https://psyarxiv.com/kyfus/>`_
+
+
+7. Common Concepts
 ---------
 * `Quanta Magazine: Concept of entropy <https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/>`_
 * `Canonical correlation <http://sites.psu.edu/mcnl/files/2017/03/BIOE597_SP17_Lecture13-2fxzc43.pdf>`_
 * `DataHigh: Graphical user interface for visualizing and interacting with high-dimensional neural activity <https://users.ece.cmu.edu/~byronyu/software/DataHigh/get_started.html>`_
 * `High-Dimensional Data Analysis with Low-Dimensional Models <https://book-wright-ma.github.io/Book-WM-20210422.pdf>`_
 
-7. Other
+8. Other
 --------
 * `Ten simple rules for a supportive laboratory environment <https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01928/113591/10-Simple-Rules-for-a-Supportive-Laboratory>`_
-* `How to write a thorough peer review <https://www.nature.com/articles/d41586-018-06991-0>`_
 * `How to get what you need from your Ph.D. or postdoc supervisor <https://www.science.org/content/article/how-get-what-you-need-your-phd-or-postdoc-supervisor>`_
