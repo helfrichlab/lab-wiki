@@ -84,9 +84,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 14/07/2023
+  * - 13/07/2023
     - 3rd Mario Kart tournament
-    - TBA
+    - Hertie/Frank
   * - 07-10/09/2023
     - Lab retreat
-    - Black forest
+    - `Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://goo.gl/maps/cuAshhMsZWnLggR6A>`_
