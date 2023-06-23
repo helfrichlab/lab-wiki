@@ -14,10 +14,19 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - TBD
-    - TBD
-    - TBD
-    - TBD
+  * - 06/07/2023
+    - Lab meeting
+    - Frank
+    - Spatial exploration
+  * - 13/07/2023
+    - Lab meeting
+    - Mariana
+    - Progress update
+  * - 20/07/2023
+    - Lab meeting
+    - TBA
+    - TBA
+
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -84,6 +93,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
+  * - 28/06/2023 @ 17:00
+    - 3Lab summer party
+    - Friedrich-Zundel-Straße 11
   * - 13/07/2023
     - 3rd Mario Kart tournament
     - Hertie/Frank
