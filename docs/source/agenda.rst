@@ -93,12 +93,12 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 28/06/2023 @ 17:00
-    - 3Lab summer party
-    - Friedrich-Zundel-Straße 11
+  * - 11/07/2023 @ 19:00
+    - Lab dinner (?)
+    - SaiGon 1994 Restaurant. Belthlestraße 13, 72070 Tübingen.
   * - 13/07/2023
     - 3rd Mario Kart tournament
-    - Hertie/Frank
+    - Hertie
   * - 07-10/09/2023
     - Lab retreat
     - `Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://goo.gl/maps/cuAshhMsZWnLggR6A>`_
