@@ -14,10 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 06/07/2023
-    - Lab meeting
-    - Frank
-    - Spatial exploration
   * - 13/07/2023
     - Lab meeting
     - Mariana
@@ -44,11 +40,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 15-19/07/2023
-    - `CNS 2023 <https://ocns.memberclicks.net/cns-2023-quick>`_
-    - Leipzig, DE
-    - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
-    - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
   * - 11-13/09/2023
     - `Nena 2023 <https://nenaconference.wordpress.com/>`_
     - Frankfurt
@@ -93,12 +84,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 11/07/2023 @ 19:00
-    - Lab dinner (?)
-    - SaiGon 1994 Restaurant. Belthlestraße 13, 72070 Tübingen.
-  * - 13/07/2023
-    - 3rd Mario Kart tournament
-    - Hertie
+  * - 06/08/2023 @ 15:00
+    - Summer lab party
+    - @Randolph & Janna's
   * - 07-10/09/2023
     - Lab retreat
     - `Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://goo.gl/maps/cuAshhMsZWnLggR6A>`_
