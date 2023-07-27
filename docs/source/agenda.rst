@@ -14,11 +14,7 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 13/07/2023
-    - Lab meeting
-    - Mariana
-    - Progress update
-  * - 20/07/2023
+  * - 03/08/2023
     - Lab meeting
     - TBA
     - TBA
