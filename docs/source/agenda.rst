@@ -14,7 +14,7 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 03/08/2023
+  * - ##/09/2023
     - Lab meeting
     - TBA
     - TBA
@@ -42,12 +42,12 @@ Upcoming Conferences
     - NA
     - TBA
   * - 14-15/09/2023
-    - `2023 Tuebingen Systems Neuroscience Symposium (SNS2023) <http://meg.medizin.uni-tuebingen.de/2023/>`_
+    - `SNS2023 <http://meg.medizin.uni-tuebingen.de/2023/>`_
     - Tuebingen
     - 15/08/2023
     - 15/08/2023
   * - 18-21/10/2023
-    - `FENS: Structuring Knowledge for Flexible Behaviour <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
+    - `FENS 2023 <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
     - Rungsted Kyst, Denmark
     - 14/06
     - 14/06
@@ -80,9 +80,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 06/08/2023 @ 15:00
-    - Summer lab party
-    - @Randolph & Janna's
   * - 07-10/09/2023
     - Lab retreat
     - `Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://goo.gl/maps/cuAshhMsZWnLggR6A>`_
+  * - TBA
+    - Summer lab party
+    - @Randolph & Janna's
