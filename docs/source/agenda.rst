@@ -81,8 +81,8 @@ Upcoming lab activities
     - Activity
     - Location
   * - 07-10/09/2023
-    - Lab retreat
-    - `Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://www.booking.com/hotel/de/walder-quartier-dachsberg.de.html?aid=373416&label=wittenschwand-NPK8fKouP68LgCRWL9BAPAS383245291406%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2201127696192%3Akwd-57134843255%3Alp9114532%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YWjQDWSp9YhJubibrMOYJsc&sid=79cad37af7b1ba6d0fcb10031b3d6d16&dest_id=-1889779&dest_type=city&dist=0&group_adults=10&group_children=0&hapos=10&hpos=10&no_rooms=1&req_adults=10&req_children=0&room1=A%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA&sb_price_type=total&sr_order=popularity&srepoch=1691479459&srpvid=557a340fafdf00ba&type=total&ucfs=1&activeTab=main>`_
+    - `Lab retreat <https://docs.google.com/spreadsheets/d/1g_QKwhzlgP7YQoIiRlglvLqAxHwpm1aB-NKT5P-WJ8k/edit?usp=drive_link>`_
+    - `Ferienhaus Dachsberg, Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://www.waelder-quartiere.de/de/waelder-quartiere/dachsberg/>`_
   * - TBA
     - Summer lab party
     - @Randolph & Janna's
