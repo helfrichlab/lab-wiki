@@ -14,6 +14,7 @@ Contents
  0. Phone numbers
  ------------
 
+
 ..  _lab_arrival:
 
 1. New Arrivals
@@ -25,15 +26,15 @@ Contents
 * `Sign up for the 3Lab Mailing List <https://listserv.uni-tuebingen.de/mailman/listinfo/cogneuroteam>`_
 * `Lab documentation (tel, wifi, zoom, laptop) <https://docs.google.com/document/d/13GZwU_fvfFtpB9zSDVzpjDZjXKkLTERRRSZ3rihSWEU/edit>`_
 
+
 .. _lab_forms:
 
 2. Forms and Admin
 ----------------
 
 * `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
-* `Holiday Form (via housepost to: Personalstelle CRONA) <https://drive.google.com/file/d/1HgoYe5X1d2mham_nnoCjoEMOLNE83skJ/view?usp=sharing>`_
+* `Holiday Form (submit via housepost to: Personalstelle CRONA) <https://drive.google.com/file/d/1HgoYe5X1d2mham_nnoCjoEMOLNE83skJ/view?usp=sharing>`_
 * `Conference travels  <https://docs.google.com/document/d/1MHdxWnzyfvQFAc9EeAr83zK1aa1pmdiP/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
-* `COVID form <https://drive.google.com/file/d/1yMPYi3x-3g8H9-e5pPTN8CRds7BM3qk2/view?usp=sharing>`_
 * `Subject reimbursement <https://docs.google.com/document/d/1NaVqjFQpYnuzau5N-GpaAXpn7XKEOg8g/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 
 .. _lab_passwords:
