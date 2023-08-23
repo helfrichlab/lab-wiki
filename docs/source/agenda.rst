@@ -56,11 +56,16 @@ Upcoming Conferences
     - Washington, D.C.
     - `14/06/2023 @ 5 p.m. <https://www.sfn.org/meetings/neuroscience-2023/call-for-abstracts>`_
     - `18/07-02/10/2023 <https://www.sfn.org/meetings/neuroscience-2023/registration/registration-fees>`_
+  * - 03-08/03/2024
+    - `GRC Sleep Regulation and Function <https://www.grc.org/sleep-regulation-and-function-conference/2024/>`_
+    - Galveston, TX, USA
+    - 04/02/2024
+    - 04/02/2024
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`_
     - Vienna, Austria
-    - 29/11/2023
-    - 29/11/2023
+    - Opens 29/11/2023
+    - Opens 29/11/2023
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
