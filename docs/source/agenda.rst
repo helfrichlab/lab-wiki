@@ -51,6 +51,11 @@ Upcoming Conferences
     - Rungsted Kyst, Denmark
     - 14/06
     - 14/06
+  * - 30-31/10/2023
+    - `Thalamus anatomy & connectomics conference <https://www.tuebingen.mpg.de/thalamus>`_
+    - Tuebingen
+    - NA
+    - `Registration <https://www.tuebingen.mpg.de/thalamus>`_
   * - 11-15/11/2023
     - `SfN 2023 <https://www.sfn.org/>`_
     - Washington, D.C.
