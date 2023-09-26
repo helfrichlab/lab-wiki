@@ -35,7 +35,7 @@ Here you can find recommended readings, tutorials, and guidelines.
 5. Writing
 --------
 * `Ten simple rules for structuring papers <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619&ref=https://githubhelp.com>`_
-
+* `APA style and grammar guidelines <https://apastyle.apa.org/style-grammar-guidelines>`_
 
 6. Reviews
 --------
