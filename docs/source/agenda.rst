@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 10/10/2023
+  * - 10/10/2023 @ 11:00 (CET)
     - Lab meeting
     - Mariana
-    - Project update
+    - Practice talk for Brain Conference
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
@@ -36,16 +36,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 11-13/09/2023
-    - `Nena 2023 <https://nenaconference.wordpress.com/>`_
-    - Frankfurt
-    - NA
-    - TBA
-  * - 14-15/09/2023
-    - `SNS2023 <http://meg.medizin.uni-tuebingen.de/2023/>`_
-    - Tuebingen
-    - 15/08/2023
-    - 15/08/2023
   * - 18-21/10/2023
     - `FENS 2023 <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
     - Rungsted Kyst, Denmark
@@ -90,9 +80,7 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 07-10/09/2023
-    - `Lab retreat <https://docs.google.com/spreadsheets/d/1g_QKwhzlgP7YQoIiRlglvLqAxHwpm1aB-NKT5P-WJ8k/edit?usp=drive_link>`_
-    - `Ferienhaus Dachsberg, Am langen Haus 3, 79875 Dachsberg (Südschwarzwald) <https://www.waelder-quartiere.de/de/waelder-quartiere/dachsberg/>`_
   * - TBA
     - Summer lab party
     - @Randolph & Janna's
+
