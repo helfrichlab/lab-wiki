@@ -11,9 +11,6 @@ version = '0.1.0'
 
 # -- General configuration
 
-pip install sphinx-rtd-theme
-
-
 extensions = [
     'sphinx_rtd_theme',
     'sphinx.ext.duration',
