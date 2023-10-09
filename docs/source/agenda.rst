@@ -14,17 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-	  - SOMETHING NEW
   * - 10/10/2023
     - Lab meeting
     - Mariana
     - Project update
-	  - TBD
-  * - TBD
-    - TBD
-    - TBD
-    - TBD
-    - TBD
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
