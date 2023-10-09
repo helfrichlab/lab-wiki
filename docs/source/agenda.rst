@@ -14,10 +14,11 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 19/04/2023 @ 10:00-11:00
+  * - 10/10/2023 @ 11:00 (CET)
     - Lab meeting
-    - David from UC Berkeley
-    - Project overview
+    - Mariana
+    - Practice talk for Brain Conference
+
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -35,37 +36,31 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 08-10/06/2023
-    - `PUG 2023 <https://pug2023.de/home/en/>`_
-    - Tuebingen, DE
-    - `31/03/2023 <https://pug2023.de/home/en/einreichung/>`_
-    - `07/04/2023 <https://pug2023.de/home/en/registrierung/>`_
-  * - 15-19/07/2023
-    - `CNS 2023 <https://ocns.memberclicks.net/cns-2023-quick>`_
-    - Leipzig, DE
-    - `20/03/2023 <https://ocns.memberclicks.net/cns-2023-abstract-submission>`_
-    - `08/05/2023 <https://ocns.memberclicks.net/cns-2023-registration#!/>`_
-  * - 11-13/09/2023
-    - `Nena 2023 <https://nenaconference.wordpress.com/>`_
-    - Frankfurt
-    - NA
-    - TBA
   * - 18-21/10/2023
-    - `FENS: Structuring Knowledge for Flexible Behaviour <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
+    - `FENS 2023 <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
     - Rungsted Kyst, Denmark
-    - Open until 14/06?
-    - 30/03 - 14/06
+    - 14/06
+    - 14/06
+  * - 30-31/10/2023
+    - `Thalamus anatomy & connectomics conference <https://www.tuebingen.mpg.de/thalamus>`_
+    - Tuebingen
+    - NA
+    - `Registration <https://www.tuebingen.mpg.de/thalamus>`_
   * - 11-15/11/2023
     - `SfN 2023 <https://www.sfn.org/>`_
     - Washington, D.C.
     - `14/06/2023 @ 5 p.m. <https://www.sfn.org/meetings/neuroscience-2023/call-for-abstracts>`_
     - `18/07-02/10/2023 <https://www.sfn.org/meetings/neuroscience-2023/registration/registration-fees>`_
+  * - 03-08/03/2024
+    - `GRC Sleep Regulation and Function <https://www.grc.org/sleep-regulation-and-function-conference/2024/>`_
+    - Galveston, TX, USA
+    - 04/02/2024
+    - 04/02/2024
   * - 25-29/06/2024
-    - `FENS 2024 <https://fensforum.org/>`
+    - `FENS 2024 <https://fensforum.org/>`_
     - Vienna, Austria
-    - NA
-    - NA
-
+    - Opens 29/11/2023
+    - Opens 29/11/2023
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
@@ -85,6 +80,7 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 07-10/09/2023
-    - Lab retreat
-    - Black forest
+  * - TBA
+    - Summer lab party
+    - @Randolph & Janna's
+

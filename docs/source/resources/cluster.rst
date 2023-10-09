@@ -9,6 +9,7 @@ Cluster
 
 Contents
 ------
+| :ref:`cluster_questions`
 | :ref:`cluster_details`
 | :ref:`cluster_programs`
 | :ref:`cluster_mountingCluster`
@@ -24,6 +25,14 @@ Contents
 | :ref:`cluster_howTo`
 | :ref:`cluster_example`
 | :ref:`cluster_test_qsub`
+
+.. _cluster_questions:
+
+0. Open questions
+------
+
+ `Open questions regarding the Helfrich cluster <https://docs.google.com/document/d/1lStVUUxdiW8Jnfs9yKhtWcKU3ruQJH3qW5JYH29MzAQ/edit?usp=drive_link>`_
+
 
 .. _cluster_details:
 
