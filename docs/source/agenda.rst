@@ -39,8 +39,8 @@ Upcoming Conferences
   * - 18-21/10/2023
     - `FENS 2023 <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
     - Rungsted Kyst, Denmark
-    - 14/06
-    - 14/06
+    - 14/06/2023
+    - 14/06/2023
   * - 30-31/10/2023
     - `Thalamus anatomy & connectomics conference <https://www.tuebingen.mpg.de/thalamus>`_
     - Tuebingen
@@ -56,11 +56,21 @@ Upcoming Conferences
     - Galveston, TX, USA
     - 04/02/2024
     - 04/02/2024
+  * - 29/05-01/06/2024
+    - `PUG 2024 <https://www.pug2024.de/>`_
+    - Hamburg, DE
+    - `TBA <https://www.pug2024.de/anmeldung.html>`_
+    - `TBA <https://www.pug2024.de/anmeldung.html>`_
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`_
-    - Vienna, Austria
+    - Vienna, AT
     - Opens 29/11/2023
     - Opens 29/11/2023
+  * - 24-27/09/2024
+    - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
+    - Seville, ES
+    - TBA
+    - TBA
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
@@ -81,6 +91,8 @@ Upcoming lab activities
     - Activity
     - Location
   * - TBA
-    - Summer lab party
+    - Isabel's paper celebration
+    - TBA
+  * - TBA
+    - Christmas lab party
     - @Randolph & Janna's
-
