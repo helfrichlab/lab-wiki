@@ -24,6 +24,10 @@ iEEG
     | ``DC2`` (red trace):    audio 3.5mm
     | ``DC3`` (green trace):  manual pedal/response box
 
+.. note::
+  `How to add DC channels to montage <https://docs.google.com/document/d/11HqtePjqnUermh8BEfqPlsxvXU4SOy56XU9lBe0auRI/edit?usp=drive_link>`_
+
+
 **Room descriptives**
 
 * Recording station located on the left or right side of the bed. Assign photodiode position accordingly.
@@ -49,3 +53,4 @@ iEEG
 * `TUE iEEG electrode information sheet <https://drive.google.com/file/d/1me4D_UT2YULn823p5ozVYnNfzrn9KacC/view?usp=drive_linkg>`_
 * `TUE iEEG recording sheet <https://drive.google.com/file/d/1C2RIVT56SW-NAZHh8nHHQVft2VepwKpR/view?usp=sharing>`_
 * `TUE iEEG task overiew <https://docs.google.com/spreadsheets/d/1bObFexVnTqAx4LjixtlGUuJBR6R3__Ur/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
+* `TUE iEEG adding DC channels to montage <https://docs.google.com/document/d/11HqtePjqnUermh8BEfqPlsxvXU4SOy56XU9lBe0auRI/edit?usp=drive_link>`_
