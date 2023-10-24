@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 10/10/2023 @ 11:00 (CET)
+  * - 25/10/2023 @ 16:00 (CET)
     - Lab meeting
-    - Mariana
-    - Practice talk for Brain Conference
+    - Jan
+    - Progress report
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
