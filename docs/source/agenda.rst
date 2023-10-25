@@ -18,6 +18,14 @@ Upcoming team meetings
     - Lab meeting
     - Jan
     - Progress report
+  * - 08/11/2023 @ 16:00 (CET)
+    - Lab meeting
+    - Richard Gao
+    - Talk
+  * - 15/11/2023 @ 16:00 (CET)
+    - Lab meeting
+    - Marcus Siems
+    - Talk
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
@@ -90,9 +98,12 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - TBA
+  * - 02/11 @ 7pm
     - Isabel's paper celebration
-    - TBA
-  * - TBA
+    - Africa Restaurant
+  * - 14/12 @ TBD
     - Christmas lab party
     - @Randolph & Janna's
+  * - 15/12 @ TBD
+    - Christmas 3 lab symposium
+    - TBA
