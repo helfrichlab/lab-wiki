@@ -30,6 +30,8 @@ Upcoming team meetings
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
+`Journal club Cognitive Control <https://docs.google.com/spreadsheets/d/1B9n23_qTfBtQ9n9nmRXl3Ic2LAWvSwcMFDy4bFNXoZ0/edit#gid=0>`_
+
 .. _conferences:
 
 Upcoming Conferences
