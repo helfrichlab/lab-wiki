@@ -22,10 +22,14 @@ Upcoming team meetings
     - Lab meeting
     - Marcus Siems
     - Talk
-  * - 22/11/2023 @ 15:00 (CET)
+  * - 22/11/2023 @ 16:00 (CET)
     - Lab meeting
     - Jan
     - `Method discussion <https://www.sciencedirect.com/science/article/pii/S1053811914005783>`_
+  * - 06/12/2023 @ 16:00 (CET)
+    - Lab meeting
+    - Jonas
+    - `Paper discussion <https://www.nature.com/articles/s41593-018-0335-6>`_
 
 
 
