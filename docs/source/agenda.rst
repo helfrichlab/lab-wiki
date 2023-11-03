@@ -22,11 +22,6 @@ Upcoming team meetings
     - Lab meeting
     - Marcus Siems
     - Talk
-  * - 22/11/2023 @ 15:00 (CET)
-    - Lab meeting
-	- Jan
-	- Method discussion
-
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
