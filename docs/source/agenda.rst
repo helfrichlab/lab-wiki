@@ -25,7 +25,7 @@ Upcoming team meetings
   * - 22/11/2023 @ 15:00 (CET)
     - Lab meeting
     - Jan
-    - Method discussion (`paper <https://www.sciencedirect.com/science/article/pii/S1053811914005783>`_
+    - `Method discussion <https://www.sciencedirect.com/science/article/pii/S1053811914005783>`_
 
 
 
