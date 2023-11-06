@@ -55,11 +55,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 29/11 - 01/12/2023
-    - `BrainModes 2023 <https://www.eusnn.eu/brainmodes23>`_
-	- Hamburg
-	- NA
-	- 06/11/2023
   * - 11-15/11/2023
     - `SfN 2023 <https://www.sfn.org/>`_
     - Washington, D.C.
