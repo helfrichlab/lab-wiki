@@ -24,9 +24,13 @@ Upcoming team meetings
     - Talk
   * - 22/11/2023 @ 16:00 (CET)
     - Lab meeting
+    - Laura
+    - Master thesis 
+  * - 06/12/2023 @ 16:00 (CET)
+    - Lab meeting
     - Jan
     - `Method discussion <https://www.sciencedirect.com/science/article/pii/S1053811914005783>`_
-  * - 06/12/2023 @ 16:00 (CET)
+  * - 13/12/2023 @ 16:00 (CET)
     - Lab meeting
     - Jonas
     - `Paper discussion <https://www.nature.com/articles/s41593-018-0335-6>`_
@@ -51,16 +55,11 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 18-21/10/2023
-    - `FENS 2023 <https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour>`_
-    - Rungsted Kyst, Denmark
-    - 14/06/2023
-    - 14/06/2023
-  * - 30-31/10/2023
-    - `Thalamus anatomy & connectomics conference <https://www.tuebingen.mpg.de/thalamus>`_
-    - Tuebingen
-    - NA
-    - `Registration <https://www.tuebingen.mpg.de/thalamus>`_
+  * - 29/11 - 01/12/2023
+    - `BrainModes 2023 <https://www.eusnn.eu/brainmodes23>`_
+	- Hamburg
+	- NA
+	- 06/11/2023
   * - 11-15/11/2023
     - `SfN 2023 <https://www.sfn.org/>`_
     - Washington, D.C.
