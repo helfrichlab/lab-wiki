@@ -20,11 +20,11 @@ Contents
 1. New Arrivals
 ------------
 
-* `How to request a new access card to the HIH <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
-* `How to request a CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
-* `Hertie IT Wiki <https://hih-docu.neurologie.uni-tuebingen.de/>`_
+* `Lab documentation (tel, wifi, zoom, etc) <https://docs.google.com/document/d/13GZwU_fvfFtpB9zSDVzpjDZjXKkLTERRRSZ3rihSWEU/edit>`_
 * `Sign up for the 3Lab Mailing List <https://listserv.uni-tuebingen.de/mailman/listinfo/cogneuroteam>`_
-* `Lab documentation (tel, wifi, zoom, laptop) <https://docs.google.com/document/d/13GZwU_fvfFtpB9zSDVzpjDZjXKkLTERRRSZ3rihSWEU/edit>`_
+* `Readme: request a new access card to the HIH <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
+* `Readme: request a CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
+* `Hertie IT Wiki <https://hih-docu.neurologie.uni-tuebingen.de/>`_
 
 
 .. _lab_forms:
@@ -32,17 +32,18 @@ Contents
 2. Forms and Admin
 ----------------
 
+* `Form: holiday application (submit via housepost to: Personalstelle CRONA) <https://drive.google.com/file/d/1HgoYe5X1d2mham_nnoCjoEMOLNE83skJ/view?usp=sharing>`_
+* `Readme: conference travels, A1 registration, & reimbursement  <https://docs.google.com/document/d/1MHdxWnzyfvQFAc9EeAr83zK1aa1pmdiP/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
+* `Readme: subject reimbursement <https://docs.google.com/document/d/1NaVqjFQpYnuzau5N-GpaAXpn7XKEOg8g/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 * `Hertie intranet login  <https://hih-v-104.neurologie.uni-tuebingen.de/lam/templates/selfService/selfServiceLogin.php>`_
-* `Holiday Form (submit via housepost to: Personalstelle CRONA) <https://drive.google.com/file/d/1HgoYe5X1d2mham_nnoCjoEMOLNE83skJ/view?usp=sharing>`_
-* `Conference travels  <https://docs.google.com/document/d/1MHdxWnzyfvQFAc9EeAr83zK1aa1pmdiP/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
-* `Subject reimbursement <https://docs.google.com/document/d/1NaVqjFQpYnuzau5N-GpaAXpn7XKEOg8g/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
+
 
 .. _lab_passwords:
 
 3. Account Passwords
 ----------------
 .. note::
-    Talk to our Lab Wizard |:mage:|
+    Talk to our Lab Wizard
 
 .. _lab_equipment:
 
@@ -56,11 +57,11 @@ Contents
 
 5. Other
 ----------------
-* `Lab rotation evaluation form <https://drive.google.com/file/d/1Tr_NrK79UbltLkZ6OHxiO4PSJGRCUpTo/view?usp=share_link>`_
 * `Contacts within Uniklinikum Tuebingen <https://docs.google.com/document/d/1tX7Vmqp6AwK4B5bdVRkXL3GFxqUtV_lGxiRjR7Ber5U/edit?usp=share_link>`_
-* `Poster printing <https://docs.google.com/document/d/1jyw9kM4yUQJjUebQrlc_meAdg9MeBDBR5WHgIL4xsww/edit?usp=share_link>`_
-* `Scanning with Lexmark printer <https://docs.google.com/document/d/1DaoOc31DEYwuANP6SFCu246u2lKWzktpsRCAv8radTs/edit?usp=share_link>`_
-* `Deutschland Jobticket <https://docs.google.com/document/d/1ndwtZ-POEhsmHFuBcILScQ2JAJurEpJrKS_vHXTkhfc/edit>`_
+* `Form: lab rotation evaluation <https://drive.google.com/file/d/1Tr_NrK79UbltLkZ6OHxiO4PSJGRCUpTo/view?usp=share_link>`_
+* `Readme: poster printing <https://docs.google.com/document/d/1jyw9kM4yUQJjUebQrlc_meAdg9MeBDBR5WHgIL4xsww/edit?usp=share_link>`_
+* `Readme: scanning with Lexmark printer <https://docs.google.com/document/d/1DaoOc31DEYwuANP6SFCu246u2lKWzktpsRCAv8radTs/edit?usp=share_link>`_
+* `Readme: Deutschland Jobticket <https://docs.google.com/document/d/1ndwtZ-POEhsmHFuBcILScQ2JAJurEpJrKS_vHXTkhfc/edit>`_
 
 **Templates & Logos**
   * `Team and institute logos <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
