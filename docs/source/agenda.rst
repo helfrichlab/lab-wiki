@@ -25,7 +25,7 @@ Upcoming team meetings
   * - 22/11/2023 @ 16:00 (CET)
     - Lab meeting
     - Laura
-    - Master thesis 
+    - Master thesis
   * - 06/12/2023 @ 16:00 (CET)
     - Lab meeting
     - Jan
@@ -40,6 +40,27 @@ Upcoming team meetings
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
 `Journal club Cognitive Control <https://docs.google.com/spreadsheets/d/1B9n23_qTfBtQ9n9nmRXl3Ic2LAWvSwcMFDy4bFNXoZ0/edit#gid=0>`_
+
+
+.. _lab-activities:
+
+Upcoming lab activities
+------------
+
+.. list-table::
+  :widths: auto
+  :header-rows: 1
+
+  * - Date & Time
+    - Activity
+    - Location
+  * - 14/12 @ TBD
+    - `Christmas lab party <https://drawnames.app/t/lY5qTaQ>`_
+    - @Randolph & Janna's
+  * - 15/12 @ TBD
+    - Christmas 3 lab symposium
+    - TBA
+
 
 .. _conferences:
 
@@ -85,23 +106,3 @@ Upcoming Conferences
     - TBA, PT
     - Pending
     - Pending
-
-
-.. _lab-activities:
-
-Upcoming lab activities
-------------
-
-.. list-table::
-  :widths: auto
-  :header-rows: 1
-
-  * - Date & Time
-    - Activity
-    - Location
-  * - 14/12 @ TBD
-    - Christmas lab party
-    - @Randolph & Janna's
-  * - 15/12 @ TBD
-    - Christmas 3 lab symposium
-    - TBA
