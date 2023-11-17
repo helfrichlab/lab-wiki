@@ -14,14 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 08/11/2023 @ 16:00 (CET)
-    - Lab meeting
-    - Richard Gao
-    - Talk
-  * - 15/11/2023 @ 16:00 (CET)
-    - Lab meeting
-    - Marcus Siems
-    - Talk
   * - 22/11/2023 @ 16:00 (CET)
     - Lab meeting
     - Laura
@@ -54,10 +46,13 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 14/12 @ TBD
+  * - 06/12 @ TBA
+    - HIH Christmas party
+    - `Sudhaus <https://maps.app.goo.gl/phoFjuLLSEJBZCPY9>`_
+  * - 14/12 @ ~18:00
     - `Christmas lab party <https://drawnames.app/t/lY5qTaQ>`_
     - @Randolph & Janna's
-  * - 15/12 @ TBD
+  * - 15/12 @ ~10:00-18:00
     - Christmas 3 lab symposium
     - TBA
 
@@ -99,8 +94,8 @@ Upcoming Conferences
   * - 24-27/09/2024
     - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
     - Seville, ES
-    - TBA
-    - TBA
+    - Opens early 2024
+    - Opens early 2024
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
