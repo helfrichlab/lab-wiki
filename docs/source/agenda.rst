@@ -14,10 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 22/11/2023 @ 16:00 (CET)
-    - Lab meeting
-    - Laura
-    - Master thesis
   * - 06/12/2023 @ 16:00 (CET)
     - Lab meeting
     - Jan
@@ -49,6 +45,9 @@ Upcoming lab activities
   * - 06/12 @ TBA
     - HIH Christmas party
     - `Sudhaus <https://maps.app.goo.gl/phoFjuLLSEJBZCPY9>`_
+  * - 11/12 @ ~16:00
+	- Escape room + Dinner (Moni Schönauer lab visiting)
+	- TBA
   * - 14/12 @ ~18:00
     - `Christmas lab party <https://drawnames.app/t/lY5qTaQ>`_
     - @Randolph & Janna's
