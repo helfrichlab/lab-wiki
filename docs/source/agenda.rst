@@ -45,6 +45,9 @@ Upcoming lab activities
   * - 06/12 @ TBA
     - HIH Christmas party
     - `Sudhaus <https://maps.app.goo.gl/phoFjuLLSEJBZCPY9>`_
+  * - 11/12 @ ~16:00
+    - Moni Schönauer lab visiting w/ Escape room + Dinner 
+    - TBA
   * - 14/12 @ ~18:00
     - `Christmas lab party <https://drawnames.app/t/lY5qTaQ>`_
     - @Randolph & Janna's
