@@ -46,14 +46,14 @@ Upcoming lab activities
     - HIH Christmas party
     - `Sudhaus <https://maps.app.goo.gl/phoFjuLLSEJBZCPY9>`_
   * - 11/12 @ ~16:00
-    - Moni Schönauer lab visiting w/ Escape room + Dinner 
+    - Moni Schönauer lab visiting w/ Escape room + Dinner
     - TBA
   * - 14/12 @ ~18:00
     - `Christmas lab party <https://drawnames.app/t/lY5qTaQ>`_
     - @Randolph & Janna's
-  * - 15/12 @ ~10:00-18:00
+  * - 15/12 @ ~14:00-19:00
     - Christmas 3 lab symposium
-    - TBA
+    - HIH Ebene 2, seminar room
 
 
 .. _conferences:
@@ -70,11 +70,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 11-15/11/2023
-    - `SfN 2023 <https://www.sfn.org/>`_
-    - Washington, D.C.
-    - `14/06/2023 @ 5 p.m. <https://www.sfn.org/meetings/neuroscience-2023/call-for-abstracts>`_
-    - `18/07-02/10/2023 <https://www.sfn.org/meetings/neuroscience-2023/registration/registration-fees>`_
   * - 03-08/03/2024
     - `GRC Sleep Regulation and Function <https://www.grc.org/sleep-regulation-and-function-conference/2024/>`_
     - Galveston, TX, USA
@@ -88,8 +83,8 @@ Upcoming Conferences
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`_
     - Vienna, AT
-    - Opens 29/11/2023
-    - Opens 29/11/2023
+    - `Opens 29/11/2023 <https://fensforum.org/abstract-submission/>`_
+    - `09/02/2024 <https://fensforum.org/registration-information/>`_
   * - 24-27/09/2024
     - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
     - Seville, ES
