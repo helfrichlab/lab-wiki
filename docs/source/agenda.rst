@@ -14,14 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 06/12/2023 @ 15:30 (CET)
+  * - 17/01/2024 @ 15:30 (CET)
     - Lab meeting
-    - Jan
-    - `Method discussion <https://www.sciencedirect.com/science/article/pii/S1053811914005783>`_
-  * - 13/12/2023 @ 15:30 (CET)
-    - Lab meeting
-    - Jonas
-    - `Paper discussion <https://www.nature.com/articles/s41593-018-0335-6>`_
+    - Victoria
+    - Project report
 
 
 
@@ -42,18 +38,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 06/12 @ TBA
-    - HIH Christmas party
-    - `Sudhaus <https://maps.app.goo.gl/phoFjuLLSEJBZCPY9>`_
-  * - 11/12 @ ~16:00
-    - Moni Schönauer lab visiting w/ Escape room + Dinner
+  * - 24/01 @ 19:00
+    - Jan's paper celebration
     - TBA
-  * - 14/12 @ ~18:00
-    - `Christmas lab party <https://drawnames.app/t/lY5qTaQ>`_
-    - @Randolph & Janna's
-  * - 15/12 @ ~14:00-19:00
-    - Christmas 3 lab symposium
-    - HIH Ebene 2, seminar room
 
 
 .. _conferences:
