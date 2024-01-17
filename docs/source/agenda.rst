@@ -18,6 +18,10 @@ Upcoming team meetings
     - Lab meeting
     - Victoria
     - Project report
+  * - 24/01/2024 @ 13:00 (CET)
+    - Lab meeting
+	- Lea Bachmann
+	- Presenting her MSc
 
 
 
