@@ -20,8 +20,8 @@ Upcoming team meetings
     - Project report
   * - 24/01/2024 @ 13:00 (CET)
     - Lab meeting
-	- Lea Bachmann
-	- Presenting her MSc
+    - Lea Bachmann
+    - Presenting her MSc
 
 
 
