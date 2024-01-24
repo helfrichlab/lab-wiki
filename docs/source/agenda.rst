@@ -69,18 +69,18 @@ Upcoming Conferences
   * - 29/05-01/06/2024
     - `PUG 2024 <https://www.pug2024.de/>`_
     - Hamburg, DE
-    - `TBA <https://www.pug2024.de/anmeldung.html>`_
+    - `31/03/2024 <https://www.pug2024.de/abstracts-en.html>`_
     - `TBA <https://www.pug2024.de/anmeldung.html>`_
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`_
     - Vienna, AT
-    - `Opens 29/11/2023 <https://fensforum.org/abstract-submission/>`_
+    - `09/02/2024 <https://fensforum.org/abstract-submission/>`_
     - `09/02/2024 <https://fensforum.org/registration-information/>`_
   * - 24-27/09/2024
     - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
     - Seville, ES
-    - Opens early 2024
-    - Opens early 2024
+    - `02/04/2024 <https://esrs.eu/sleep-congress/abstracts/>`_
+    - `Opens early 2024 <https://esrs.eu/sleep-congress/>`_
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
