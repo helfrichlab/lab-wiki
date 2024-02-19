@@ -16,12 +16,8 @@ Upcoming team meetings
     - Topic
   * - 17/01/2024 @ 15:30 (CET)
     - Lab meeting
-    - Victoria
-    - Project report
-  * - 24/01/2024 @ 13:00 (CET)
-    - Lab meeting
-    - Lea Bachmann
-    - Presenting her MSc
+    - N/A
+    - Organizational meeting
 
 
 
@@ -42,9 +38,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 24/01 @ 19:00
-    - Jan's paper celebration
-    - TBA
+  * - 
+    - 
+    - 
 
 
 .. _conferences:
