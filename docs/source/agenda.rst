@@ -14,7 +14,7 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 17/01/2024 @ 14:00 (CET)
+  * - 19/02/2024 @ 14:00 (CET)
     - Lab meeting
     - N/A
     - Organizational meeting
