@@ -77,6 +77,10 @@ Upcoming Conferences
     - Seville, ES
     - `02/04/2024 <https://esrs.eu/sleep-congress/abstracts/>`_
     - `Opens early 2024 <https://esrs.eu/sleep-congress/>`_
+  * - 05-09/10/2024
+    - Chicago, USA
+	- `23/04/2024 <https://www.sfn.org/meetings/neuroscience-2024/call-for-abstracts>`_
+	- `16/07/2024 <https://www.sfn.org/meetings/neuroscience-2024/registration>`_
   * - ##-##/##/2025
     - `ICON 2025 <https://twitter.com/ICON2020FIN/status/1528327737148166144>`_
     - TBA, PT
