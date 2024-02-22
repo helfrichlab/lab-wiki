@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 19/02/2024 @ 14:00 (CET)
+  * - 28/02/2024 @15:00 (CET)
     - Lab meeting
-    - N/A
-    - Organizational meeting
+    - Mariana
+    - Progress report
 
 
 
@@ -38,9 +38,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 
-    - 
-    - 
+  * - TBA
+    - Laura + Matthias Thesis Celebration!
+    - Da Michele (still TBC)
 
 
 .. _conferences:
