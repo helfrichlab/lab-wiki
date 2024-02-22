@@ -78,6 +78,7 @@ Upcoming Conferences
     - `02/04/2024 <https://esrs.eu/sleep-congress/abstracts/>`_
     - `Opens early 2024 <https://esrs.eu/sleep-congress/>`_
   * - 05-09/10/2024
+    - `SfN 2024 <https://www.sfn.org/meetings/neuroscience-2024>`_
     - Chicago, USA
 	- `23/04/2024 <https://www.sfn.org/meetings/neuroscience-2024/call-for-abstracts>`_
 	- `16/07/2024 <https://www.sfn.org/meetings/neuroscience-2024/registration>`_
