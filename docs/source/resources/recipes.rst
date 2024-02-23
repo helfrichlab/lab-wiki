@@ -21,6 +21,7 @@ Accumulated recipes:
 3. Main courses
 ---------
 * `Tinga de pollo <https://docs.google.com/document/d/197yPQqfVaNFZg48Qb03cUe0HvH9RfVME/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
+* `Mint and Lamb Meatballs <https://searchingforspice.com/mint-and-lamb-meatballs/#recipe>`_
 
 
 4. Desserts
