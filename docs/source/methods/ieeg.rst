@@ -39,7 +39,7 @@ iEEG
   5. You can manually change amplitudes of individual channels by left clicking the signal label and pressing the up/down arrows on the keyboard
   6. Verify that signal is OK using the photodiode plugged into DC1
 
-  `How to add DC channels to montage <https://docs.google.com/document/d/11HqtePjqnUermh8BEfqPlsxvXU4SOy56XU9lBe0auRI/edit?usp=drive_link>`_
+  `How to add DC channels to the montage <https://docs.google.com/document/d/11HqtePjqnUermh8BEfqPlsxvXU4SOy56XU9lBe0auRI/edit?usp=drive_link>`_
 
 
 **Room descriptives**
