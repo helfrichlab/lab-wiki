@@ -38,7 +38,7 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - TBA
+  * - 06/03 @ TBA
     - Laura + Matthias Thesis Celebration!
     - Da Michele (still TBC)
 
