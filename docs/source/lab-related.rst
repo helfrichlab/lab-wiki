@@ -69,3 +69,4 @@ Contents
   * `Poster template (portrait) <https://drive.google.com/file/d/1C3w_e7innclz8eTqQBupR9V2aejO-q-d/view?usp=sharing>`_
   * `Poster template (landscape) <https://drive.google.com/file/d/1jpyeYMs57syQwhgJ-zD5XA22VAsNsxC9/view?usp=sharing>`_
   * `HIH Post-in template <https://docs.google.com/document/d/1_yxghGCoDE2W3s6rbJXt1CP_P8Qz3KB3/edit?usp=sharing&ouid=104327315070915086176&rtpof=true&sd=true>`_
+  * `HIH letter template <https://docs.google.com/document/d/1utOP3_WNRz8BRaCoyh65qZvRjVZL-5tp/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
