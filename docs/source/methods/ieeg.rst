@@ -30,16 +30,14 @@ iEEG
   1. Click on ``Bearbeiten`` and select ``Einstellungen``
   2. Scroll down the list of currently added electrodes. On the right hand side, select the button labeled ``Kanal anhängen``. This creates a new line at the bottom of the channel list
   3. Set the following characteristics in the newly created channel line:
-    * Right click on the first column labeled “Eingabe” and select the desired channel (DC1, DC2, or DC3)
-    * Right click on the first column labeled “Ref” and select “keine”/empty
-    * Set “Type” to EEG
-    * Set “LFF” to 1Hz (default)
-    * Set “HFF” to “Aus”/off
-  4. Click OK and close the window
+    * Right click on the first column labeled ``Eingabe`` and select the desired channel (``DC1``, ``DC2``, or ``DC3``)
+    * Right click on the first column labeled ``Ref`` and select ``keine``/empty
+    * Set ``Type`` to EEG
+    * Set ``LFF`` to 1 Hz (default)
+    * Set ``HFF`` to “Aus”/off
+  4. Click ``OK`` and close the window
   5. You can manually change amplitudes of individual channels by left clicking the signal label and pressing the up/down arrows on the keyboard
   6. Verify that signal is OK using the photodiode plugged into DC1
-
-  `How to add DC channels to the montage <https://docs.google.com/document/d/11HqtePjqnUermh8BEfqPlsxvXU4SOy56XU9lBe0auRI/edit?usp=drive_link>`_
 
 
 **Room descriptives**
@@ -58,7 +56,7 @@ iEEG
 
 .. warning::
   * Communication with your subject is key. Be clear, patient, and friendly. It is preferable to come back another time than to force them to do a task against their perference.
-  * Always wear an FFP2 mask in hospital setting following COVID guidelines
+  * Always adhere to COVID guidelines if applicable (i.e., wear an FFP2 mask)
 
 
 2. Documents

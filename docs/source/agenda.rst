@@ -40,7 +40,10 @@ Upcoming lab activities
     - Location
   * - 06/03 @ 18:00
     - Laura + Matthias Thesis Celebration!
-    - Da Michele 
+    - `Da Michele <https://maps.app.goo.gl/go42KGv7PZxmN955A>`_
+  * - 13-16/09/2024
+    - Lab retreat 2024
+    - TBD
 
 
 .. _conferences:
@@ -57,11 +60,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 03-08/03/2024
-    - `GRC Sleep Regulation and Function <https://www.grc.org/sleep-regulation-and-function-conference/2024/>`_
-    - Galveston, TX, USA
-    - 04/02/2024
-    - 04/02/2024
   * - 29/05-01/06/2024
     - `PUG 2024 <https://www.pug2024.de/>`_
     - Hamburg, DE
