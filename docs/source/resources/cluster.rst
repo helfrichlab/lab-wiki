@@ -492,12 +492,13 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 
   >> matlab -nodesktop -nojvm % (when shortcut enabled
   >> cd /gpfs01/helfrich/user/fvanschalkwijk/2_Projects/Project4_Alpha-Spindles/Scripts/
-  >> [fpath] = fjvs_startup_[PROJECT_ID] % Defines paths
+  >> [fpath] = startup_[PROJECT_ID] % Defines paths
   >> ft_defaults;
   >> addpath /gpfs01/helfrich/data/Toolboxes/fieldtrip/fieldtrip-20210205/qsub/
   >> subjects = project4_alphaSpindles_init_subjects(fpath);
 
-| 5. 	Select the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
+| 5. 	Determine how much ``memory`` and ``time`` your analysis will require
+| 6. 	Start the analysis you want to run using 'qsubcellfun' from the project's "Master_script"
 
 .. code-block::
 
@@ -505,10 +506,10 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
                 'timreq',10*3600,'StopOnError',false,'jvm','no','backend',...
                 'torque','queue','hih','diary','always');
 
-| 6. Execute your job
-| 7. Closing the terminal while leaving the jobs running: sequentially type ``~`` + ``ctrl`` + ``z`` to close the connection (while job(s) are running)
-| 8. Type "qstat" to determine status (while connected to the cluster)
-| 9. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
+| 7. Execute your job
+| 8. Closing the terminal while leaving the jobs running: sequentially type ``~`` + ``ctrl`` + ``z`` to close the connection
+| 9. To check on the status of your jobs, reconnect to the cluster using ssh and call ``qstat``
+| 10. Determine job completion from local machine using a dedicated script ``fjvs_check_clusterJob()``
 
 
 .. _cluster_test_qsub:
