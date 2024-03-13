@@ -9,8 +9,12 @@ Softwares & Apps
 
 Here you can find things that will make your life easier!
 
+1. Data
+---------
 
-1. Data, Code, Citation Management
+* `Openly available datasets in (mostly human) electrophysiology <https://github.com/openlists/ElectrophysiologyData>`_
+
+2. Software and apps
 ---------
 **GitHub**
 
@@ -25,11 +29,11 @@ Here you can find things that will make your life easier!
 
 * `File synchronization: FreeFileSync <https://freefilesync.org/>`_
 
-2. Lab Communication
+3. Lab Communication
 ---------
 * `Group messaging: Slack <https://slack.com/>`_
 * `Video conferencing: Zoom <https://zoom.us/>`_
 
-3. Analysis
+4. Analysis
 ---------
 * `Interactive power calculator <https://observablehq.com/@patrickmineault/interactive-demo-in-pure-js?s=03>`_
