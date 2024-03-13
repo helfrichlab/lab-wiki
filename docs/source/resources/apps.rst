@@ -9,12 +9,7 @@ Softwares & Apps
 
 Here you can find things that will make your life easier!
 
-1. Data
----------
-
-* `Openly available datasets in (mostly human) electrophysiology <https://github.com/openlists/ElectrophysiologyData>`_
-
-2. Software and apps
+1. General
 ---------
 **GitHub**
 
@@ -29,10 +24,17 @@ Here you can find things that will make your life easier!
 
 * `File synchronization: FreeFileSync <https://freefilesync.org/>`_
 
-3. Lab Communication
+2. Lab Communication
 ---------
 * `Group messaging: Slack <https://slack.com/>`_
 * `Video conferencing: Zoom <https://zoom.us/>`_
+
+3. Hertie
+
+`HIH VPN instructions <https://hih-docu.neurologie.uni-tuebingen.de/network-access/hih-vpn>`_
+
+.. Note::
+ Utilize ``openvpn hih pf 45 m udp4 1194``
 
 4. Analysis
 ---------

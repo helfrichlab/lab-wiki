@@ -404,7 +404,8 @@ Add Fieldtrip, initialize, and add QSUB to Matlab's path:
 
  `Instructions <https://hih-docu.neurologie.uni-tuebingen.de/network-access/hih-vpn>`_
 
-|   **Note:** Utilize 'openvpn hih pf 45 m udp4 1194'
+.. Note::
+  Utilize ``openvpn hih pf 45 m udp4 1194``
 
 .. _cluster_commands:
 
