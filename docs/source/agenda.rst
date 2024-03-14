@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 06/03/2024 @15:30 (CET)
+  * - 20/03/2024 @15:30 (CET)
     - Lab meeting
-    - Neha
-    - `Paper presentation <https://www.sciencedirect.com/science/article/pii/S0959438820301367#fig0005>`_
+    - TBD
+    - TBD
 
 
 
@@ -38,12 +38,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 06/03 @ 18:00
-    - Laura + Matthias Thesis Celebration!
-    - `Da Michele <https://maps.app.goo.gl/go42KGv7PZxmN955A>`_
-  * - 13-16/09/2024
+  * - 12-15/09/2024
     - Lab retreat 2024
-    - TBD
+    - Burghaldenstr. 40, Alpirsbach
 
 
 .. _conferences:
