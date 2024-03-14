@@ -39,8 +39,8 @@ Upcoming lab activities
     - Activity
     - Location
   * - 12-15/09/2024
-    - Lab retreat 2024
-    - Burghaldenstr. 40, Alpirsbach
+    - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
+    - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
 
 
 .. _conferences:
@@ -61,7 +61,7 @@ Upcoming Conferences
     - `PUG 2024 <https://www.pug2024.de/>`_
     - Hamburg, DE
     - `31/03/2024 <https://www.pug2024.de/abstracts-en.html>`_
-    - `TBA <https://www.pug2024.de/anmeldung.html>`_
+    - `31/03/2024 <https://www.pug2024.de/anmeldung.html>`_
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`_
     - Vienna, AT
@@ -71,7 +71,7 @@ Upcoming Conferences
     - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
     - Seville, ES
     - `02/04/2024 <https://esrs.eu/sleep-congress/abstracts/>`_
-    - `Opens early 2024 <https://esrs.eu/sleep-congress/>`_
+    - `Opens April 2024 <https://esrs.eu/sleep-congress/>`_
   * - 05-09/10/2024
     - `SfN 2024 <https://www.sfn.org/meetings/neuroscience-2024>`_
     - Chicago, USA
