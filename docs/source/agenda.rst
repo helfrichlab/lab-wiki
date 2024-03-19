@@ -16,8 +16,8 @@ Upcoming team meetings
     - Topic
   * - 20/03/2024 @15:30 (CET)
     - Lab meeting
-    - TBD
-    - TBD
+    - Neha
+    - AB meeting practice
 
 
 
