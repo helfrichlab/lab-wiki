@@ -39,3 +39,7 @@ Here you can find things that will make your life easier!
 4. Analysis
 ---------
 * `Interactive power calculator <https://observablehq.com/@patrickmineault/interactive-demo-in-pure-js?s=03>`_
+
+5. Sleep staging
+---------
+* `Brodersen et al. (2024) PLUS Comp. Biol. - Probabilistic sleep stage classifier <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011793>`_
