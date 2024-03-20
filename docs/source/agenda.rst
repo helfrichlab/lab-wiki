@@ -59,12 +59,12 @@ Upcoming Conferences
     - Registration
   * - 29/05-01/06/2024
     - `PUG 2024 <https://www.pug2024.de/>`_
-    - Hamburg, DE
+    - `Hamburg, DE <https://maps.app.goo.gl/in2PJeYkTrqsJpXc6>`_
     - `31/03/2024 <https://www.pug2024.de/abstracts-en.html>`_
     - `31/03/2024 <https://www.pug2024.de/anmeldung.html>`_
   * - 25-29/06/2024
     - `FENS 2024 <https://fensforum.org/>`_
-    - Vienna, AT
+    - `Vienna, AT <https://maps.app.goo.gl/77s3LRVYJKpdc8VV9>`_
     - `09/02/2024 <https://fensforum.org/abstract-submission/>`_
     - `09/02/2024 <https://fensforum.org/registration-information/>`_
   * - 24-27/09/2024
