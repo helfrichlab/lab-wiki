@@ -46,7 +46,7 @@ Here you can find recommended readings, tutorials, and guidelines.
 
 7. Grant applications
 --------
-* `Elements of successful NIH grant applications <https://www.pnas.org/doi/10.1073/pnas.2315735121 >`_
+* `Elements of successful NIH grant applications <https://www.pnas.org/doi/10.1073/pnas.2315735121>`_
 * `DFG funding programmes <https://www.dfg.de/en/research-funding/funding-opportunities/programmes>`_
 * `MSCA funding opportunities <https://marie-sklodowska-curie-actions.ec.europa.eu/funding>`_
 * `EU funding & calls for proposals <https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?status=31094501,31094502&order=DESC&pageNumber=1&pageSize=50&sortBy=startDate>`_
