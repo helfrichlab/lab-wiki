@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 20/03/2024 @15:30 (CET)
+  * - 22/05/2024 @15:30 (CET)
     - Lab meeting
-    - Neha
-    - AB meeting practice
+    - Frank
+    - Dress rehearsal PUG symposium
 
 
 
