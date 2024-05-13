@@ -39,6 +39,15 @@ iEEG
   5. You can manually change amplitudes of individual channels by left clicking the signal label and pressing the up/down arrows on the keyboard
   6. Verify that signal is OK using the photodiode plugged into DC1
 
+  .. note::
+    Activating channels:
+
+    1. Go to ``Einstellungen`` -> ``Datenerfassung``
+    2. Select DC channel and click on ``Kanalstatus``
+    3. Select ``Kanal ein``
+    4. Select ``Uebernahme``
+    5. Repeat per DC channel
+
 
 **Room descriptives**
 
