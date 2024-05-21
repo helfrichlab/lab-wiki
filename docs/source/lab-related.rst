@@ -21,6 +21,7 @@ Contents
 ------------
 
 * `Lab documentation (tel, wifi, zoom, etc) <https://docs.google.com/document/d/13GZwU_fvfFtpB9zSDVzpjDZjXKkLTERRRSZ3rihSWEU/edit>`_
+* `Register new device to Hertie network <https://hih-docu.neurologie.uni-tuebingen.de/network-access>`_
 * `Sign up for the 3Lab Mailing List <https://listserv.uni-tuebingen.de/mailman/listinfo/cogneuroteam>`_
 * `Readme: request a new access card to the HIH <https://docs.google.com/document/d/1yRsAy907Nt_Nj6ERhShzrPpWQoyPvnNcpyXQCsbtYJ8/edit?usp=sharing>`_
 * `Readme: request a CIN account for Helfrich cluster <https://docs.google.com/document/d/1LcJjcS6XCkHmJOqWWGNnP02KhzrTQT5Db08GBUqIUi8/edit?usp=sharing>`_
