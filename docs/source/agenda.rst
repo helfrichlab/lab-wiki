@@ -75,5 +75,5 @@ Upcoming Conferences
   * - 15-20/09/2025
     - `ICON 2025 <https://icon2025.pt/>`_
     - Oporto, PT
-    - `TBA <https://icon2025.pt/registration-and-abstracts/abstract-submission>`_
-    - `TBA <https://icon2025.pt/registration-and-abstracts/registration>`_
+    - `30/04/2025 <https://icon2025.pt/authors/abstract-submission-poster>`_
+    - `01/01/2025 <https://icon2025.pt/registration>`_
