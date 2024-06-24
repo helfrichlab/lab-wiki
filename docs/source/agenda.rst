@@ -17,11 +17,7 @@ Upcoming team meetings
   * - 19/06/2024 @15:30 (CET)
     - Lab meeting
     - Gabriela
-    - Progress report
-  * - 26/06/2024 @15:30 (CET)
-    - Lab meeting
-    - Judith
-    - Presenting data
+	- Progress report
 
 
 
