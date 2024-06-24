@@ -37,12 +37,13 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 12-15/09/2024
-    - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
-    - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
   * - 05/07/2024
     - Tom Donoghue visit
     - Conference room 2nd floor
+  * - 12-15/09/2024
+    - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
+    - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
+  
 
 .. _conferences:
 
