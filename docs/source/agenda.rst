@@ -14,11 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 19/06/2024 @15:30 (CET)
+  * - 26/06/2024 @15:30 (CET)
     - Lab meeting
-    - Gabriela
-	- Progress report
-
+    - TBD
+	- TBD
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
@@ -41,6 +40,9 @@ Upcoming lab activities
   * - 12-15/09/2024
     - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
     - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
+  * - 05/07/2024 @ TBA
+	- Tom Donoghue visit
+	- Conference room 2nd floor
 
 
 .. _conferences:
