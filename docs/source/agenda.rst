@@ -82,6 +82,11 @@ Upcoming Conferences
     - Chicago, USA
     - `07/05/2024 <https://www.sfn.org/meetings/neuroscience-2024/call-for-abstracts>`_
     - `10/07/2024 <https://www.sfn.org/meetings/neuroscience-2024/registration>`_
+  * - 29/03-01/04/2025
+    - `CNS 2025 <https://www.cogneurosociety.org/annual-meeting/>`_
+    - Boston, USA
+    - TBA
+    - TBA
   * - 15-20/09/2025
     - `ICON 2025 <https://icon2025.pt/>`_
     - Oporto, PT
