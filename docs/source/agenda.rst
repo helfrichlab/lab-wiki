@@ -18,6 +18,14 @@ Upcoming team meetings
     - Lab meeting
     - Data blitz
     - Isabel, Michi and Jan
+  * - 12/07/2024 @ 14:00
+    - Lab meeting
+    - Talk preparation
+    - Jan
+  * - 24/07/2024 @ 15:30
+    - Lab meeting
+    - Wrap-up report
+    - Markus
 	
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
