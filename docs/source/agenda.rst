@@ -14,14 +14,14 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 10/07/2024 @ 15:30
+  * - 12/07/2024 @ 15:00
+    - Journal club
+    - Noise correlations
+    - Jonas
+  * - 17/07/2024 @ 15:30
     - Lab meeting
-    - Data blitz
-    - Isabel, Michi and Jan
-  * - 12/07/2024 @ 14:00
-    - Lab meeting
-    - Talk preparation
-    - Jan
+    - Microstates workshop 
+    - Laura
   * - 24/07/2024 @ 15:30
     - Lab meeting
     - Wrap-up report
@@ -45,9 +45,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 05/07/2024 @ 14:00
-    - Tom Donoghue visit
-    - DZNE conference room
+  * - 11/07/2024 @ 18:00
+    - Lerche Sommerfest
+    - Gartenstraße 51
   * - 12-15/09/2024
     - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
     - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
