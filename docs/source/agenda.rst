@@ -20,7 +20,7 @@ Upcoming team meetings
     - Laura
   * - 19/07/2024 @ 14:00
     - Journal club
-    - Bayesian inference
+    - `Bayesian inference <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009557>`_
     - Gabriela
   * - 24/07/2024 @ 15:30
     - Lab meeting
@@ -28,7 +28,7 @@ Upcoming team meetings
     - Markus
   * - 26/07/2024 @ 14:00
     - Journal club
-    - Cross-frequency coupling 
+    - `Cross-frequency coupling tutorial <https://www.nature.com/articles/s41586-024-07309-z>`_
     - Randolph
 	
 
