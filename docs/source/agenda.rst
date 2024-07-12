@@ -14,18 +14,22 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 12/07/2024 @ 15:00
-    - Journal club
-    - Noise correlations
-    - Jonas
   * - 17/07/2024 @ 15:30
     - Lab meeting
     - Microstates workshop 
     - Laura
+  * - 19/07/2024 @ 14:00
+    - Journal club
+    - Bayesian inference
+    - Gabriela
   * - 24/07/2024 @ 15:30
     - Lab meeting
     - Wrap-up report
     - Markus
+  * - 26/07/2024 @ 14:00
+    - Journal club
+    - Cross-frequency coupling 
+    - Randolph
 	
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
@@ -45,9 +49,6 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 11/07/2024 @ 18:00
-    - Lerche Sommerfest
-    - Gartenstraße 51
   * - 12-15/09/2024
     - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
     - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
