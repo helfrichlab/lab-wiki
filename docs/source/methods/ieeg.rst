@@ -16,6 +16,15 @@ iEEG
    2. Documents
 
 
+
+ Contents
+ ------
+ | :ref:`iEEG_manual`
+ | :ref:`iEEG_documents`
+
+
+.. _iEEG_manual:
+
 1. Manual
 ---------
 
@@ -67,6 +76,8 @@ iEEG
   * Communication with your subject is key. Be clear, patient, and friendly. It is preferable to come back another time than to force them to do a task against their perference.
   * Always adhere to COVID guidelines if applicable (i.e., wear an FFP2 mask)
 
+
+.. _iEEG_documents:
 
 2. Documents
 ---------
