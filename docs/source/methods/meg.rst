@@ -9,6 +9,7 @@ MEG
 
 Contents
 ------
+| :ref:`meg_documents`
 | :ref:`meg_contacts`
 | :ref:`meg_equipment`
 | :ref:`meg_supplies`
@@ -29,6 +30,12 @@ Contents
 | **From: HelfrichLab**
 | **Authors:** Isabel Raposo, Jan Weber, and Frank van Schalkwijk
 | **Contact:**
+
+.. _meg_documents:
+
+0. Documents
+`Consent form - healthy participants <https://drive.google.com/file/d/14j9_ztLVgduy22Q1mOqpdwb7bNPucwn9/view?usp=drive_link>`_
+
 
 
 .. _meg_contacts:

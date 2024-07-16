@@ -28,6 +28,13 @@ Contents
   * `HydroCel Geodesic Sensor Net - application instructions <https://www.egi.com/images/stories/manuals/Printed%20IFUs%20with%20New%20Notified%20Body/HC_GSN_RM_sponged_appl_uins_8403481-53_20181210.pdf>`_
   * `HydroCel Geodesic Sensor Net - spongeless long-term monitoring nets <https://www.egi.com/images/stories/manuals/Second%20Batch%20of%20IFUs%20with%20new%20Notified%20Body%20Jan%202019/HC_GSN_LTM_spongeless_uins_8404694-52_20181221.pdf>`_
 
+.. _hdeeg_documents:
+
+0. Documents
+
+`Consent form - healthy participants <https://drive.google.com/file/d/14j9_ztLVgduy22Q1mOqpdwb7bNPucwn9/view?usp=drive_link>`_
+
+
 .. _hdeeg_preparation:
 
 1. Preparing for a recording
