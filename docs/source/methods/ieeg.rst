@@ -7,16 +7,6 @@ iEEG
 .. autosummary::
    :toctree: generated
 
-
- Contents
- ------
- .. code-block::
-
-   1. Manual
-   2. Documents
-
-
-
  Contents
  ------
  | :ref:`iEEG_manual`
