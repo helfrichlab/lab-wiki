@@ -11,7 +11,7 @@ Accumulated recipes:
 ---------
 * `Swiss nut tart cakes <https://drive.google.com/file/d/1adFUllVMhJVrKl3SgcYiFJFbIRXVrF2S/view?usp=drive_link>`_
 * `Scones <https://drive.google.com/file/d/14Gub4MU9ZlDTjsEp-GwO1yj7DnY0VqUy/view?usp=drive_link>`__
-
+* `Lemon bars <https://drive.google.com/file/d/1J8E5CynA7epcIdk064ggozy1F_dPh-dr/view?usp=drive_link>`_
 
 2. Appetizers
 ---------
