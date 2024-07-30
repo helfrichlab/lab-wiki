@@ -14,22 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 17/07/2024 @ 15:30
-    - Lab meeting
-    - Microstates workshop 
-    - Laura
-  * - 19/07/2024 @ 14:00
-    - Journal club
-    - `Bayesian inference <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009557>`_
-    - Gabriela
-  * - 24/07/2024 @ 15:30
-    - Lab meeting
-    - Wrap-up report
-    - Markus
-  * - 26/07/2024 @ 14:00
-    - Journal club
-    - `Cross-frequency coupling tutorial <https://www.nature.com/articles/s41586-024-07309-z>`_
-    - Randolph
+  * - 01/08/2024 - 31/08/2024
+    - Lab summer break
+    - N/A 
+    - N/A
 	
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
@@ -90,6 +78,6 @@ Upcoming Conferences
     - TBA
   * - 15-20/09/2025
     - `ICON 2025 <https://icon2025.pt/>`_
-    - Oporto, PT
+    - Porto, PT
     - `30/04/2025 <https://icon2025.pt/authors/abstract-submission-poster>`_
     - `01/01/2025 <https://icon2025.pt/registration>`_
