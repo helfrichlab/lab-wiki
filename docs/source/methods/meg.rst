@@ -9,6 +9,7 @@ MEG
 
 Contents
 ------
+| :ref:`meg_documents`
 | :ref:`meg_contacts`
 | :ref:`meg_equipment`
 | :ref:`meg_supplies`
@@ -30,10 +31,17 @@ Contents
 | **Authors:** Isabel Raposo, Jan Weber, and Frank van Schalkwijk
 | **Contact:**
 
+.. _meg_documents:
+
+1. Documents
+------
+`Consent form - healthy participants <https://drive.google.com/file/d/14j9_ztLVgduy22Q1mOqpdwb7bNPucwn9/view?usp=drive_link>`_
+
+
 
 .. _meg_contacts:
 
-1. Contacts
+2. Contacts
 ------
 :Jürgen Dax:
     | **Tel:** 87706
@@ -57,7 +65,7 @@ Contents
 
 .. _meg_equipment:
 
-2. Equipment
+3. Equipment
 ------
 :MEG room:
   * MEG scanner
@@ -80,7 +88,7 @@ Contents
 
 .. _meg_supplies:
 
-3. Supplies
+4. Supplies
 ------
 
 Supplies are found in M/EEG prep room #2 under the sink & large gray cabinet.
@@ -88,7 +96,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_scheduling:
 
-4. Scheduling recording time
+5. Scheduling recording time
 ------
 
 1.  Obtain access to M/EEG Google calendar ``...information pending...``
@@ -96,7 +104,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_preparation-room:
 
-5. Checklist prior to a recording
+6. Checklist prior to a recording
 ------
 
 :Control room:
@@ -146,7 +154,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_preparation-subject:
 
-6. Participant preparation prior to recording
+7. Participant preparation prior to recording
 ------
 
 :Participant:
@@ -156,7 +164,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_preparation-experiment:
 
-7. Preparations prior to experiment
+8. Preparations prior to experiment
 ------
 
 :MEG preparations:
@@ -206,7 +214,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_recording:
 
-8. Conducting an experiment
+9. Conducting an experiment
 ------
 
 .. Note::
@@ -244,7 +252,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_checklist-postrecording:
 
-9. Checklist after a recording
+10. Checklist after a recording
 ------
 
   * Remove photodiode(s)
@@ -258,7 +266,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_data-export:
 
-10. Data export
+11. Data export
 ------
 
   * Turn on ``fo2-53`` PC
@@ -269,7 +277,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_cleaning:
 
-11. Cleaning
+12. Cleaning
 ------
 
 :MEG room:
@@ -304,7 +312,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_notes-channels:
 
-12. Channel notes
+13. Channel notes
 ------
 
   * ``UDI0001`` = response box; Amp settings: Stim = 2k-5k
@@ -318,7 +326,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_notes-other:
 
-13. Other notes
+14. Other notes
 ------
 
 * If ACQ is turned off: login requires username (meg) and password (meglab). Page 1 of logbook.
@@ -327,7 +335,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_alarms:
 
-14. Alarms
+15. Alarms
 ------
 
 :Alarm #1 - O2 sensor:
@@ -354,7 +362,7 @@ Covers are in cabinet of MEEG prep room #1
 
 .. _meg_questions:
 
-15. Open questions
+16. Open questions
 ------
 
 1. Are data saved after every block?

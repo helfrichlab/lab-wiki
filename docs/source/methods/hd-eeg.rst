@@ -9,6 +9,7 @@ HD-EEG
 
 Contents
 ------
+| :ref:`hdeeg_documents`
 | :ref:`hdeeg_preparation`
 | :ref:`hdeeg_setup-participant`
 | :ref:`hdeeg_setup-cap`
@@ -28,9 +29,18 @@ Contents
   * `HydroCel Geodesic Sensor Net - application instructions <https://www.egi.com/images/stories/manuals/Printed%20IFUs%20with%20New%20Notified%20Body/HC_GSN_RM_sponged_appl_uins_8403481-53_20181210.pdf>`_
   * `HydroCel Geodesic Sensor Net - spongeless long-term monitoring nets <https://www.egi.com/images/stories/manuals/Second%20Batch%20of%20IFUs%20with%20new%20Notified%20Body%20Jan%202019/HC_GSN_LTM_spongeless_uins_8404694-52_20181221.pdf>`_
 
+
+.. _hdeeg_documents:
+
+1. Documents
+---------
+
+`Consent form - healthy participants <https://drive.google.com/file/d/14j9_ztLVgduy22Q1mOqpdwb7bNPucwn9/view?usp=drive_link>`_
+
+
 .. _hdeeg_preparation:
 
-1. Preparing for a recording
+2. Preparing for a recording
 ---------
 
 :Hardware:
@@ -60,7 +70,7 @@ Contents
 
 .. _hdeeg_setup-participant:
 
-2. Setup with participant
+3. Setup with participant
 ---------
 
 1.	Explain to the participant what is about to happen. Explain cap placement and procedures.
@@ -85,7 +95,7 @@ Contents
 
 .. _hdeeg_setup-cap:
 
-3. Applying the EGI net
+4. Applying the EGI net
 ---------
 
 1.	Place a towel around the participant’s neck and covering the shoulders. Explain again what will happen
@@ -113,7 +123,7 @@ Contents
 
 .. _hdeeg_signal-acquisition:
 
-4. Acquiring signal from the EGI net
+5. Acquiring signal from the EGI net
 ---------
 
 1.  Connect the connector to the EGI beam.
@@ -125,7 +135,7 @@ Contents
 
 .. _hdeeg_recording:
 
-5. Starting and ending your recording
+6. Starting and ending your recording
 ---------
 
 **Starting the recording:**
@@ -146,7 +156,7 @@ Contents
 
 .. _hdeeg_removal-cap:
 
-6. Removing the EGI net
+7. Removing the EGI net
 ---------
 
 1.  Stop the recording. Data are automatically saved in your workspace
@@ -164,7 +174,7 @@ Contents
 
 .. _hdeeg_cleanup-cap:
 
-7. Cleanup
+8. Cleanup
 ---------
 
 .. Warning::
@@ -196,7 +206,7 @@ Contents
 
 .. _hdeeg_layout:
 
-8. EGI electrode layout
+9. EGI electrode layout
 ---------
 
 
@@ -206,7 +216,7 @@ Contents
 
 .. _hdeeg_scripts:
 
-9. Scripts
+10. Scripts
 ---------
 
 :EGI scripts:

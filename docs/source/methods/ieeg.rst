@@ -7,14 +7,13 @@ iEEG
 .. autosummary::
    :toctree: generated
 
-
  Contents
  ------
- .. code-block::
+ | :ref:`iEEG_manual`
+ | :ref:`iEEG_documents`
 
-   1. Manual
-   2. Documents
 
+.. _iEEG_manual:
 
 1. Manual
 ---------
@@ -68,8 +67,11 @@ iEEG
   * Always adhere to COVID guidelines if applicable (i.e., wear an FFP2 mask)
 
 
+.. _iEEG_documents:
+
 2. Documents
 ---------
+* `TUE iEEG patient consent form <https://drive.google.com/file/d/1_dV9Btn5-0i_N6mfswm3epMOpcqRnI95/view?usp=drive_link>`_
 * `TUE iEEG patient information sheet <https://drive.google.com/file/d/1nFo9Jwfeh9eFXFikPNcH9_3wWDJ-PNRb/view?usp=drive_link>`_
 * `TUE iEEG electrode information sheet <https://drive.google.com/file/d/1me4D_UT2YULn823p5ozVYnNfzrn9KacC/view?usp=drive_linkg>`_
 * `TUE iEEG recording sheet <https://drive.google.com/file/d/1C2RIVT56SW-NAZHh8nHHQVft2VepwKpR/view?usp=sharing>`_
