@@ -18,6 +18,10 @@ Upcoming team meetings
     - Lab summer break
     - N/A 
     - N/A
+  * - 04/09/2024
+    - Lab meeting
+    - Randolph 
+    - Data organization
 	
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
