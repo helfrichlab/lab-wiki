@@ -16,13 +16,13 @@ Upcoming team meetings
     - Topic
   * - 01/08/2024 - 31/08/2024
     - Lab summer break
-    - N/A 
+    - N/A
     - N/A
   * - 04/09/2024
     - Lab meeting
-    - Randolph 
+    - Randolph
     - Data organization
-	
+
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -44,7 +44,7 @@ Upcoming lab activities
   * - 12-15/09/2024
     - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
     - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
-  
+
 
 .. _conferences:
 
@@ -60,11 +60,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 25-29/06/2024
-    - `FENS 2024 <https://fensforum.org/>`_
-    - `Vienna, AT <https://maps.app.goo.gl/77s3LRVYJKpdc8VV9>`_
-    - `09/02/2024 <https://fensforum.org/abstract-submission/>`_
-    - `09/02/2024 <https://fensforum.org/registration-information/>`_
   * - 24-27/09/2024
     - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
     - Seville, ES
