@@ -41,9 +41,12 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 12-15/09/2024
-    - `Lab retreat 2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
+  * - `12-15/09/2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
+    - `Lab retreat 2024 <https://docs.google.com/spreadsheets/d/1HU4EPjPKz3jAtrwjY5uTsltnBuHOThkhFNhz105LFl4/edit?usp=drive_link>`_
     - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
+
+
+
 
 
 .. _conferences:
