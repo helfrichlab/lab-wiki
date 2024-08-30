@@ -18,7 +18,7 @@ Upcoming team meetings
     - Lab summer break
     - N/A
     - N/A
-  * - 04/09/2024
+  * - 04/09/2024 @15:30
     - Lab meeting
     - Randolph
     - Data organization
