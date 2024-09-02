@@ -14,10 +14,6 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 01/08/2024 - 31/08/2024
-    - Lab summer break
-    - N/A
-    - N/A
   * - 04/09/2024 @15:30
     - Lab meeting
     - Randolph
