@@ -14,7 +14,7 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 04/09/2024 @15:30
+  * - 12-13/09/2024 @Lab retreat
     - Lab meeting
     - Randolph
     - Data organization
