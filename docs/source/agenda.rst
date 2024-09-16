@@ -14,9 +14,25 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 12-13/09/2024 @Lab retreat
+  * - 25/09/2024
+    - Lab meeting
+    - TBD
+    - TBD
+  * - 02/10/2024
     - Lab meeting
     - Randolph
+    - Paradigms
+  * - 09/10/2024
+    - Lab meeting
+    - TBD
+    - TBD
+  * - 16/10/2024
+    - Lab meeting
+    - TBD
+    - TBD
+  * - 23/10/2024
+    - Lab meeting
+    - Jan
     - Data organization
 
 
@@ -40,7 +56,12 @@ Upcoming lab activities
   * - `12-15/09/2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
     - `Lab retreat 2024 <https://docs.google.com/spreadsheets/d/1HU4EPjPKz3jAtrwjY5uTsltnBuHOThkhFNhz105LFl4/edit?usp=drive_link>`_
     - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
-
+  * - TBD
+    - Paper celebration Markus (eNeuro)
+    - TBD
+  * - TBD
+    - Paper celebration Janna (JNeurosci)
+    - TBD
 
 
 
@@ -72,6 +93,11 @@ Upcoming Conferences
   * - 29/03-01/04/2025
     - `CNS 2025 <https://www.cogneurosociety.org/annual-meeting/>`_
     - Boston, USA
+    - TBA
+    - TBA
+  * - 12-15/08/2025
+    - `CCN 2025 <https://2024.ccneuro.org/>`_
+    - Amsterdam, NL
     - TBA
     - TBA
   * - 15-20/09/2025
