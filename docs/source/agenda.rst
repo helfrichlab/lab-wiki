@@ -16,16 +16,12 @@ Upcoming team meetings
     - Topic
   * - 25/09/2024
     - Lab meeting
-    - TBD
-    - TBD
+    - Neha
+    - Progress report
   * - 02/10/2024
     - Lab meeting
     - Randolph
     - Paradigms
-  * - 09/10/2024
-    - Lab meeting
-    - TBD
-    - TBD
   * - 16/10/2024
     - Lab meeting
     - TBD
