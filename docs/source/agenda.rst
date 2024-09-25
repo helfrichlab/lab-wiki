@@ -93,8 +93,8 @@ Upcoming Conferences
   * - 29/03-01/04/2025
     - `CNS 2025 <https://www.cogneurosociety.org/annual-meeting/>`_
     - Boston, USA
-    - TBA
-    - TBA
+    - 24/09/2024
+    - 06/11/2024
   * - 12-15/08/2025
     - `CCN 2025 <https://2024.ccneuro.org/>`_
     - Amsterdam, NL
