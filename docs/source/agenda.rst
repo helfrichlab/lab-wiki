@@ -49,15 +49,18 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - `12-15/09/2024 <https://www.schwarzwald-ferienhaus.net/en/holiday-homes/holiday-home-burghalde/>`_
-    - `Lab retreat 2024 <https://docs.google.com/spreadsheets/d/1HU4EPjPKz3jAtrwjY5uTsltnBuHOThkhFNhz105LFl4/edit?usp=drive_link>`_
-    - `Burghaldenstr. 40, Alpirsbach <https://maps.app.goo.gl/LUVUShwFCp5PTsTv6>`_
-  * - TBD
+  * - 15/10/2024 @ 19:00
     - Paper celebration Markus (eNeuro)
-    - TBD
+    - `Wurstküche <https://maps.app.goo.gl/iiKNG9rdJcD7mHpo6>`_
   * - TBD
     - Paper celebration Janna (JNeurosci)
     - TBD
+  * - TBD
+    - Paper celebration Michi (Progress in Neurobiology)
+    - TBD
+  * - 15/11/2024 @ 18:00
+    - Mario Kart Tournament
+    - HIH seminar room
 
 
 
