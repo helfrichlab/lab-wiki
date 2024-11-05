@@ -14,22 +14,22 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 25/09/2024
+  * - 06/11/2024
     - Lab meeting
-    - Neha
-    - Progress report
-  * - 02/10/2024
+    - Michi
+    - Data Pitch Mandelbrot
+  * - 13/11/2024
     - Lab meeting
-    - Randolph
-    - Paradigms
-  * - 16/10/2024
-    - Lab meeting
+    - Neha/Isabel
+    - LRTC / Avalanches
+  * - 20/11/2024
+    - 3Lab meeting (5pm)
+    - Ramanujan Srinath
     - TBD
-    - TBD
-  * - 23/10/2024
-    - Lab meeting
-    - Jan
-    - Data organization
+  * - 22/11/2024
+    - Journal Club
+    - Laura
+    - Palvas et al. 2013 PNAS - LRTC
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
@@ -49,19 +49,18 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 15/10/2024 @ 19:00
-    - Paper celebration Markus (eNeuro)
-    - `Wurstküche <https://maps.app.goo.gl/iiKNG9rdJcD7mHpo6>`_
-  * - TBD
-    - Paper celebration Janna (JNeurosci)
-    - TBD
-  * - TBD
-    - Paper celebration Michi (Progress in Neurobiology)
-    - TBD
   * - 15/11/2024 @ 18:00
     - Mario Kart Tournament
-    - HIH seminar room
-
+    - HIH Seminar room
+  * - 19/11/2024 @17/18:00
+    - Paper celebration Michi
+    - Short "mulled-wine hike" + food (TBD)
+  * - 03/12/2024
+    - Lab Christmas party
+    - TBD
+  * - 04/12/2024
+    - HIH Christmas party
+    - Neurocampus
 
 
 
