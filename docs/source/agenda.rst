@@ -14,14 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 06/11/2024
-    - Lab meeting
-    - Michi
-    - Data Pitch Mandelbrot
   * - 13/11/2024
     - Lab meeting
-    - Neha/Isabel
-    - LRTC / Avalanches
+    - Jan
+    - data pitch iEEG WMATT
   * - 20/11/2024
     - 3Lab meeting (5pm)
     - Ramanujan Srinath
@@ -30,6 +26,10 @@ Upcoming team meetings
     - Journal Club
     - Laura
     - Palvas et al. 2013 PNAS - LRTC
+  * - 27/11/2024
+    - Lab meeting
+    - Neha/Isabel
+    - LRTC / Avalanches
 
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
