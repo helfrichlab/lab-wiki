@@ -49,18 +49,12 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 15/11/2024 @ 18:00
-    - Mario Kart Tournament
-    - HIH Seminar room
-  * - 19/11/2024 @17/18:00
-    - Paper celebration Michi
-    - Short "mulled-wine hike" + food (TBD)
   * - 03/12/2024
     - Lab Christmas party
-    - TBD
+    - @ Randolph's and Janna's
   * - 04/12/2024
     - HIH Christmas party
-    - Neurocampus
+    - Neurocampus DZNE
 
 
 
@@ -78,16 +72,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 24-27/09/2024
-    - `ESRS 2024 <https://esrs.eu/sleep-congress/>`_
-    - Seville, ES
-    - `02/04/2024 <https://esrs.eu/sleep-congress/abstracts/>`_
-    - `Opens April 2024 <https://esrs.eu/sleep-congress/>`_
-  * - 05-09/10/2024
-    - `SfN 2024 <https://www.sfn.org/meetings/neuroscience-2024>`_
-    - Chicago, USA
-    - `07/05/2024 <https://www.sfn.org/meetings/neuroscience-2024/call-for-abstracts>`_
-    - `10/07/2024 <https://www.sfn.org/meetings/neuroscience-2024/registration>`_
   * - 29/03-01/04/2025
     - `CNS 2025 <https://www.cogneurosociety.org/annual-meeting/>`_
     - Boston, USA
