@@ -71,6 +71,7 @@ Contents
 **Templates & Logos:**
 
 * `Team and institute logos <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
+* `Powerpoint project documentation template <https://docs.google.com/presentation/d/1Ko5RedAXCwYs-6u5Wlf6VPp47LXxgPz8/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 * `PowerPoint Template <https://docs.google.com/presentation/d/1zxOOv8z0zvL9Rh0HkDgO998ASqqjAEJx/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 * `Poster template (portrait) <https://drive.google.com/file/d/1C3w_e7innclz8eTqQBupR9V2aejO-q-d/view?usp=sharing>`_
 * `Poster template (landscape) <https://drive.google.com/file/d/1jpyeYMs57syQwhgJ-zD5XA22VAsNsxC9/view?usp=sharing>`_
