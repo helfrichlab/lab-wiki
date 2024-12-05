@@ -14,23 +14,14 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 13/11/2024
+  * - 11/12/2024 @ 15:30
     - Lab meeting
-    - Jan
-    - data pitch iEEG WMATT
-  * - 20/11/2024
-    - 3Lab meeting (5pm)
-    - Ramanujan Srinath
-    - TBD
-  * - 22/11/2024
-    - Journal Club
-    - Laura
-    - Palvas et al. 2013 PNAS - LRTC
-  * - 27/11/2024
+    - Gabriela
+    - Data presentation Belief Update
+  * - 17/12/2024 @ 15:30
     - Lab meeting
-    - Neha/Isabel
-    - LRTC / Avalanches
-
+    - Frank
+    - Data presentation 1/f exponent drives ripple detection
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -49,13 +40,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 03/12/2024
-    - Lab Christmas party
-    - @ Randolph's and Janna's
-  * - 04/12/2024
-    - HIH Christmas party
-    - Neurocampus DZNE
-
+  * - TBA
+    - TBA
+    - TBA
 
 
 .. _conferences:
@@ -77,6 +64,11 @@ Upcoming Conferences
     - Boston, USA
     - 24/09/2024
     - 06/11/2024
+  * - 18-21/06/20025
+    - `PUG 2025 <https://www.pug2025.org/>`_
+    - Würzburg
+    - TBA
+    - TBA
   * - 12-15/08/2025
     - `CCN 2025 <https://2024.ccneuro.org/>`_
     - Amsterdam, NL

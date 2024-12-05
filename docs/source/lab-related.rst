@@ -59,7 +59,8 @@ Contents
 5. Other
 ----------------
 
-**Useful information & how-to's**
+**Useful information & how-to's:**
+
 * `Contacts within Uniklinikum Tuebingen <https://docs.google.com/document/d/1tX7Vmqp6AwK4B5bdVRkXL3GFxqUtV_lGxiRjR7Ber5U/edit?usp=share_link>`_
 * `Form: lab rotation evaluation <https://drive.google.com/file/d/1Tr_NrK79UbltLkZ6OHxiO4PSJGRCUpTo/view?usp=share_link>`_
 * `Readme: poster printing <https://docs.google.com/document/d/1jyw9kM4yUQJjUebQrlc_meAdg9MeBDBR5WHgIL4xsww/edit?usp=share_link>`_
@@ -67,7 +68,8 @@ Contents
 * `Readme: Deutschland Jobticket <https://docs.google.com/document/d/1ndwtZ-POEhsmHFuBcILScQ2JAJurEpJrKS_vHXTkhfc/edit>`_
 * `Open Access Publication Fund <https://docs.google.com/document/d/1Q-WLF4YkFjLBvmkliNtlSMqobxlH1XXmTxp5mEp9e68/edit>`_
 
-**Templates & Logos**
+**Templates & Logos:**
+
 * `Team and institute logos <https://drive.google.com/drive/folders/1GQX478SnznVNodNzFDEkgyHczlV4mTp8?usp=sharing>`_
 * `PowerPoint Template <https://docs.google.com/presentation/d/1zxOOv8z0zvL9Rh0HkDgO998ASqqjAEJx/edit?usp=share_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
 * `Poster template (portrait) <https://drive.google.com/file/d/1C3w_e7innclz8eTqQBupR9V2aejO-q-d/view?usp=sharing>`_
