@@ -18,7 +18,7 @@ Upcoming team meetings
     - Lab meeting
     - Gabriela
     - Data presentation Belief Update
-  * - 17/12/2024 @ 15:30
+  * - 18/12/2024 @ 10:30
     - Lab meeting
     - Frank
     - Data presentation 1/f exponent drives ripple detection
