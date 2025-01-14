@@ -14,14 +14,14 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 11/12/2024 @ 15:30
+  * - 22/02/2025 @ 14:00
     - Lab meeting
-    - Gabriela
-    - Data presentation Belief Update
-  * - 18/12/2024 @ 10:30
+    - TBD
+    - TBD
+  * - 12/02/2025 @ 14:00
     - Lab meeting
-    - Frank
-    - Data presentation 1/f exponent drives ripple detection
+    - Sianna
+    - Progress report
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
