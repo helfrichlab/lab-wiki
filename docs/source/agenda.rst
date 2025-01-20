@@ -16,12 +16,16 @@ Upcoming team meetings
     - Topic
   * - 22/02/2025 @ 14:00
     - Lab meeting
-    - TBD
-    - TBD
-  * - 12/02/2025 @ 14:00
+    - Randolph
+    - New year
+  * - 29/01/2025 @ 14:00
     - Lab meeting
     - Sianna
     - Progress report
+  * - 12/02/2025 @ 14:00
+    - Lab meeting
+    - Dillon
+    - Presentation (potential postdoc)
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
