@@ -21,7 +21,11 @@ Upcoming team meetings
   * - 12/02/2025 @ 17:00
     - Lab meeting
     - Dillan
-    - Presentation (potential postdoc)
+    - Guest speaker (potential postdoc)
+  * - 14/02/2025 @ 14:00
+    - Lab meeting
+    - Shaira
+    - Guest speaker (potential postdoc)
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
