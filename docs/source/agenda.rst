@@ -14,18 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 29/01/2025 @ 14:00
+  * - 26/02/2025 @ 14:00
     - Lab meeting
-    - Sianna
-    - Progress report
-  * - 12/02/2025 @ 17:00
-    - Lab meeting
-    - Dillan
-    - Guest speaker (potential postdoc)
-  * - 14/02/2025 @ 14:00
-    - Lab meeting
-    - Shaira
-    - Guest speaker (potential postdoc)
+    - Michi
+    - `Paper discussion <https://www.science.org/doi/10.1126/science.adr3339>`_
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
