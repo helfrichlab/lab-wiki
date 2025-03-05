@@ -14,6 +14,7 @@ An overview for variable online datasets.
 
 * `MRI, PET, MEG, EEG, and iEEG data <https://openneuro.org/>`_
 * `Openly available datasets in (mostly human) electrophysiology <https://github.com/openlists/ElectrophysiologyData>`_
+* `EEG dataset for interictal epileptiform discharge <https://www.nature.com/articles/s41597-025-04572-1>`_
 
 2. Data organization
 ---------
@@ -22,4 +23,3 @@ An overview for variable online datasets.
 
 3. Other
 ---------
-
