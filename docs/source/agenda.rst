@@ -63,10 +63,10 @@ Upcoming Conferences
   * - 18-21/06/20025
     - `PUG 2025 <https://www.pug2025.org/>`_
     - Würzburg
-    - TBA
-    - TBA
+    - 31/03/2025
+    - 30/04/2025
   * - 12-15/08/2025
-    - `CCN 2025 <https://2024.ccneuro.org/>`_
+    - `CCN 2025 <https://2025.ccneuro.org/>`_
     - Amsterdam, NL
     - TBA
     - TBA
