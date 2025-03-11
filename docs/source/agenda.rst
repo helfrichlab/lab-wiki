@@ -14,10 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 26/02/2025 @ 14:00
+  * - 26/03/2025 @ 14:00
     - Lab meeting
-    - Michi
-    - `Paper discussion <https://www.science.org/doi/10.1126/science.adr3339>`_
+    - Nikos
+    - Postdoc applicant presentation
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
@@ -36,8 +36,8 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - TBA
-    - TBA
+  * - 25/03/2025
+    - Take Nikos (postdoc applicant) out
     - TBA
 
 
