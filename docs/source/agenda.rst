@@ -36,9 +36,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-* - 15/05/2025
-  - Mario Kart Tournament
-  - HIH conference room
+  * - 15/05/2025
+    - Mario Kart Tournament
+    - HIH conference room
 
 .. _conferences:
 
