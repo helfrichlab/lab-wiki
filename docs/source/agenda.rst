@@ -18,10 +18,6 @@ Upcoming team meetings
     - Lab meeting
     - Neha
     - `Journal club <https://pubmed.ncbi.nlm.nih.gov/39178858/>`_
-  * - 16/04/2025 @ 15:00
-	- Pitch
-	- Michael Moroz
-	- Postdoc applicant presenting previous work
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
