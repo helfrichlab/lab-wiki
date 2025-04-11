@@ -21,7 +21,7 @@ Upcoming team meetings
   * - 16/04/2025 @ 15:00
     - Lab meeting
     - Michael Moroz
-    - Postdoc applicant
+    - Postback applicant presentation
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
