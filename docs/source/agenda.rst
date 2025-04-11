@@ -36,10 +36,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 25/03/2025
-    - Take Nikos (postdoc applicant) out
-    - TBA
-
+  * - TBD
+    - Mario Kart Tournament
+    - HIH conference room
 
 .. _conferences:
 
