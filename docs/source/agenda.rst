@@ -14,14 +14,10 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 16/04/2025 @ 14:00
+  * - 23/04/2025 @ 15:00
     - Lab meeting
-    - Neha
-    - `Journal club <https://pubmed.ncbi.nlm.nih.gov/39178858/>`_
-  * - 16/04/2025 @ 15:00
-    - Lab meeting
-    - Michael Moroz
-    - Postback applicant presentation
+    - Jonas
+    - `Journal club <https://www.nature.com/articles/s41467-025-58187-6>`_
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
