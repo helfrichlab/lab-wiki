@@ -14,10 +14,18 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
+  * - 14/05/2025 @ 16:00
+    - Lab meeting
+    - Griffin Light
+    - Present his work with Cory Inman
   * - 23/04/2025 @ 15:00
     - Lab meeting
     - Jonas
     - `Journal club <https://www.nature.com/articles/s41467-025-58187-6>`_
+  * - 28/05/2025 @ 14:00 - 16:30
+    - Lab meeting
+    - TBD
+    - TBD
 
 `Journal club backlog <https://docs.google.com/document/d/1bJqVSzknrPOcIwVknGQa5QZWWZV_vq9BLMu3w0eH9Jg/edit#>`_
 
