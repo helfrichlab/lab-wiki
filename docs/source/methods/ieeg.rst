@@ -71,10 +71,10 @@ iEEG
 
 2. Documents
 ---------
-* `TUE iEEG patient consent form (AG Helfrich)<https://drive.google.com/file/d/1_dV9Btn5-0i_N6mfswm3epMOpcqRnI95/view?usp=drive_link>`_
-* `TUE iEEG patient information sheet (AG Helfrich)<https://drive.google.com/file/d/1nFo9Jwfeh9eFXFikPNcH9_3wWDJ-PNRb/view?usp=drive_link>`_
-* `TUE iEEG patient consent form (AG Oganian)<https://docs.google.com/document/d/128lMnHE7jJuJOzEhm60G-jINCOpaLQxy/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
-* `TUE iEEG patient intake survey (AG Oganian)<https://drive.google.com/file/d/1N7B_syIjQn6bQOBjzOXR6LM9XVnBpaLu/view?usp=drive_link>`_
+* `TUE iEEG patient consent form (AG Helfrich) <https://drive.google.com/file/d/1_dV9Btn5-0i_N6mfswm3epMOpcqRnI95/view?usp=drive_link>`_
+* `TUE iEEG patient information sheet (AG Helfrich) <https://drive.google.com/file/d/1nFo9Jwfeh9eFXFikPNcH9_3wWDJ-PNRb/view?usp=drive_link>`_
+* `TUE iEEG patient consent form (AG Oganian) <https://docs.google.com/document/d/128lMnHE7jJuJOzEhm60G-jINCOpaLQxy/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
+* `TUE iEEG patient intake survey (AG Oganian) <https://drive.google.com/file/d/1N7B_syIjQn6bQOBjzOXR6LM9XVnBpaLu/view?usp=drive_link>`_
 * `TUE iEEG electrode information sheet <https://drive.google.com/file/d/1me4D_UT2YULn823p5ozVYnNfzrn9KacC/view?usp=drive_linkg>`_
 * `TUE iEEG recording sheet <https://drive.google.com/file/d/1C2RIVT56SW-NAZHh8nHHQVft2VepwKpR/view?usp=sharing>`_
 * `TUE iEEG task overiew <https://docs.google.com/spreadsheets/d/1bObFexVnTqAx4LjixtlGUuJBR6R3__Ur/edit?usp=drive_link&ouid=104327315070915086176&rtpof=true&sd=true>`_
