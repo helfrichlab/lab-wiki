@@ -14,15 +14,11 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 14/05/2025 @ 16:00
+  * - 25/06/2025 @ 14:00
     - Lab meeting
-    - Griffin Light
-    - Present his work with Cory Inman
-  * - 23/04/2025 @ 15:00
-    - Lab meeting
-    - Jonas
-    - `Journal club <https://www.nature.com/articles/s41467-025-58187-6>`_
-  * - 28/05/2025 @ 14:00 - 16:30
+    - Paul Fiedler
+    - Present his work on the BSc. thesis
+  * - 02/07/2025 @ 14:00
     - Lab meeting
     - TBD
     - TBD
@@ -62,17 +58,6 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-  * - 29/03-01/04/2025
-    - `CNS 2025 <https://www.cogneurosociety.org/annual-meeting/>`_
-    - Boston, USA
-    - 24/09/2024
-    - 06/11/2024
-  * - 18-21/06/20025
-    - `PUG 2025 <https://www.pug2025.org/>`_
-    - Würzburg
-    - 31/03/2025
-    - 30/04/2025
-  * - 12-15/08/2025
     - `CCN 2025 <https://2025.ccneuro.org/>`_
     - Amsterdam, NL
     - TBA
