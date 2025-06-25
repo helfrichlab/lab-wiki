@@ -14,11 +14,11 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 25/06/2025 @ 14:00
+  * - 02/07/2025 @ 14:00
     - Lab meeting
     - Paul Fiedler
     - Present his work on the BSc. thesis
-  * - 02/07/2025 @ 14:00
+  * - 09/07/2025 @ 14:00
     - Lab meeting
     - TBD
     - TBD
