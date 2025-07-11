@@ -58,7 +58,7 @@ Upcoming Conferences
     - Location
     - Abstract
     - Registration
-    - `CCN 2025 <https://2025.ccneuro.org/>`_
+  * - `CCN 2025 <https://2025.ccneuro.org/>`_
     - Amsterdam, NL
     - TBA
     - TBA
