@@ -14,11 +14,11 @@ Upcoming team meetings
     - Activity
     - Presenter
     - Topic
-  * - 02/07/2025 @ 14:00
+  * - 16/07/2025 @ 14:00
     - Lab meeting
-    - Paul Fiedler
-    - Present his work on the BSc. thesis
-  * - 09/07/2025 @ 14:00
+    - TBD
+    - TBD
+  * - 23/07/2025 @ 14:00
     - Lab meeting
     - TBD
     - TBD
@@ -40,9 +40,9 @@ Upcoming lab activities
   * - Date & Time
     - Activity
     - Location
-  * - 01/07/2025
-    - Mario Kart Tournament
-    - HIH conference room
+  * - 16/07/2025
+    - Celebration Laura (DAAD Stipend) and Isabel (PLOS Publication)
+    - BBQ in the woods
 
 .. _conferences:
 
@@ -67,3 +67,8 @@ Upcoming Conferences
     - Porto, PT
     - `30/04/2025 <https://icon2025.pt/authors/abstract-submission-poster>`_
     - `01/01/2025 <https://icon2025.pt/registration>`_
+  * - 04-08/07/2026
+    - `FENS 2026 <https://fensforum.org/>`_
+    - Barcelona, ES
+    - TBA
+    - TBA
